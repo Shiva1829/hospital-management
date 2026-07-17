@@ -1,0 +1,279 @@
+/* ===========================
+   FOOTER
+=========================== */
+
+.footer{
+    background: linear-gradient(135deg,#0f172a,#1e293b);
+    color:#fff;
+    padding:80px 8% 30px;
+    margin-top:80px;
+}
+
+/* ===========================
+   TOP
+=========================== */
+
+.footer-top{
+    display:grid;
+    grid-template-columns:2fr 1fr 1fr 1.5fr;
+    gap:50px;
+    margin-bottom:40px;
+}
+
+/* ===========================
+   LOGO
+=========================== */
+
+.footer-logo{
+    display:flex;
+    align-items:center;
+    gap:15px;
+    margin-bottom:20px;
+}
+
+.footer-logo-icon{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background:linear-gradient(135deg,#2563eb,#38bdf8);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:26px;
+    color:white;
+    box-shadow:0 12px 30px rgba(37,99,235,.4);
+}
+
+.footer-logo h2{
+    font-size:28px;
+    margin:0;
+}
+
+.footer-logo span{
+    color:#38bdf8;
+    font-size:14px;
+    font-weight:600;
+}
+
+.footer-column p{
+    color:#cbd5e1;
+    line-height:1.8;
+    margin-top:15px;
+}
+
+/* ===========================
+   HEADINGS
+=========================== */
+
+.footer-column h3{
+    font-size:22px;
+    margin-bottom:22px;
+    position:relative;
+}
+
+.footer-column h3::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-8px;
+    width:60px;
+    height:3px;
+    background:#38bdf8;
+    border-radius:20px;
+}
+
+/* ===========================
+   LINKS
+=========================== */
+
+.footer-column ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+
+.footer-column li{
+    margin-bottom:14px;
+}
+
+.footer-column a{
+    color:#cbd5e1;
+    text-decoration:none;
+    transition:.3s;
+    font-size:16px;
+}
+
+.footer-column a:hover{
+    color:#38bdf8;
+    padding-left:8px;
+}
+
+/* ===========================
+   HOURS
+=========================== */
+
+.footer-hours{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:15px;
+    color:#cbd5e1;
+    border-bottom:1px solid rgba(255,255,255,.08);
+    padding-bottom:12px;
+}
+
+.footer-hours strong{
+    color:#38bdf8;
+    font-size:15px;
+}
+
+/* ===========================
+   CONTACT
+=========================== */
+
+.footer-contact{
+    display:flex;
+    align-items:flex-start;
+    gap:14px;
+    margin-bottom:20px;
+    color:#cbd5e1;
+}
+
+.footer-contact svg{
+    color:#38bdf8;
+    font-size:20px;
+    margin-top:3px;
+}
+
+/* ===========================
+   SOCIAL
+=========================== */
+
+.social-icons{
+    display:flex;
+    gap:15px;
+    margin-top:30px;
+}
+
+.social-icons a{
+    width:45px;
+    height:45px;
+    border-radius:50%;
+    background:#1e3a8a;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    font-size:18px;
+    transition:.35s;
+}
+
+.social-icons a:hover{
+    transform:translateY(-6px) scale(1.1);
+    background:linear-gradient(135deg,#2563eb,#38bdf8);
+    box-shadow:0 12px 30px rgba(37,99,235,.4);
+}
+
+/* ===========================
+   LINE
+=========================== */
+
+.footer hr{
+    border:none;
+    border-top:1px solid rgba(255,255,255,.12);
+    margin:35px 0;
+}
+
+/* ===========================
+   BOTTOM
+=========================== */
+
+.footer-bottom{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.footer-bottom p{
+    color:#94a3b8;
+    margin:0;
+}
+
+.footer-policy{
+    display:flex;
+    gap:25px;
+}
+
+.footer-policy a{
+    color:#94a3b8;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.footer-policy a:hover{
+    color:#38bdf8;
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:1200px){
+
+.footer-top{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+@media(max-width:768px){
+
+.footer{
+padding:60px 30px 25px;
+}
+
+.footer-top{
+grid-template-columns:1fr;
+gap:40px;
+}
+
+.footer-bottom{
+flex-direction:column;
+text-align:center;
+}
+
+.footer-policy{
+justify-content:center;
+flex-wrap:wrap;
+}
+
+.footer-logo{
+justify-content:center;
+text-align:center;
+}
+
+.footer-column{
+text-align:center;
+}
+
+.footer-column h3::after{
+left:50%;
+transform:translateX(-50%);
+}
+
+.footer-contact{
+justify-content:center;
+}
+
+.footer-hours{
+flex-direction:column;
+gap:5px;
+align-items:center;
+}
+
+.social-icons{
+justify-content:center;
+}
+
+}

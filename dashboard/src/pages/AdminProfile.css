@@ -1,0 +1,249 @@
+/* ============================= */
+/* ADMIN PROFILE PAGE */
+/* ============================= */
+
+.adminProfilePage {
+  min-height: 100vh;
+  padding: 40px;
+  background: linear-gradient(135deg, #f4f8ff, #eef5ff);
+  font-family: "Poppins", sans-serif;
+}
+
+/* ============================= */
+/* HERO SECTION */
+/* ============================= */
+
+.adminHero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  color: white;
+  border-radius: 24px;
+  padding: 45px;
+  margin-bottom: 35px;
+  box-shadow: 0 15px 40px rgba(37, 99, 235, 0.3);
+}
+
+.heroLeft {
+  max-width: 70%;
+}
+
+.adminBadge {
+  display: inline-block;
+  background: rgba(255,255,255,.18);
+  padding: 8px 18px;
+  border-radius: 30px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin-bottom: 18px;
+}
+
+.heroLeft h1 {
+  font-size: 42px;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.heroLeft h1 span {
+  color: #ffe082;
+}
+
+.heroLeft p {
+  font-size: 17px;
+  line-height: 1.8;
+  opacity: .95;
+}
+
+.heroRight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.adminAvatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.15);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 65px;
+  color: white;
+  backdrop-filter: blur(12px);
+  border: 3px solid rgba(255,255,255,.3);
+}
+
+/* ============================= */
+/* STATS */
+/* ============================= */
+
+.profileStats {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 25px;
+  margin-bottom: 35px;
+}
+
+.statCard {
+  background: white;
+  border-radius: 20px;
+  padding: 28px;
+  text-align: center;
+  transition: .35s;
+  box-shadow: 0 12px 30px rgba(0,0,0,.08);
+}
+
+.statCard:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 45px rgba(37,99,235,.18);
+}
+
+.statIcon {
+  font-size: 45px;
+  color: #2563eb;
+  margin-bottom: 18px;
+}
+
+.statCard h2 {
+  font-size: 32px;
+  color: #1e293b;
+  margin-bottom: 8px;
+}
+
+.statCard p {
+  color: #64748b;
+  font-size: 15px;
+}
+
+/* ============================= */
+/* PROFILE CARD */
+/* ============================= */
+
+.profileCard {
+  background: white;
+  border-radius: 24px;
+  padding: 35px;
+  box-shadow: 0 15px 35px rgba(0,0,0,.08);
+}
+
+.profileHeader {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 35px;
+}
+
+.profileImage {
+  width: 90px;
+  height: 90px;
+  background: linear-gradient(135deg,#2563eb,#3b82f6);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 42px;
+}
+
+.profileHeader h2 {
+  margin: 0;
+  font-size: 28px;
+  color: #1e293b;
+}
+
+.profileHeader span {
+  color: #64748b;
+}
+
+/* ============================= */
+/* PROFILE GRID */
+/* ============================= */
+
+.profileGrid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 22px;
+}
+
+.profileItem {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  padding: 22px;
+  border-radius: 18px;
+  background: #f8fbff;
+  transition: .35s;
+}
+
+.profileItem:hover {
+  background: #2563eb;
+  color: white;
+  transform: translateY(-5px);
+}
+
+.profileItem:hover h4,
+.profileItem:hover p,
+.profileItem:hover .itemIcon {
+  color: white;
+}
+
+.itemIcon {
+  font-size: 28px;
+  color: #2563eb;
+}
+
+.profileItem h4 {
+  margin-bottom: 6px;
+  color: #1e293b;
+}
+
+.profileItem p {
+  color: #64748b;
+  font-size: 15px;
+}
+
+/* ============================= */
+/* RESPONSIVE */
+/* ============================= */
+
+@media(max-width:1100px){
+
+.profileStats{
+grid-template-columns:1fr;
+}
+
+.profileGrid{
+grid-template-columns:1fr;
+}
+
+}
+
+@media(max-width:768px){
+
+.adminProfilePage{
+padding:20px;
+}
+
+.adminHero{
+flex-direction:column;
+text-align:center;
+padding:30px;
+}
+
+.heroLeft{
+max-width:100%;
+margin-bottom:25px;
+}
+
+.heroLeft h1{
+font-size:32px;
+}
+
+.profileHeader{
+flex-direction:column;
+text-align:center;
+}
+
+}

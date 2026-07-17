@@ -1,0 +1,1910 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Defect Report Template: Better Format Than Excel</title>
+<meta name="description" content="This free defect report template makes completing defect reports easy and efficient. It has a better format than templates in Excel."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://sitemate.com/templates/quality/forms/defect-report-template/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Defect Report Template: Better Format Than Excel" />
+<meta property="og:description" content="This free defect report template makes completing defect reports easy and efficient. It has a better format than templates in Excel." />
+<meta property="og:url" content="https://sitemate.com/templates/quality/forms/defect-report-template/" />
+<meta property="og:site_name" content="Sitemate" />
+<meta property="og:updated_time" content="2026-03-06T02:46:05+00:00" />
+<meta property="og:image" content="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-001.jpg" />
+<meta property="og:image:secure_url" content="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-001.jpg" />
+<meta property="og:image:width" content="1240" />
+<meta property="og:image:height" content="1754" />
+<meta property="og:image:alt" content="Defect report template" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Defect Report Template: Better Format Than Excel" />
+<meta name="twitter:description" content="This free defect report template makes completing defect reports easy and efficient. It has a better format than templates in Excel." />
+<meta name="twitter:image" content="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-001.jpg" />
+<meta name="twitter:label1" content="Time to read" />
+<meta name="twitter:data1" content="9 minutes" />
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Sitemate &raquo; Feed" href="https://sitemate.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sitemate &raquo; Comments Feed" href="https://sitemate.com/comments/feed/" />
+<link rel="preload" href="https://sitemate.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://sitemate.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sitemate.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.5"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://sitemate.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.5' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{fill:currentColor;height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fl-heading-text: #2e3940;--wp--preset--color--fl-body-bg: #ffffff;--wp--preset--color--fl-body-text: #6d7783;--wp--preset--color--fl-accent: #2e81da;--wp--preset--color--fl-accent-hover: #2e81da;--wp--preset--color--fl-topbar-bg: #2e81da;--wp--preset--color--fl-topbar-text: #ffffff;--wp--preset--color--fl-topbar-link: #ffffff;--wp--preset--color--fl-topbar-hover: #ffffff;--wp--preset--color--fl-header-bg: #ffffff;--wp--preset--color--fl-header-text: #8299ae;--wp--preset--color--fl-header-link: #8299ae;--wp--preset--color--fl-header-hover: #2e3940;--wp--preset--color--fl-nav-bg: #ffffff;--wp--preset--color--fl-nav-link: #757575;--wp--preset--color--fl-nav-hover: #2b7bb9;--wp--preset--color--fl-content-bg: #ffffff;--wp--preset--color--fl-footer-widgets-bg: #f5f6f7;--wp--preset--color--fl-footer-widgets-text: #8299ae;--wp--preset--color--fl-footer-widgets-link: #ffffff;--wp--preset--color--fl-footer-widgets-hover: #ffffff;--wp--preset--color--fl-footer-bg: #f5f6f7;--wp--preset--color--fl-footer-text: #8299ae;--wp--preset--color--fl-footer-link: #8299ae;--wp--preset--color--fl-footer-hover: #8299ae;--wp--preset--color--default-blue: #0085E8;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='jquery-magnificpopup-css' href='https://sitemate.com/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.10.2-b-modified-1777884119' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-2372-css' href='https://sitemate.com/wp-content/uploads/bb-plugin/cache/2372-layout.css?ver=9d1776284c9053add82f4932e357b39d-b-modified-1781245401' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css' href='https://sitemate.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.0.4-b-modified-1778550931' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=3.1.8-b-modified-1777884141' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css' href='https://sitemate.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.10.2-b-modified-1777884119' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-bundle-c9e3964ccfa6cfdc389e2414069cdf0c-css' href='https://sitemate.com/wp-content/uploads/bb-plugin/cache/c9e3964ccfa6cfdc389e2414069cdf0c-layout-bundle.css?ver=2.10.2-1.5.3-b-modified-1781514147' media='all' />
+<link rel='stylesheet' id='font-awesome-free-css' href='//use.fontawesome.com/releases/v5.0.12/css/all.css?ver=6.8.5' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://sitemate.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.19.2-b-modified-1770177017' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://sitemate.com/wp-content/uploads/bb-theme/skin-6a1cde6201aff.css?ver=1.7.19.2-b-modified-1780276834' media='all' />
+<link rel='stylesheet' id='fl-child-theme-css' href='https://sitemate.com/wp-content/themes/bb-theme-child/style.css?ver=6.8.5-b-modified-1757636413' media='all' />
+<link rel='stylesheet' id='fl-builder-google-fonts-ef31e50e9499df7520f8da9ac2891f45-css' href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C700%2C500&#038;ver=6.8.5' media='all' />
+<script defer="defer" src="https://sitemate.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="trp-language-cookie-js-extra">
+var trp_language_cookie_data = {"abs_home":"https:\/\/sitemate.com","url_slugs":{"en_US":"us","en_AU":"au","en_GB":"uk","en_NZ":"nz","en_ZA":"za","de_DE":"de","en_CA":"ca"},"cookie_name":"trp_language","cookie_age":"30","cookie_path":"\/","default_language":"en_US","publish_languages":["en_US","en_AU","en_GB","en_NZ","en_ZA","de_DE"],"trp_ald_ajax_url":"https:\/\/sitemate.com\/wp-content\/plugins\/translatepress-business\/add-ons-pro\/automatic-language-detection\/includes\/trp-ald-ajax.php","detection_method":"ip-browser","popup_option":"no_popup","popup_type":"normal_popup","popup_textarea":"We've detected you might be speaking a different language. Do you want to change to:","popup_textarea_change_button":"Change Language","popup_textarea_close_button":"Close and do not switch language","iso_codes":{"en_US":"en","en_AU":"en","en_GB":"en","en_NZ":"en","en_ZA":"en","de_DE":"de"},"language_urls":{"en_US":"https:\/\/sitemate.com\/templates\/quality\/forms\/defect-report-template\/","en_AU":"https:\/\/sitemate.com\/au\/templates\/quality\/forms\/defect-report-template\/","en_GB":"https:\/\/sitemate.com\/uk\/templates\/quality\/forms\/defect-report-template\/","en_NZ":"https:\/\/sitemate.com\/nz\/templates\/quality\/forms\/defect-report-template\/","en_ZA":"https:\/\/sitemate.com\/za\/templates\/quality\/forms\/defect-report-template\/","de_DE":"https:\/\/sitemate.com\/de\/templates\/quality\/forms\/defect-report-template\/"},"english_name":{"en_US":"English (United States)","en_AU":"English (Australia)","en_GB":"English (UK)","en_NZ":"English (New Zealand)","en_ZA":"English (South Africa)","de_DE":"German"},"is_iphone_user_check":""};
+</script>
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/translatepress-business/add-ons-pro/automatic-language-detection/assets/js/trp-language-cookie.js?ver=1.1.1-b-modified-1777884138" id="trp-language-cookie-js"></script>
+<link rel="https://api.w.org/" href="https://sitemate.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://sitemate.com/wp-json/wp/v2/pages/2372" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sitemate.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.5" />
+<link rel='shortlink' href='https://sitemate.com/?p=2372' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://sitemate.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsitemate.com%2Ftemplates%2Fquality%2Fforms%2Fdefect-report-template%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://sitemate.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsitemate.com%2Ftemplates%2Fquality%2Fforms%2Fdefect-report-template%2F&#038;format=xml" />
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><link rel="alternate" hreflang="en-US" href="https://sitemate.com/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="en-AU" href="https://sitemate.com/au/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="en-GB" href="https://sitemate.com/uk/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="en-NZ" href="https://sitemate.com/nz/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="en-ZA" href="https://sitemate.com/za/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="de-DE" href="https://sitemate.com/de/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="en" href="https://sitemate.com/templates/quality/forms/defect-report-template/"/>
+<link rel="alternate" hreflang="de" href="https://sitemate.com/de/templates/quality/forms/defect-report-template/"/>
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+		<link rel="icon" href="https://sitemate.com/wp-content/uploads/2026/05/favicon.svg" sizes="32x32" />
+<link rel="icon" href="https://sitemate.com/wp-content/uploads/2026/05/favicon.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sitemate.com/wp-content/uploads/2026/05/favicon.svg" />
+<meta name="msapplication-TileImage" content="https://sitemate.com/wp-content/uploads/2026/05/favicon.svg" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T46RNQF');</script>
+<!-- End Google Tag Manager -->
+
+<link href="https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500;700&display=swap" rel="stylesheet">
+
+<!-- Google Site Verification (Keep These) -->
+<meta name="google-site-verification" content="guZB4AwtIBRsHLhH_r8sqmgDO9oj5nE2ed4qCplL5mE" />
+<meta name="google-site-verification" content="8yTTy_mLdsqWSa6KqLgAlWVcvH6tEgK6FF87YjkedF4" />
+<meta name="google-site-verification" content="M5nplLP1jWlLi6szVKMTQGx3xVHklkk0yyEM17JLx8c" />
+
+<!-- Microsoft Verification (Keep These) -->
+<meta name="msvalidate.01" content="9A59E0D0B5D049FAFD09BE60665C4368" />
+<meta name="msvalidate.01" content="9844890C071A8EC6E4B5BBECCFD7DE6B" />
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T46RNQF"
+height="0" width="0" style="display:none;visibility:hidden" loading="lazy"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Meta Verification -->
+<meta name="facebook-domain-verification" content="njo6k6txk4d7uef5cljiwvhbafyl1u" />
+
+</head>
+<body class="wp-singular page-template-default page page-id-2372 wp-theme-bb-theme wp-child-theme-bb-theme-child fl-builder fl-builder-2-10-2 fl-themer-1-5-3 fl-theme-1-7-19-2 fl-no-js cookies-not-set translatepress-en_US fl-theme-builder-header fl-theme-builder-header-main-menu-nav-v2 fl-theme-builder-footer fl-theme-builder-footer-universal-footer-copy fl-framework-bootstrap fl-preset-default fl-full-width fl-submenu-indicator fl-submenu-toggle fl-nav-collapse-menu" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a><div class="fl-page">
+	<header class="fl-builder-content fl-builder-content-21470 fl-builder-global-templates-locked" data-post-id="21470" data-type="header" data-sticky="1" data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0" data-overlay-bg="transparent" data-shrink-image-height="50px" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-610cd2d156125 fl-row-default-height fl-row-align-center" data-node="610cd2d156125">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-610cd2d156129 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="610cd2d156129">
+			<div class="fl-col fl-node-610cd2d15612a fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="610cd2d15612a">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-html fl-html fl-node-610cd50394e84" data-node="610cd50394e84">
+	<a class="nav-logo-sm" href="https://sitemate.com"><img decoding="async" src="https://sitemate.com/wp-content/uploads/2026/05/sitemate-nav-logo.svg" loading="lazy"></a></div>
+</div>
+</div>
+			<div class="fl-col fl-node-610cd2d15612b fl-col-bg-color fl-col-small-custom-width fl-visible-desktop fl-visible-large" data-node="610cd2d15612b">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-610cd2d15612d nav-text" data-node="610cd2d15612d">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu fl-menu-responsive-toggle-medium-mobile">
+	<button class="fl-menu-mobile-toggle hamburger-label fl-content-ui-button" aria-haspopup="menu" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span><span class="fl-menu-mobile-toggle-label" aria-haspopup="menu" aria-label="Menu">Menu</span></button>	<div class="fl-clear"></div>
+	<nav aria-label="Navigation Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-current-menu-top-nav-left" class="menu fl-menu-horizontal fl-toggle-none"><li id="menu-item-6817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-6817">Products</a></div><ul id="sub-menu-6817" class="sub-menu">	<li id="menu-item-53505" class="new-menu-storm menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/product/storm/"><p>Storm</p><p class="menu-item-description">The #1 AI Data Capture Agent</p></a></li>	<li id="menu-item-47328" class="new-menu-dashpivot menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/"><p>Dashpivot</p><p class="menu-item-description">Safety, quality, field reporting platform</p></a></li>	<li id="menu-item-47329" class="new-menu-gearbelt menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/gearbelt/"><p>Gearbelt</p><p class="menu-item-description">Fleet &#038; asset management platform</p></a></li>	<li id="menu-item-47330" class="new-menu-flowsite menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/flowsite/"><p>Flowsite</p><p class="menu-item-description">No-code integrations and automations</p></a></li>	<li id="menu-item-47428" class="new-menu-sitemate-app menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/sitemate/"><p>Sitemate Mobile App</p><p class="menu-item-description">One app for every worker on site</p></a></li></ul></li><li id="menu-item-19371" class="mega-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-19371">Systems</a></div><ul id="sub-menu-19371" class="sub-menu">	<li id="menu-item-25040" class="hide-heading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-25040">Column</a></div>	<ul id="sub-menu-25040" class="sub-menu">		<li id="menu-item-46683" class="new-menu-sms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/safety-management-system/"><p>Safety</p><p class="menu-item-description">Inspections, incidents, prestarts</p></a></li>		<li id="menu-item-46688" class="new-menu-qms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/quality-management-system/"><p>Quality</p><p class="menu-item-description">ITPs, defects, audits and checklists</p></a></li>		<li id="menu-item-46689" class="new-menu-fleetms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/fleet-management-system/"><p>Fleet</p><p class="menu-item-description">Prestarts, services, defects, repairs</p></a></li>		<li id="menu-item-47302" class="new-menu-custom menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/custom-management-system/"><p>Custom</p><p class="menu-item-description">Any workflow, built your way</p></a></li></ul></li>	<li id="menu-item-25041" class="hide-heading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-25041">Column</a></div>	<ul id="sub-menu-25041" class="sub-menu">		<li id="menu-item-46695" class="new-menu-fieldms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/field-reporting-management-system/"><p>Field Reporting</p><p class="menu-item-description">Site diaries, dockets, daily reports</p></a></li>		<li id="menu-item-46694" class="new-menu-tams menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/time-and-materials-system/"><p>Time &#038; Materials</p><p class="menu-item-description">Timesheets, dockets, daysheets</p></a></li>		<li id="menu-item-53646" class="new-menu-tae menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/tools-and-equipment-management-system/"><p>Tools &#038; Equipment</p><p class="menu-item-description">Registers, checkouts, audits, returns</p></a></li></ul></li></ul></li><li id="menu-item-29092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-29092">Pricing</a></div><ul id="sub-menu-29092" class="sub-menu">	<li id="menu-item-47334" class="new-menu-dashpivot menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/pricing/"><p>Dashpivot Pricing</p><p class="menu-item-description">Integrated management system</p></a></li>	<li id="menu-item-47335" class="new-menu-gearbelt menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/gearbelt/pricing/"><p>Gearbelt Pricing</p><p class="menu-item-description">Fleet management software</p></a></li>	<li id="menu-item-47336" class="new-menu-flowsite menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/flowsite/pricing/"><p>Flowsite Pricing</p><p class="menu-item-description">No-code integrations and automations</p></a></li></ul></li><li id="menu-item-45722" class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://sitemate.com/customers/">Customers</a></li><li id="menu-item-54045" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/enterprise/">Enterprise</a></li><li id="menu-item-6774" class="mega-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-6774">Resources</a></div><ul id="sub-menu-6774" class="sub-menu">	<li id="menu-item-47398" class="hide-heading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-47398">Column</a></div>	<ul id="sub-menu-47398" class="sub-menu">		<li id="menu-item-49237" class="new-menu-videos menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/demo/"><p>Demo Videos</p></a></li>		<li id="menu-item-3290" class="new-menu-news menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/news/"><p>News</p></a></li>		<li id="menu-item-48136" class="new-menu-careers menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/careers/"><p>Careers</p></a></li>		<li id="menu-item-25754" class="new-menu-it-security menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/security/"><p>IT &#038; Security</p></a></li></ul></li>	<li id="menu-item-47402" class="hide-heading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a  aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-47402">Column</a></div>	<ul id="sub-menu-47402" class="sub-menu">		<li id="menu-item-17781" class="new-menu-integrations-api menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/dashpivot/api/"><p>Integrations &#038; API</p></a></li>		<li id="menu-item-35169" class="new-menu-about menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/about-us/"><p>About Us</p></a></li>		<li id="menu-item-48897" class="new-menu-help menu-item menu-item-type-custom menu-item-object-custom"><a  target="_blank" href="https://help.sitemate.com/en/"><p>Help</p></a></li></ul></li></ul></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-610cd4228b22d fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="610cd4228b22d">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-610cd9aec313a fl-visible-desktop fl-visible-large" data-node="610cd9aec313a">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu fl-menu-responsive-toggle-mobile">
+	<button class="fl-menu-mobile-toggle hamburger fl-content-ui-button" aria-haspopup="menu" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	<div class="fl-clear"></div>
+	<nav aria-label="Navigation Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-current-menu-top-nav-right" class="menu fl-menu-horizontal fl-toggle-none"><li id="menu-item-21475" class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://dashpivot.com/login">Login</a></li><li id="menu-item-49238" class="login-button menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/demo/">Watch demo</a></li><li id="menu-item-21477" class="try-it-button menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://dashpivot.com/signup">Try for free</a></li></ul></nav></div>
+	</div>
+</div>
+<div class="fl-module fl-module-menu fl-node-6142c0de20e59 fl-visible-medium fl-visible-mobile" data-node="6142c0de20e59">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu fl-menu-responsive-toggle-medium-mobile">
+	<button class="fl-menu-mobile-toggle hamburger-label fl-content-ui-button" aria-haspopup="menu" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span><span class="fl-menu-mobile-toggle-label" aria-haspopup="menu" aria-label="Menu">Menu</span></button>	<div class="fl-clear"></div>
+	<nav aria-label="Navigation Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-current-mobile-menu-top-nav" class="menu fl-menu-horizontal fl-toggle-arrows"><li id="menu-item-21553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a >Platforms</a><span role="button" tabindex="0" aria-label="Platforms submenu toggle" aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-21553" class="fl-menu-toggle fl-content-ui-button"></span></div><ul id="sub-menu-21553" class="sub-menu">	<li id="menu-item-53503" class="new-menu-storm menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/product/storm/"><p>Storm</p><p class="menu-item-description">The #1 AI Data Capture Agent</p></a></li>	<li id="menu-item-21555" class="new-menu-dashpivot menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/"><p>Dashpivot</p><p class="menu-item-description">Built for every workflow on site</p></a></li>	<li id="menu-item-35876" class="new-menu-gearbelt menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/gearbelt/"><p>Gearbelt</p><p class="menu-item-description">Fleet &#038; asset management platform</p></a></li>	<li id="menu-item-26963" class="new-menu-flowsite menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/flowsite/"><p>Flowsite</p><p class="menu-item-description">No-code integrations for built world</p></a></li>	<li id="menu-item-47427" class="new-menu-sitemate-app menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/sitemate/"><p>Sitemate App</p><p class="menu-item-description">One app for every worker on site</p></a></li></ul></li><li id="menu-item-21557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a >Systems</a><span role="button" tabindex="0" aria-label="Systems submenu toggle" aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-21557" class="fl-menu-toggle fl-content-ui-button"></span></div><ul id="sub-menu-21557" class="sub-menu">	<li id="menu-item-46739" class="new-menu-sms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/safety-management-system/"><p>Safety Management</p></a></li>	<li id="menu-item-46738" class="new-menu-qms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/quality-management-system/"><p>Quality Management</p></a></li>	<li id="menu-item-46740" class="new-menu-fieldms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/field-reporting-management-system/"><p>Field Reporting Management</p></a></li>	<li id="menu-item-46737" class="new-menu-tams menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/time-and-materials-system/"><p>Time &#038; Materials</p></a></li>	<li id="menu-item-46736" class="new-menu-fleetms menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/fleet-management-system/"><p>Fleet Management</p></a></li>	<li id="menu-item-53647" class="new-menu-tae menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/tools-and-equipment-management-system/"><p>Tools and Equipment Management</p></a></li>	<li id="menu-item-53648" class="new-menu-custom menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/systems/custom-management-system/"><p>Custom Management</p></a></li></ul></li><li id="menu-item-29094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a >Pricing</a><span role="button" tabindex="0" aria-label="Pricing submenu toggle" aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-29094" class="fl-menu-toggle fl-content-ui-button"></span></div><ul id="sub-menu-29094" class="sub-menu">	<li id="menu-item-21563" class="menu-dashpivot-pricing menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/pricing/">Dashpivot Systems Cloud<p class="menu-item-description">HSEQ, project delivery, time tracking, reporting</p></a></li>	<li id="menu-item-36075" class="menu-gearbelt-pricing menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/gearbelt/pricing/">Gearbelt Assets Cloud<p class="menu-item-description">End-to-end Asset Management</p></a></li>	<li id="menu-item-29093" class="menu-flowsite-pricing menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/flowsite/pricing/">Flowsite Integrations Cloud<p class="menu-item-description">No-code integrations &#038; automation</p></a></li></ul></li><li id="menu-item-45725" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/customers/">Customers</a></li><li id="menu-item-54056" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/enterprise/">Enterprise</a></li><li id="menu-item-21561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a >Resources</a><span role="button" tabindex="0" aria-label="Resources submenu toggle" aria-haspopup="menu" aria-expanded="false" aria-controls="sub-menu-21561" class="fl-menu-toggle fl-content-ui-button"></span></div><ul id="sub-menu-21561" class="sub-menu">	<li id="menu-item-21587" class="menu-item menu-item-type-custom menu-item-object-custom"><a  target="_blank" href="https://calendly.com/d/dt2-47k-thk">Book a free personalised demo</a></li>	<li id="menu-item-49239" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/demo/">Watch demo videos</a></li>	<li id="menu-item-25755" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/security/">IT &#038; Security</a></li>	<li id="menu-item-21568" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/dashpivot/api/">Integrations</a></li>	<li id="menu-item-35170" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/about-us/">About Us</a></li>	<li id="menu-item-21589" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/news/">News</a></li>	<li id="menu-item-47423" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/resources/careers/">Careers</a></li>	<li id="menu-item-48901" class="menu-item menu-item-type-custom menu-item-object-custom"><a  target="_blank" href="https://help.sitemate.com/">Help</a></li></ul></li><li id="menu-item-21533" class="try-it-button menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://dashpivot.com/signup">Try it for free</a></li><li id="menu-item-49240" class="login-button menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sitemate.com/software/dashpivot/demo/">Watch demos</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</header>	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+
+		
+<div class="fl-content-full container">
+	<div class="row">
+		<div class="fl-content col-md-12">
+			<article class="fl-post post-2372 page type-page status-publish has-post-thumbnail hentry product-dashpivot region-global system-quality content_type-template-landing-page" id="fl-post-2372" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+
+			<div class="fl-post-content clearfix" itemprop="text">
+		<div class="fl-builder-content fl-builder-content-2372 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="2372"><div id="hidden-button" class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-6k4odvitc9f3 fl-row-default-height fl-row-align-center" data-node="6k4odvitc9f3">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-yr5fj7alk234" data-node="yr5fj7alk234">
+			<div class="fl-col fl-node-8gy6ktve9qc7 fl-col-bg-color fl-col-has-cols" data-node="8gy6ktve9qc7">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-7gju6i9ex2d4 fl-col-group-nested fl-col-group-equal-height fl-col-group-align-center" data-node="7gju6i9ex2d4">
+			<div class="fl-col fl-node-w9y5hntm0dpx fl-col-bg-color fl-col-small" data-node="w9y5hntm0dpx">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-uc38xjwp9qs1" data-node="uc38xjwp9qs1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h3 style="display: table-cell; vertical-align: middle;">Use and edit template for free</h3>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-l35w7jc82eiy fl-col-bg-color fl-col-small" data-node="l35w7jc82eiy">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-button fl-node-rc541yoxutpl" data-node="rc541yoxutpl">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-right">
+			<a href="https://dashpivot.com/signup?reference=building-construction-quotation-template&#038;templateId=5c981900e73a491f727c549d" target="_self" rel="nofollow noopener" class="fl-button">
+							<span class="fl-button-text">Use this template now</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-qhuyp0ctd6f5 fl-row-default-height fl-row-align-center" data-node="qhuyp0ctd6f5">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-lbr91720hasg" data-node="lbr91720hasg">
+			<div class="fl-col fl-node-c16ao2psbhtd fl-col-bg-color" data-node="c16ao2psbhtd">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-2k0yrj8p35fg" data-node="2k0yrj8p35fg">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h1 data-pm-slice="1 1 []">Defect Report Template: Better Format Than Excel</h1>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-adlp2rhsefwc left-sidebar" data-node="adlp2rhsefwc">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-custom fl-button-left">
+			<a href="https://dashpivot.com/signup?reference=defect-report-template&#038;templateId=5b400a0b24a35e4b2e376cd6" target="_self" rel="nofollow noopener" class="fl-button">
+							<span class="fl-button-text">Use this template now</span>
+					</a>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-075m4ufyjh9w" data-node="075m4ufyjh9w">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Start with a free 30-day trial. No credit card required.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-4vje7mhuft6n left-sidebar" data-node="4vje7mhuft6n">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Defect reports are important tools for maintaining quality and efficiency in construction projects. A defect report systematically identifies, documents, and resolves issues, ensuring projects stay on track and within budget. Using a standardised defect report template helps streamline the process, making it easier to track progress, assign responsibilities, and ensure all defects are promptly addressed.</p>
+<p>This free defect report template can be used electronically and has a better format than reports in Excel.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-usx4klr1m0wo left-sidebar" data-node="usx4klr1m0wo">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<div style="padding-left: 2.3em; text-indent: -2.3em;">
+<p><img decoding="async" class="check" src="https://sitemate.com/wp-content/uploads/2024/01/check.svg" alt="" loading="lazy" />   100% fully customisable defect report template</p>
+<p><img decoding="async" class="check" src="https://sitemate.com/wp-content/uploads/2024/01/check.svg" alt="" loading="lazy" />   Use version control features and set permissions for the report</p>
+<p><img decoding="async" class="check" src="https://sitemate.com/wp-content/uploads/2024/01/check.svg" alt="" loading="lazy" />   Sign-off on the defect report template with e-signatures</p>
+<p><img decoding="async" class="check" src="https://sitemate.com/wp-content/uploads/2024/01/check.svg" alt="" loading="lazy" />   Add photos or attachments to your defect report template</p>
+<p><img decoding="async" class="check" src="https://sitemate.com/wp-content/uploads/2024/01/check.svg" alt="" loading="lazy" />   Thousands of templates including other <a style="color: #8299ae;" href="https://sitemate.com/templates/quality/">quality templates</a></p>
+</div>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-raynm5u71xlt fl-col-bg-color fl-col-small" data-node="raynm5u71xlt">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-ty07k9v2d3nb" data-node="ty07k9v2d3nb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<div class="img-1-container">
+  <img decoding="async" id="template" src="https://sitemate.com/wp-content/uploads/2018/08/2018-8-10-Defect-Management-Workflow-3-page-001.jpg" alt="Defect report template" loading="lazy" />
+  <div class="middle">
+    <div id="gallery-button" class="text"><span class="homepage-video" href="#hidden-gallery" style="text-decoration: none;">Preview the full template</span></div>
+  </div>
+</div></div>
+	</div>
+</div>
+<div id="hidden-gallery" class="fl-module fl-module-gallery fl-node-7wb3dlgpefri" data-node="7wb3dlgpefri">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-mosaicflow">
+	<div role="list" class="fl-mosaicflow-content">
+				<div class="fl-mosaicflow-item">
+			<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-001.jpg" target="_self" itemprop="url">
+				<img decoding="async" width="1240" height="1754" class="fl-photo-img wp-image-2378" src="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-001.jpg" alt="Defect report template" title="Defect Management Workflow-3-page-001" loading="lazy" itemprop="image" />
+				</a>
+					</div>
+	</div>
+		</div>
+				<div class="fl-mosaicflow-item">
+			<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-002.jpg" target="_self" itemprop="url">
+				<img decoding="async" width="1240" height="1754" class="fl-photo-img wp-image-2377" src="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-002.jpg" alt="Defect report template" title="Defect Management Workflow-3-page-002" loading="lazy" itemprop="image" />
+				</a>
+					</div>
+	</div>
+		</div>
+				<div class="fl-mosaicflow-item">
+			<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-003.jpg" target="_self" itemprop="url">
+				<img decoding="async" width="1240" height="1754" class="fl-photo-img wp-image-2376" src="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-003.jpg" alt="Defect report photos" title="Defect Management Workflow-3-page-003" loading="lazy" itemprop="image" />
+				</a>
+					</div>
+	</div>
+		</div>
+				<div class="fl-mosaicflow-item">
+			<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-004.jpg" target="_self" itemprop="url">
+				<img decoding="async" width="1240" height="1754" class="fl-photo-img wp-image-2375" src="https://sitemate.com/wp-content/uploads/2018/07/2018-7-21-Defect-Management-Workflow-3-page-004.jpg" alt="Defect report example" title="Defect Management Workflow-3-page-004" loading="lazy" itemprop="image" />
+				</a>
+					</div>
+	</div>
+		</div>
+			</div role=&quot;list&quot;>
+	<div class="fl-clear"></div>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-0rw93akg1c2l fl-row-default-height fl-row-align-center" data-node="0rw93akg1c2l">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-g9yjlme06snv" data-node="g9yjlme06snv">
+			<div class="fl-col fl-node-jpkf7mqo65ay fl-col-bg-color" data-node="jpkf7mqo65ay">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-wtmcj3zifesa left-sidebar" data-node="wtmcj3zifesa">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: center;">Trusted by over 250,000 people from built-world companies of all sizes</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-qfpnhw6l7m45 fl-col-group-equal-height fl-col-group-align-bottom fl-col-group-custom-width" data-node="qfpnhw6l7m45">
+			<div class="fl-col fl-node-7d6r3aymsoh4 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="7d6r3aymsoh4">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-uy1px3k6lf2b" data-node="uy1px3k6lf2b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Frame-57.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-wubhgit9q5dr" data-node="wubhgit9q5dr">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p></p>
+<p></p>
+<p style="text-align: center;">~200 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-j0ysqt1xoriu fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="j0ysqt1xoriu">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-ad87n0zu2lgi" data-node="ad87n0zu2lgi">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Frame-58.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-la4udkv6rxep" data-node="la4udkv6rxep">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p style="text-align: center;">~20 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-lrzo9v2gdja8 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="lrzo9v2gdja8">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-eozqd1vnbawu" data-node="eozqd1vnbawu">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Group-20.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-nawcbm154doe" data-node="nawcbm154doe">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p style="text-align: center;">~25,000 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-dg9hftxilcq2 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="dg9hftxilcq2">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-fzj15bvuqm9l" data-node="fzj15bvuqm9l">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Frame-59.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-uc9ej2vpnqrm" data-node="uc9ej2vpnqrm">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p style="text-align: center;">~40 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-zk4hxj261iqw fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="zk4hxj261iqw">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-voc46w5dtj83" data-node="voc46w5dtj83">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Frame-51.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-ka8qjvr5fbzh" data-node="ka8qjvr5fbzh">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p style="text-align: center;">~10,000 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-rt71u6a459lk fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="rt71u6a459lk">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-z1gerdpnhuot" data-node="z1gerdpnhuot">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Frame-44.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-kgufy3jl51nc" data-node="kgufy3jl51nc">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p style="text-align: center;">~1,500 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-1qrz6kwy3ls9 fl-col-bg-color fl-col-small fl-col-small-custom-width fl-visible-desktop fl-visible-large fl-visible-medium" data-node="1qrz6kwy3ls9">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-lurthgo4wi72" data-node="lurthgo4wi72">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	
+
+
+
+ <img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Group-27.svg" loading="lazy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-lp48noz5qr0d" data-node="lp48noz5qr0d">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p></p>
+<p style="text-align: center;">~35,000 employees</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-r26zxdjtpiqb fl-row-default-height fl-row-align-center fl-visible-desktop fl-visible-large fl-visible-medium no-border" data-node="r26zxdjtpiqb">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-yj48vdga1uq7" data-node="yj48vdga1uq7">
+			<div class="fl-col fl-node-6nuwkqxs8be0 fl-col-bg-color fl-col-has-cols" data-node="6nuwkqxs8be0">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-pcti59ze4lby fl-col-group-nested" data-node="pcti59ze4lby">
+			<div class="fl-col fl-node-3k7rlu9j084x fl-col-bg-color" data-node="3k7rlu9j084x">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-ga4udne3v27b" data-node="ga4udne3v27b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h2 style="text-align: center;">Compare the format and functions of this defect report template to reports in Excel</h2>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-ucpnaev1dkb4 left-sidebar" data-node="ucpnaev1dkb4">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: center;">Preview this defect report sample below. Interact with it to learn its features and try customising the template to suit your needs.</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-tv3xsa1r5ucj fl-col-group-nested fl-col-group-equal-height fl-col-group-align-top" data-node="tv3xsa1r5ucj">
+			<div class="fl-col fl-node-pzwk3a98iou5 fl-col-bg-color" data-node="pzwk3a98iou5">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-4r6j3xpia10z" data-node="4r6j3xpia10z">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<iframe class="cc-frame" src="https://dashpivot.com/embed/library-apps/5b400a0b24a35e4b2e376cd6" width="1200" height="720" frameBorder="0" align="middle" loading="lazy"></iframe></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-s1gravw53x27 fl-row-default-height fl-row-align-center" data-node="s1gravw53x27">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-wvu8r5m10bod" data-node="wvu8r5m10bod">
+			<div class="fl-col fl-node-s8xcyu03gibw fl-col-bg-color fl-col-has-cols" data-node="s8xcyu03gibw">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-1rd8jmxcies3 fl-col-group-nested fl-col-group-equal-height fl-col-group-align-center" data-node="1rd8jmxcies3">
+			<div class="fl-col fl-node-wzsth2beg069 fl-col-bg-color" data-node="wzsth2beg069">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-3tw0lj415no8" data-node="3tw0lj415no8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h2>Use this defect report template for free.</h2>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-7gquwo529r3j fl-col-bg-color fl-col-small" data-node="7gquwo529r3j">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-button fl-node-qrbow98iu30z" data-node="qrbow98iu30z">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-right">
+			<a href="https://dashpivot.com/signup?reference=defect-report-template&#038;templateId=5b400a0b24a35e4b2e376cd6" target="_self" rel="nofollow noopener" class="fl-button">
+							<span class="fl-button-text">Get started now</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-1arxy5tgi4mp fl-row-default-height fl-row-align-center" data-node="1arxy5tgi4mp">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-h2kbc6gi9pj8 fl-col-group-equal-height fl-col-group-align-center" data-node="h2kbc6gi9pj8">
+			<div class="fl-col fl-node-q8hkl6jxa4if fl-col-bg-color fl-col-small fl-col-has-cols" data-node="q8hkl6jxa4if">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-vp4a5xnbtq0z" data-node="vp4a5xnbtq0z">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h3 style="text-align: left;">This defect report template was generated with Dashpivot</h3>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-gwlr47m9jboc" data-node="gwlr47m9jboc">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Defect reports need to be shared with stakeholders such as subcontractors, or suppliers so they can fix the issue. With a digital system like Dashpivot you can streamline how defect reports are completed, managed, and shared with your team and other project stakeholders:</p>
+<ul>
+<li>Access, edit and complete defect reports from any device: mobile, tablet or computer.</li>
+<li>Use customisable fields to record defect details, assign a status, identify stakeholders, recommended corrective actions, provide defect sketches, and more.</li>
+<li>Use e-signatures to sign-off before and after defect rectification.</li>
+<li>Utilise version control features so stakeholders always have access the latest version of the report.</li>
+<li>Set permissions so that only approved users can provide defect rectification sign-off.</li>
+<li>Add photos and attachments to the defect report to provide supporting evidence.</li>
+<li>Easily customise the defect report template with the drag-and-drop form builder.</li>
+</ul>
+</div>
+	</div>
+</div>
+
+<div class="fl-col-group fl-node-vz43wgkf9njh fl-col-group-nested" data-node="vz43wgkf9njh">
+			<div class="fl-col fl-node-9j26ysrq3lti fl-col-bg-color fl-col-small" data-node="9j26ysrq3lti">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-button fl-node-a8fhsdmwjgxy left-sidebar" data-node="a8fhsdmwjgxy">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://sitemate.com/quality/defect-management-software/" target="_self" class="fl-button">
+							<span class="fl-button-text">Learn more</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-sb6eack1y3mz fl-col-bg-color" data-node="sb6eack1y3mz">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-button fl-node-1ialyu3mfbkj" data-node="1ialyu3mfbkj">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://sitemate.com/software/dashpivot/demo/" target="_self" class="fl-button">
+							<span class="fl-button-text">Watch demo videos</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5wk9a8ysjt03 fl-col-bg-color fl-col-small" data-node="5wk9a8ysjt03">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-746nmwokexz8" data-node="746nmwokexz8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2020/11/Frame-72.svg" loading="lazy"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-j5pfz1y074vm fl-row-default-height fl-row-align-center" data-node="j5pfz1y074vm">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-txyluh69d45v" data-node="txyluh69d45v">
+			<div class="fl-col fl-node-jplb7s5i1o6h fl-col-bg-color" data-node="jplb7s5i1o6h">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-gdljvr3zi625" data-node="gdljvr3zi625">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" style="width: 100%" src="https://sitemate.com/wp-content/uploads/2023/01/Vector-111-1.svg" loading="lazy"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-hpzq85oli94x fl-row-default-height fl-row-align-center" data-node="hpzq85oli94x">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-96rmx5gwnf4i" data-node="96rmx5gwnf4i">
+			<div class="fl-col fl-node-zk2yal8jr6xp fl-col-bg-color fl-col-has-cols" data-node="zk2yal8jr6xp">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5r3px9esymu2" data-node="5r3px9esymu2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h2 class="function-section" style="text-align: center;">Other popular templates you can use and customise for free</h2>
+</div>
+	</div>
+</div>
+
+<div class="fl-col-group fl-node-qg3xwdjsc4tf fl-col-group-nested" data-node="qg3xwdjsc4tf">
+			<div class="fl-col fl-node-56lyck0wzmh3 fl-col-bg-color fl-col-small" data-node="56lyck0wzmh3">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-a3yo87elqx06" data-node="a3yo87elqx06">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" class="template-ft-img" src="https://sitemate.com/wp-content/uploads/2018/07/CAR.jpg" alt="Corrective Action Report template" loading="lazy" /></div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-qorav7jhgbz1" data-node="qorav7jhgbz1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Corrective Action Report (CAR) template</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-6r5yuhnj0fcz" data-node="6r5yuhnj0fcz">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Complete, share and approve corrective actions faster and easier.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-8bvlmc5t3qed left-sidebar" data-node="8bvlmc5t3qed">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-full fl-button-center">
+			<a href="https://sitemate.com/templates/quality/forms/corrective-action-report-template/" target="_self" class="fl-button">
+							<span class="fl-button-text">See the template</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-y20nxzhr7bgl fl-col-bg-color fl-col-small" data-node="y20nxzhr7bgl">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-ogyrpjnse35h" data-node="ogyrpjnse35h">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" class="template-ft-img" src="https://sitemate.com/wp-content/uploads/2018/07/Punchlist.jpg" alt="Construction Punch List template" loading="lazy" /></div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-us3eg7t0vpco" data-node="us3eg7t0vpco">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Construction Punch List template</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-j7bcwa02pn81" data-node="j7bcwa02pn81">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Punch your way through those punch lists with this more suitable template.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-tkr1b5lgd60a left-sidebar" data-node="tkr1b5lgd60a">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-full fl-button-center">
+			<a href="https://sitemate.com/templates/quality/forms/construction-punch-list-template/" target="_self" class="fl-button">
+							<span class="fl-button-text">See the template</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-a7wh3zuvyprg fl-col-bg-color fl-col-small" data-node="a7wh3zuvyprg">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-0cw1vyauodz5" data-node="0cw1vyauodz5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img fetchpriority="high" decoding="async" class="template-ft-img" src="https://sitemate.com/wp-content/uploads/2018/08/ITP.jpg" alt="Inspection and Test Plan template" width="1200" height="360" /></div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-f49w3x6okvme" data-node="f49w3x6okvme">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Inspection and Test Plan (ITP) template</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-il5t8nkgdmsw" data-node="il5t8nkgdmsw">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>No one plans to fail, they fail to plan. Ensure your projects are a success with this ITP.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-olavq12p0iz4 left-sidebar" data-node="olavq12p0iz4">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-full fl-button-center">
+			<a href="https://sitemate.com/templates/quality/forms/inspection-test-plan-template/" target="_self" class="fl-button">
+							<span class="fl-button-text">See the template</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-tilmgsj204ry fl-row-default-height fl-row-align-center" data-node="tilmgsj204ry">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-l01h5y632k8e" data-node="l01h5y632k8e">
+			<div class="fl-col fl-node-8a3lqs1mopr9 fl-col-bg-color" data-node="8a3lqs1mopr9">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-rwlsbyvgkin7" data-node="rwlsbyvgkin7">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" style="width: 100%" src="https://sitemate.com/wp-content/uploads/2023/01/Vector-112.svg" loading="lazy"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-xfqasne16c0p fl-row-default-height fl-row-align-center" data-node="xfqasne16c0p">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-26zuyjr70amo fl-col-group-equal-height fl-col-group-align-center" data-node="26zuyjr70amo">
+			<div class="fl-col fl-node-ki65q4ubmfah fl-col-bg-color" data-node="ki65q4ubmfah">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5vnf61lmy4tz" data-node="5vnf61lmy4tz">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h3 style="text-align: left;">Improve quality control with comprehensive defect reports</h3>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-hv9rycex0qi4 left-sidebar" data-node="hv9rycex0qi4">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Defect reports provide comprehensive documentation on all problems that need to be addressed on a construction project. When compiled, these reports help identify any recurring trends with defects. For the current project, identified trends can indicate if certain stakeholders are not fulfilling their duties or that changes to quality control processes are required. For future projects, these insights allow organisations to improve their quality management system and implement preventive measures.</p>
+<p>A well-structured template for defect reports guarantees that defects are thoroughly and consistently documented. This makes analysing data and identifying trends easier, leading to the more effctive implementation of improvements.</p>
+<p>An effective defect report requires the following sections:</p>
+<ul>
+<li><strong>Project and Team Information:</strong> Basic details about the project and the team handling the defect report.</li>
+<li><strong>Defect Details:</strong> Information including the form number, date identified, location reference, and involved parties such as subcontractors and suppliers.</li>
+<li><strong>Defect Description:</strong> Detailed account of the defect, accompanied by a before photo and a sketch.</li>
+<li><strong>Rectification Plan:</strong> Proposed actions to fix the defect and approval sign-off for the scheduled rectification.</li>
+<li><strong>Rectification Verification:</strong> Confirmation that the defect has been resolved, with after photos, comments, and final sign-off.</li>
+<li><strong>Additional Documentation:</strong> Extra photos, location maps, and any other relevant notes or tags for comprehensive documentation.</li>
+</ul>
+<p>You should ensure that you can export your defect reports to PDF so that they can be viewed easily on all types of devices.</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-ku2xmjfqg7vc fl-col-bg-color fl-col-small" data-node="ku2xmjfqg7vc">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-4t2j8zgnphm5" data-node="4t2j8zgnphm5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2020/11/20-11-11-User-pair-37-1-1.svg" loading="lazy"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-z8opkx0n35a4 fl-row-default-height fl-row-align-center hover-top" data-node="z8opkx0n35a4">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-fur2hvs8x7ta" data-node="fur2hvs8x7ta">
+			<div class="fl-col fl-node-4ac5wubngi2x fl-col-bg-color fl-col-small fl-col-has-cols" data-node="4ac5wubngi2x">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-2k6shjeboc8q" data-node="2k6shjeboc8q">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Sitemate builds best-in-class software tools for built world companies.</p>
+</div>
+	</div>
+</div>
+
+<div class="fl-col-group fl-node-27m4xspr3zyg fl-col-group-nested" data-node="27m4xspr3zyg">
+			<div class="fl-col fl-node-bcgu19t6ilay fl-col-bg-color fl-col-small" data-node="bcgu19t6ilay">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-button fl-node-xnzvw6s58tye" data-node="xnzvw6s58tye">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://sitemate.com" target="_self" class="fl-button">
+							<span class="fl-button-text">Learn more</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-38jkiqlpxbwt fl-col-bg-color" data-node="38jkiqlpxbwt">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-button fl-node-c7j0i1olefqw" data-node="c7j0i1olefqw">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://sitemate.com/software/dashpivot/demo/" target="_self" class="fl-button">
+							<span class="fl-button-text">Watch demo videos</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+			<div class="fl-col fl-node-hjmc6x0glukb fl-col-bg-color fl-col-small" data-node="hjmc6x0glukb">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-9ou6xd75ajwk" data-node="9ou6xd75ajwk">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<img decoding="async" class="img-center" src="https://sitemate.com/wp-content/uploads/2021/08/Group-944-2.svg" loading="lazy"></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-01sc256azkhj fl-row-default-height fl-row-align-center fl-visible-medium fl-visible-mobile" data-node="01sc256azkhj">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-du0lx6qmof8e" data-node="du0lx6qmof8e">
+			<div class="fl-col fl-node-0qlfeitd3b6h fl-col-bg-color fl-visible-medium fl-visible-mobile" data-node="0qlfeitd3b6h">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-d1og7m0xbu4z" data-node="d1og7m0xbu4z">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<a href="https://dashpivot.com/signup?reference=defect-report-template&amp;templateId=5b400a0b24a35e4b2e376cd6" rel="nofollow noopener" target="_blank">
+<div class="header">
+  <div class="progress-container">
+    <button class="button-block">Click here to use this template for free</button>
+  </div> 
+</div>
+</a></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>	</div><!-- .fl-post-content -->
+	
+</article>
+
+<!-- .fl-post -->
+		</div>
+	</div>
+</div>
+
+
+	</div><!-- .fl-page-content -->
+	<footer class="fl-builder-content fl-builder-content-47648 fl-builder-global-templates-locked" data-post-id="47648" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-2740ucd6enwz fl-row-default-height fl-row-align-center fl-visible-desktop fl-visible-large footer-container" data-node="2740ucd6enwz">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-syg5x6n8jkdi" data-node="syg5x6n8jkdi">
+			<div class="fl-col fl-node-2acnfpiyz9g0 fl-col-bg-color" data-node="2acnfpiyz9g0">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-box fl-node-k1qiycb9pmsa custom-grid" data-node="k1qiycb9pmsa">
+	<div  class="fl-module fl-module-box fl-node-8cq50lprzwyi footer-col-3" data-node="8cq50lprzwyi">
+	<div  class="fl-module fl-module-box fl-node-gtzn25b9iy60" data-node="gtzn25b9iy60">
+	<div  class="fl-module fl-module-html fl-html fl-node-zve4poyisd73" data-node="zve4poyisd73">
+	<a href="https://sitemate.com/"><img decoding="async" width="165px" src="https://sitemate.com/wp-content/uploads/2026/05/sitemate-nav-logo.svg" loading="lazy"></a></div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-3xqpnd64cm7i" data-node="3xqpnd64cm7i">
+	<p>Contact</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-z7xrg04mo3sp" data-node="z7xrg04mo3sp">
+	<p>APAC <a href="tel:(+61) 2 8103 3140" target="_blank" rel="noopener" data-fpl-component="primitive">(+61) 2 8103 3140</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-6n8umpgstrd3" data-node="6n8umpgstrd3">
+	<p>Americas <a href="tel:(+1) 628-239-2825" target="_blank" rel="noopener" data-fpl-component="primitive">(+1) 628-239-2825</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-s37wty9g4jz5" data-node="s37wty9g4jz5">
+	<p>Europe <a href="tel:(+44) 20 3318 1149" target="_blank" rel="noopener" data-fpl-component="primitive">(+44) 20 3318 1149</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-2ca8i9rep7v3" data-node="2ca8i9rep7v3">
+	<p><a href="/cdn-cgi/l/email-protection#234a4d454c63504a57464e4257460d404c4e"><span class="__cf_email__" data-cfemail="b1d8dfd7def1c2d8c5d4dcd0c5d49fd2dedc">[email&#160;protected]</span></a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-tisjx5ah7gob" data-node="tisjx5ah7gob">
+	<div  class="fl-module fl-module-html fl-html fl-node-70rplfjmezyg" data-node="70rplfjmezyg">
+	  <a href="https://www.g2.com/sellers/sitemate#reviews" target="_blank" rel="noopener noreferrer">
+    <img decoding="async" src="https://sitemate.com/wp-content/uploads/2025/12/g2-ratings-badge-for-footer.svg" alt="G2 Ratings Badge" loading="lazy">
+  </a></div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-7hi8fbvj4uwz" data-node="7hi8fbvj4uwz">
+	<p>© Sitemate 2026</p>
+</div>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-9h0munjy7vza footer-col-3" data-node="9h0munjy7vza">
+	<div  class="fl-module fl-module-box fl-node-c4o732md5rb8" data-node="c4o732md5rb8">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-6xqapcmztkuv" data-node="6xqapcmztkuv">
+	<p>Products</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-aisto0n519c8" data-node="aisto0n519c8">
+	<p><a href="/product/storm/">Storm</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-cke4v6uj3q1z" data-node="cke4v6uj3q1z">
+	<p><a href="/software/dashpivot/">Dashpivot Systems Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-1cd9glezw4bj" data-node="1cd9glezw4bj">
+	<p><a href="/software/gearbelt/">Gearbelt Assets Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-3ik8tv9bgqud" data-node="3ik8tv9bgqud">
+	<p><a href="/software/flowsite/">Flowsite Integrations Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-trqvzf25syn9" data-node="trqvzf25syn9">
+	<p><a href="/software/sitemate/">Sitemate App</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-x5u2aiopybz6" data-node="x5u2aiopybz6">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-rzjbnes1726q" data-node="rzjbnes1726q">
+	<p>Systems</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-gwksp7l56ycf" data-node="gwksp7l56ycf">
+	<p><a href="/systems/safety-management-system/">Safety</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-yd4u8xwcl2q0" data-node="yd4u8xwcl2q0">
+	<p><a href="/systems/field-reporting-management-system/">Field Reporting</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-fwbkzidysm6c" data-node="fwbkzidysm6c">
+	<p><a href="/systems/quality-management-system/">Quality</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-uclbq83y7ito" data-node="uclbq83y7ito">
+	<p><a href="/systems/time-and-attendance-management-system/">Time &amp; Attendance</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-7v6ykhs154q2" data-node="7v6ykhs154q2">
+	<p><a href="/systems/fleet-management-system/">Fleet</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-9kgwqsb0lvad" data-node="9kgwqsb0lvad">
+	<p><a href="/systems/tools-and-equipment-management-system/">Tools &amp; Equipment</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-df2ipjx1hym4" data-node="df2ipjx1hym4">
+	<p><a href="/systems/custom-management-system/">Custom</a></p>
+</div>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-9kejg3nm4ow5 footer-col-3" data-node="9kejg3nm4ow5">
+	<div  class="fl-module fl-module-box fl-node-c1zdqhpfbt7y" data-node="c1zdqhpfbt7y">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-c9ken5i4thrd" data-node="c9ken5i4thrd">
+	<p>Pricing</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-zn3m4ebjcqxk" data-node="zn3m4ebjcqxk">
+	<p><a href="/software/dashpivot/pricing/">Dashpivot Pricing</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-o6alrg2zh7w0" data-node="o6alrg2zh7w0">
+	<p><a href="/software/gearbelt/pricing/">Gearbelt Pricing</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-k6nvoilp0x3h" data-node="k6nvoilp0x3h">
+	<p><a href="/software/flowsite/pricing/">Flowsite Pricing</a></p>
+</div>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-cab0xfnk42ti footer-col-3" data-node="cab0xfnk42ti">
+	<div  class="fl-module fl-module-box fl-node-9drwvpu7i2ka" data-node="9drwvpu7i2ka">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-d2mnir5hwub9" data-node="d2mnir5hwub9">
+	<p><a href="/customers/">Customers</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-wzv5drc1ulyt" data-node="wzv5drc1ulyt">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-1fipmo5kr2qu" data-node="1fipmo5kr2qu">
+	<p><a href="/enterprise">Enterprise</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-43ivdopx9hmu" data-node="43ivdopx9hmu">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-rjt6z9fq1vyk" data-node="rjt6z9fq1vyk">
+	<p>Resources</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-fs3o87txan9k" data-node="fs3o87txan9k">
+	<p><a href="/about-us/">About</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-mdbezr64k0ws" data-node="mdbezr64k0ws">
+	<p><a href="/resources/careers">Careers</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-6fwexqnzso5r" data-node="6fwexqnzso5r">
+	<p><a href="/resources/news">News</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-kxr71sgqptow" data-node="kxr71sgqptow">
+	<p><a href="/software/dashpivot/demo/?ref=/footer/">Demo Videos</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-hfyoktsplae3" data-node="hfyoktsplae3">
+	<p><a href="/resources/security/">Security</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-9g1amqkvt7dx" data-node="9g1amqkvt7dx">
+	<p><a href="/resources/dashpivot/api/">Integrations &amp; API</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-e8jfdy9tqpcx" data-node="e8jfdy9tqpcx">
+	<p><a href="https://help.sitemate.com/en/" target="_blank" rel="noopener noreferrer">Help</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-mnezwi6scav1" data-node="mnezwi6scav1">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-wr7s1d8vzmi0" data-node="wr7s1d8vzmi0">
+	<p><a href="/legal">Legal Information</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-w4taogmeuh32 fl-row-default-height fl-row-align-center fl-visible-medium footer-container" data-node="w4taogmeuh32">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-apc8twyj3zhb" data-node="apc8twyj3zhb">
+			<div class="fl-col fl-node-qvzolwyg7s3h fl-col-bg-color" data-node="qvzolwyg7s3h">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-box fl-node-nw2vdcijy64g" data-node="nw2vdcijy64g">
+	<div  class="fl-module fl-module-box fl-node-9zk10a4dmqfx custom-col-4" data-node="9zk10a4dmqfx">
+	<div  class="fl-module fl-module-box fl-node-hvm487gsz6ou" data-node="hvm487gsz6ou">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-feiwkq4jmnva" data-node="feiwkq4jmnva">
+	<p>Platforms</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-ae75ir1yolmf" data-node="ae75ir1yolmf">
+	<p><a href="/product/storm/">Storm</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-mdgay7ih95vq" data-node="mdgay7ih95vq">
+	<p><a href="/software/dashpivot/">Dashpivot Systems Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-cmdk2rz0fojl" data-node="cmdk2rz0fojl">
+	<p><a href="/software/gearbelt/">Gearbelt Assets Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-9d6auj03qwn1" data-node="9d6auj03qwn1">
+	<p><a href="/software/flowsite/">Flowsite Integrations Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-qzw4aomg1vt8" data-node="qzw4aomg1vt8">
+	<p><a href="/software/sitemate/">Sitemate App</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-s72andug9vh5" data-node="s72andug9vh5">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-vqi9m851sxj6" data-node="vqi9m851sxj6">
+	<p>Systems</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-nwl0frp2aig7" data-node="nwl0frp2aig7">
+	<p><a href="/systems/safety-management-system/">Safety</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-krgdv8wl6mq7" data-node="krgdv8wl6mq7">
+	<p><a href="/systems/field-reporting-management-system/">Field Reporting</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-bnaricytls1w" data-node="bnaricytls1w">
+	<p><a href="/systems/quality-management-system/">Quality</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-1g9z0rnd5x2i" data-node="1g9z0rnd5x2i">
+	<p><a href="/systems/time-and-attendance-management-system/">Time &amp; Attendance</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-li3x1ezbwg74" data-node="li3x1ezbwg74">
+	<p><a href="/systems/fleet-management-system/">Fleet</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-k9zji8v3f4qc" data-node="k9zji8v3f4qc">
+	<p><a href="/systems/custom-management-system/">Custom</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-h8l1u4swj0im" data-node="h8l1u4swj0im">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-q5vm02c9i873" data-node="q5vm02c9i873">
+	<p>Pricing</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-pz5awfen0sg9" data-node="pz5awfen0sg9">
+	<p><a href="/software/dashpivot/pricing/">Dashpivot Pricing</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-qc7kmb0lzpfn" data-node="qc7kmb0lzpfn">
+	<p><a href="/software/gearbelt/pricing/">Gearbelt Pricing</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-5c1wq0ovzjkg" data-node="5c1wq0ovzjkg">
+	<p><a href="/software/flowsite/pricing/">Flowsite Pricing</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-tfgv2xck3j79" data-node="tfgv2xck3j79">
+	<div  class="fl-module fl-module-html fl-html fl-node-7apl9un1bszh" data-node="7apl9un1bszh">
+	<a href="https://sitemate.com/"><img decoding="async" width="165px" src="https://sitemate.com/wp-content/uploads/2026/05/sitemate-nav-logo.svg" loading="lazy"></a></div>
+<div  class="fl-module fl-module-html fl-html fl-node-pxry1wz2cvun" data-node="pxry1wz2cvun">
+	  <a href="https://www.g2.com/sellers/sitemate#reviews" target="_blank" rel="noopener noreferrer">
+    <img decoding="async" src="https://sitemate.com/wp-content/uploads/2025/12/g2-ratings-badge-for-footer.svg" alt="G2 Ratings Badge" loading="lazy">
+  </a></div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-10onk95li26j" data-node="10onk95li26j">
+	<p>© Sitemate 2026</p>
+</div>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-tbwdscni05zh custom-col-4" data-node="tbwdscni05zh">
+	<div  class="fl-module fl-module-box fl-node-5l4hoetw09g8" data-node="5l4hoetw09g8">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-o3w1eb0gar42" data-node="o3w1eb0gar42">
+	<p><a href="/customers/">Customers</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-q74uh20to9nc" data-node="q74uh20to9nc">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-vqoi6ks5jdtu" data-node="vqoi6ks5jdtu">
+	<p><a href="/enterprise">Enterprise</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-vk1xyfsi3h0d" data-node="vk1xyfsi3h0d">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-klz34gt0shop" data-node="klz34gt0shop">
+	<p>Resources</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-imdrsw4azjtp" data-node="imdrsw4azjtp">
+	<p><a href="/about-us/">About</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-a7nkfgm5e19w" data-node="a7nkfgm5e19w">
+	<p><a href="/resources/news">News</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-znifrt6soe1a" data-node="znifrt6soe1a">
+	<p><a href="/software/dashpivot/demo/?ref=/footer/">Demo Videos</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-86aolsnc3ryf" data-node="86aolsnc3ryf">
+	<p><a href="/resources/security/">Security</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-k49hpnjfvir8" data-node="k49hpnjfvir8">
+	<p><a href="/resources/dashpivot/api/">Integrations &amp; API</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-hzqyts17leu8" data-node="hzqyts17leu8">
+	<p><a href="https://help.sitemate.com/en/">Help</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-oaesfq1hil04" data-node="oaesfq1hil04">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-hzckus35i49t" data-node="hzckus35i49t">
+	<p><a href="/legal">Legal Information</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-ac5ts947mvd6 custom-col-4" data-node="ac5ts947mvd6">
+	<div  class="fl-module fl-module-box fl-node-6bd4wuin1omc" data-node="6bd4wuin1omc">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-5zpshxa0uj3v" data-node="5zpshxa0uj3v">
+	<p>Contact</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-smwcl4o3i29a" data-node="smwcl4o3i29a">
+	<p>APAC <a href="tel:(+61) 2 8103 3140" target="_blank" rel="noopener" data-fpl-component="primitive">(+61) 2 8103 3140</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-k785r2gvh4c3" data-node="k785r2gvh4c3">
+	<p>Americas <a href="tel:(+1) 628-239-2825" target="_blank" rel="noopener" data-fpl-component="primitive">(+1) 628-239-2825</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-h2uyvozx0p5s" data-node="h2uyvozx0p5s">
+	<p>Europe <a href="tel:(+44) 20 3318 1149" target="_blank" rel="noopener" data-fpl-component="primitive">(+44) 20 3318 1149</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-gkzeu7hqnjl8" data-node="gkzeu7hqnjl8">
+	<p><a href="/cdn-cgi/l/email-protection#f69f989099b6859f82939b978293d895999b"><span class="__cf_email__" data-cfemail="2940474f46695a405d4c44485d4c074a4644">[email&#160;protected]</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-54jbufphg0q6 fl-row-default-height fl-row-align-center fl-visible-mobile footer-container" data-node="54jbufphg0q6">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-avsc9o306fnm" data-node="avsc9o306fnm">
+			<div class="fl-col fl-node-1l0oi9a84jx3 fl-col-bg-color" data-node="1l0oi9a84jx3">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-box fl-node-lw87fkbtsdx5" data-node="lw87fkbtsdx5">
+	<div  class="fl-module fl-module-box fl-node-c4kh6yp1sedm custom-col-4" data-node="c4kh6yp1sedm">
+	<div  class="fl-module fl-module-box fl-node-lqwxpzefmy5v" data-node="lqwxpzefmy5v">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-t8xewh6odqnm" data-node="t8xewh6odqnm">
+	<p>Platforms</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-13gfewzu2sy5" data-node="13gfewzu2sy5">
+	<p><a href="/product/storm/">Storm</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-pma4buf056oz" data-node="pma4buf056oz">
+	<p><a href="/software/dashpivot/">Dashpivot Systems Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-tl3m42n6oxwj" data-node="tl3m42n6oxwj">
+	<p><a href="/software/gearbelt/">Gearbelt Assets Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-y4z9hk5mb8wt" data-node="y4z9hk5mb8wt">
+	<p><a href="/software/flowsite/">Flowsite Integrations Cloud</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-4xntylpvgz28" data-node="4xntylpvgz28">
+	<p><a href="/software/sitemate/">Sitemate App</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-r5xsnfqcedk4" data-node="r5xsnfqcedk4">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-2qjh7cdop0xs" data-node="2qjh7cdop0xs">
+	<p>Systems</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-zgyu23s6mafc" data-node="zgyu23s6mafc">
+	<p><a href="/systems/safety-management-system/">Safety</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-t2xvhlke6fsb" data-node="t2xvhlke6fsb">
+	<p><a href="/systems/field-reporting-management-system/">Field Reporting</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-ut269qjavlen" data-node="ut269qjavlen">
+	<p><a href="/systems/quality-management-system/">Quality</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-i8qftujehzsa" data-node="i8qftujehzsa">
+	<p><a href="/systems/time-and-attendance-management-system/">Time &amp; Attendance</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-sgclnoqk3tvd" data-node="sgclnoqk3tvd">
+	<p><a href="/systems/fleet-management-system/">Fleet</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-6k2rzhfjsye0" data-node="6k2rzhfjsye0">
+	<p><a href="/systems/custom-management-system/">Custom</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-rt1lwg0fye6u" data-node="rt1lwg0fye6u">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-4z18bu6pfald" data-node="4z18bu6pfald">
+	<p>Pricing</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-bk138xwliyh7" data-node="bk138xwliyh7">
+	<p><a href="/software/dashpivot/pricing/">Dashpivot Pricing</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-zg0ovh52xrqp" data-node="zg0ovh52xrqp">
+	<p><a href="/software/gearbelt/pricing/">Gearbelt Pricing</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-dmk8ty1g23le" data-node="dmk8ty1g23le">
+	<p><a href="/software/flowsite/pricing/">Flowsite Pricing</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-3265fwcvs7ie" data-node="3265fwcvs7ie">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-xlm52fjkte8z" data-node="xlm52fjkte8z">
+	<p><a href="/customers/">Customers</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-ak6w2nvgozyf" data-node="ak6w2nvgozyf">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-akvjtdc31no9" data-node="akvjtdc31no9">
+	<p><a href="/enterprise">Enterprise</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-kyu4tn5v87h0" data-node="kyu4tn5v87h0">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-6398piwxzdr7" data-node="6398piwxzdr7">
+	<p>Resources</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-4dfvsgrizkpq" data-node="4dfvsgrizkpq">
+	<p><a href="/about-us/">About</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-sxn6gakp1r5d" data-node="sxn6gakp1r5d">
+	<p><a href="/resources/news">News</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-eys3ubgkhxtz" data-node="eys3ubgkhxtz">
+	<p><a href="/software/dashpivot/demo/?ref=/footer/">Demo Videos</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-1ah94bej0w37" data-node="1ah94bej0w37">
+	<p><a href="/resources/security/">Security</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-ow46m37uxcq2" data-node="ow46m37uxcq2">
+	<p><a href="/resources/dashpivot/api/">Integrations &amp; API</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-9etzh56inqsm" data-node="9etzh56inqsm">
+	<p><a href="https://help.sitemate.com/en/">Help</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-thopaxvl384m" data-node="thopaxvl384m">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-xoafsy04dm9b" data-node="xoafsy04dm9b">
+	<p><a href="/legal">Legal Information</a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-2034htzmqyj7 custom-col-4" data-node="2034htzmqyj7">
+	<div  class="fl-module fl-module-box fl-node-mphcsvud9jn7" data-node="mphcsvud9jn7">
+	<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-qjwh3og6pft4" data-node="qjwh3og6pft4">
+	<p>Contact</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-9svo2cgknbph" data-node="9svo2cgknbph">
+	<p>APAC <a href="tel:(+61) 2 8103 3140" target="_blank" rel="noopener" data-fpl-component="primitive">(+61) 2 8103 3140</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-envm67gh4x2j" data-node="envm67gh4x2j">
+	<p>Americas <a href="tel:(+1) 628-239-2825" target="_blank" rel="noopener" data-fpl-component="primitive">(+1) 628-239-2825</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-n6lhdo2kwxej" data-node="n6lhdo2kwxej">
+	<p>Europe <a href="tel:(+44) 20 3318 1149" target="_blank" rel="noopener" data-fpl-component="primitive">(+44) 20 3318 1149</a></p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-qkw7en94iayb" data-node="qkw7en94iayb">
+	<p><a href="/cdn-cgi/l/email-protection#660f08000926150f12030b0712034805090b"><span class="__cf_email__" data-cfemail="4920272f26093a203d2c24283d2c672a2624">[email&#160;protected]</span></a></p>
+</div>
+</div>
+<div  class="fl-module fl-module-box fl-node-ay8nx7zh1me2" data-node="ay8nx7zh1me2">
+	<div  class="fl-module fl-module-html fl-html fl-node-wzok2gax4e67" data-node="wzok2gax4e67">
+	<a href="https://sitemate.com/"><img decoding="async" width="165px" src="https://sitemate.com/wp-content/uploads/2026/05/sitemate-nav-logo.svg" loading="lazy"></a></div>
+<div  class="fl-module fl-module-html fl-html fl-node-g28bhdlecu6y" data-node="g28bhdlecu6y">
+	  <a href="https://www.g2.com/sellers/sitemate#reviews" target="_blank" rel="noopener noreferrer">
+    <img decoding="async" src="https://sitemate.com/wp-content/uploads/2025/12/g2-ratings-badge-for-footer.svg" alt="G2 Ratings Badge" loading="lazy">
+  </a></div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-o1t9i0cqp68j" data-node="o1t9i0cqp68j">
+	<p>© Sitemate 2026</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer>	</div><!-- .fl-page -->
+<template id="tp-language" data-tp-language="en_US"></template><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/bb-theme-child\/*","\/wp-content\/themes\/bb-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="trp_model_container" id="trp_ald_modal_container" style="display: none" data-no-dynamic-translation data-no-translation>
+        <div class="trp_ald_modal" id="trp_ald_modal_popup">
+        <div id="trp_ald_popup_text">
+            We've detected you might be speaking a different language. Do you want to change to:        </div>
+
+        <div class="trp_ald_select_and_button">
+            <div class="trp_ald_ls_container">
+            <div class="trp-language-switcher trp-language-switcher-container"  id="trp_ald_popup_select_container" data-no-translation >
+                
+                <div class="trp-ls-shortcode-current-language" id="en_US" special-selector="trp_ald_popup_current_language" data-trp-ald-selected-language= "en_US">
+                    <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English (United States)" loading="lazy"> English (United States)                </div>
+                <div class="trp-ls-shortcode-language">
+                    <div class="trp-ald-popup-select" id="en_US" data-trp-ald-selected-language = "en_US">
+                        <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English (United States)" loading="lazy"> English (United States)                    </div>
+                                                                    <div class="trp-ald-popup-select" id="en_AU" data-trp-ald-selected-language = "en_AU">
+                                <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_AU.png" width="18" height="12" alt="en_AU" title="English (Australia)" loading="lazy"> English (Australia)                            </div>
+                                                                        <div class="trp-ald-popup-select" id="en_GB" data-trp-ald-selected-language = "en_GB">
+                                <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_GB.png" width="18" height="12" alt="en_GB" title="English (UK)" loading="lazy"> English (UK)                            </div>
+                                                                        <div class="trp-ald-popup-select" id="en_NZ" data-trp-ald-selected-language = "en_NZ">
+                                <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_NZ.png" width="18" height="12" alt="en_NZ" title="English (New Zealand)" loading="lazy"> English (New Zealand)                            </div>
+                                                                        <div class="trp-ald-popup-select" id="en_ZA" data-trp-ald-selected-language = "en_ZA">
+                                <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_ZA.png" width="18" height="12" alt="en_ZA" title="English (South Africa)" loading="lazy"> English (South Africa)                            </div>
+                                                                        <div class="trp-ald-popup-select" id="de_DE" data-trp-ald-selected-language = "de_DE">
+                                <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png" width="18" height="12" alt="de_DE" title="German" loading="lazy"> German                            </div>
+                                                            </div>
+            </div>
+            </div>
+
+
+            <div class="trp_ald_button">
+                <a href="https://sitemate.com"
+                   id="trp_ald_popup_change_language">
+                    Change Language                </a>
+            </div>
+         </div>
+        <a id="trp_ald_x_button_and_textarea" href="#">
+            <span id="trp_ald_x_button" title="Close and do not switch language"></span>
+            <span id="trp_ald_x_button_textarea" title="Close and do not switch language">
+                Close and do not switch language            </span>
+        </a>
+    </div>
+</div>
+<template id="trp_ald_no_text_popup_template">
+    <div id="trp_no_text_popup_wrap">
+        <div id="trp_no_text_popup" class="trp_ald_no_text_popup" data-no-dynamic-translation data-no-translation>
+            
+            <div id="trp_ald_not_text_popup_ls_and_button">
+                <div id="trp_ald_no_text_popup_div">
+                    <span id="trp_ald_no_text_popup_text">
+                        We've detected you might be speaking a different language. Do you want to change to:                    </span>
+                </div>
+                <div class="trp_ald_ls_container">
+                    <div class="trp-language-switcher trp-language-switcher-container" id="trp_ald_no_text_select"
+                         data-no-translation >
+                        
+                        <div class="trp-ls-shortcode-current-language" id="en_US"
+                             special-selector="trp_ald_popup_current_language" data-trp-ald-selected-language="en_US">
+                            <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English (United States)" loading="lazy"> English (United States)                        </div>
+                        <div class="trp-ls-shortcode-language" id="trp_ald_no_text_popup_select_container">
+                            <div class="trp-ald-popup-select" id="en_US"
+                                 data-trp-ald-selected-language= en_US>
+                                <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English (United States)" loading="lazy"> English (United States)                            </div>
+                                                                                            <div class="trp-ald-popup-select" id="en_AU"
+                                         data-trp-ald-selected-language="en_AU">
+                                        <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_AU.png" width="18" height="12" alt="en_AU" title="English (Australia)" loading="lazy"> English (Australia)
+                                    </div>
+                                                                                                <div class="trp-ald-popup-select" id="en_GB"
+                                         data-trp-ald-selected-language="en_GB">
+                                        <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_GB.png" width="18" height="12" alt="en_GB" title="English (UK)" loading="lazy"> English (UK)
+                                    </div>
+                                                                                                <div class="trp-ald-popup-select" id="en_NZ"
+                                         data-trp-ald-selected-language="en_NZ">
+                                        <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_NZ.png" width="18" height="12" alt="en_NZ" title="English (New Zealand)" loading="lazy"> English (New Zealand)
+                                    </div>
+                                                                                                <div class="trp-ald-popup-select" id="en_ZA"
+                                         data-trp-ald-selected-language="en_ZA">
+                                        <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_ZA.png" width="18" height="12" alt="en_ZA" title="English (South Africa)" loading="lazy"> English (South Africa)
+                                    </div>
+                                                                                                <div class="trp-ald-popup-select" id="de_DE"
+                                         data-trp-ald-selected-language="de_DE">
+                                        <img class="trp-flag-image" src="https://sitemate.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png" width="18" height="12" alt="de_DE" title="German" loading="lazy"> German
+                                    </div>
+                                                                                    </div>
+                    </div>
+                </div>
+                <div class="trp_ald_change_language_div">
+                    <a href="https://sitemate.com" id="trp_ald_no_text_popup_change_language">
+                        Change Language                    </a>
+                </div>
+            </div>
+            <div id="trp_ald_no_text_popup_x">
+                <button id="trp_close"></button>
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+(function() {
+    console.log("🚀 Intercom Lazy Load Initialized (5s Delay)...");
+
+    function loadIntercomScript() {
+        console.log("📥 Loading Intercom script...");
+
+        let script = document.createElement("script");
+        script.src = "https://widget.intercom.io/widget/mif72555";
+        script.async = true;
+        script.defer = true;
+        document.body.appendChild(script);
+
+        script.onload = function() {
+            console.log("✅ Intercom script loaded successfully.");
+            Intercom("boot", { app_id: "mif72555" });
+        };
+
+        script.onerror = function() {
+            console.error("❌ Intercom script failed to load.");
+        };
+    }
+
+    // 🚀 Load Intercom after 5 seconds
+    setTimeout(loadIntercomScript, 5000);
+
+})();
+</script>
+
+
+<script>
+  function loadCookieNotice() {
+    if (!window.cookieNoticeLoaded) {
+      window.cookieNoticeLoaded = true;
+      var script = document.createElement("script");
+      script.src = "/wp-content/plugins/cookie-notice/js/front.js"; // Adjust if needed
+      script.async = true;
+      document.body.appendChild(script);
+      console.log("✅ Cookie Notice script loaded.");
+    }
+  }
+
+  document.addEventListener("scroll", loadCookieNotice, { once: true });
+  document.addEventListener("mousemove", loadCookieNotice, { once: true });
+  document.addEventListener("touchstart", loadCookieNotice, { once: true });
+  document.addEventListener("keydown", loadCookieNotice, { once: true });
+
+  // Fallback: Load after **3 seconds** if no interaction occurs
+  setTimeout(loadCookieNotice, 3000);
+</script>
+
+
+<script>
+  function loadDelayedScripts() {
+    if (!window.scriptsLoaded) {
+      window.scriptsLoaded = true;
+
+      console.log("📥 Loading delayed scripts...");
+
+      // Google Analytics
+      var gaScript = document.createElement("script");
+      gaScript.src = "https://www.googletagmanager.com/gtag/js?id=UA-122490143-1";
+      gaScript.async = true;
+      document.body.appendChild(gaScript);
+
+      // Initialize Google Analytics
+      gaScript.onload = function () {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-122490143-1');
+        gtag('config', 'AW-794234722'); // Google Ads Conversion Tracking
+      };
+
+      // Facebook Pixel
+      var fbScript = document.createElement("script");
+      fbScript.src = "https://connect.facebook.net/en_US/fbevents.js";
+      document.body.appendChild(fbScript);
+
+      // YouTube API
+      var ytScript = document.createElement("script");
+      ytScript.src = "https://www.youtube.com/iframe_api";
+      document.body.appendChild(ytScript);
+
+      // Google Maps API
+      var mapsScript = document.createElement("script");
+      mapsScript.src = "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY";
+      document.body.appendChild(mapsScript);
+
+      // TranslatePress JavaScript
+      var translateScript = document.createElement("script");
+      translateScript.src = "https://cdn.translatepress.com/js/translatepress.js";
+      document.body.appendChild(translateScript);
+    }
+  }
+
+  // 🚀 Delay loading scripts until user interacts
+  document.addEventListener("scroll", loadDelayedScripts, { once: true });
+  document.addEventListener("mousemove", loadDelayedScripts, { once: true });
+  document.addEventListener("touchstart", loadDelayedScripts, { once: true });
+  document.addEventListener("keydown", loadDelayedScripts, { once: true });
+
+  // 🚀 Fallback: Load scripts after 10 seconds if no interaction occurs
+  setTimeout(loadDelayedScripts, 10000);
+</script>
+
+
+<script>
+(function(){
+  var HASHES = {
+    '1195269643':'ca2d42bad9','1195269637':'9cb6105a29','1196191700':'9b9fb49999',
+    '1195269992':'806f85277c','1195225353':'ce2463fabb','1195483675':'2fde749a9d',
+    '1195269882':'d82ded1e94','1195225317':'ab0b2dda27','1195429670':'fdb4cc3130',
+    '1195269797':'52d3305a84','1195269943':'cc4842748a','1195225272':'bce5873ecc',
+    '1195269610':'7f5437cf39','1195225315':'80466c3102','1195270100':'68d5ab34a5',
+    '1195269659':'c4e4b78d01','1195483693':'570c110f23','1196191672':'f7e73f1da2',
+    '1195269547':'fae2031daf','1195270155':'f97c1738a1','1195269696':'08c751bd02',
+    '1195269860':'b9f3b0abbe','1195269462':'761bf44108','1195270058':'1a55036e8b',
+    '1195269728':'7562ba2c63','1195865815':'9e512471b5','1195269765':'a435d5c75d',
+    '1196500721':'96184c3cb7',
+    '1196601689':'ea990cdfd3','1196601723':'59da82b568',
+    '1195269824':'b7f5016ddb','1195865728':'3d18b9e045'
+  };
+  function fix(){
+    document.querySelectorAll('iframe').forEach(function(f){
+      ['data-src','src'].forEach(function(a){
+        var u = f.getAttribute(a);
+        if(!u || u.indexOf('player.vimeo.com/video/')<0 || u.indexOf('h=')>=0) return;
+        var m = u.match(/\/video\/(\d+)/); if(!m) return;
+        var h = HASHES[m[1]]; if(!h) return;
+        var newUrl = u.indexOf('?')<0 ? u+'?h='+h : u.replace('?','?h='+h+'&');
+        f.setAttribute(a, newUrl);
+      });
+    });
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',fix); else fix();
+  new MutationObserver(fix).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['data-src','src']});
+})();
+</script>
+
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/bb-plugin/js/libs/jquery.wookmark.min.js?ver=2.10.2-b-modified-1777884119" id="jquery-wookmark-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/bb-plugin/js/libs/jquery.mosaicflow.min.js?ver=2.10.2-b-modified-1777884119" id="jquery-mosaicflow-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.10.2-b-modified-1777884119" id="imagesloaded-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/bb-plugin/js/libs/jquery.magnificpopup.min.js?ver=2.10.2-b-modified-1777884119" id="jquery-magnificpopup-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/uploads/bb-plugin/cache/2372-layout.js?ver=6168f38e43f8ed6a8fbbe856ec185037-b-modified-1781245402" id="fl-builder-layout-2372-js"></script>
+<script id="cookie-notice-front-js-before">
+var cnArgs = {"ajaxUrl":"https:\/\/sitemate.com\/wp-admin\/admin-ajax.php","nonce":"190962149a","hideEffect":"none","position":"bottom","onScroll":true,"onScrollOffset":200,"onClick":false,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":false,"cache":false,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
+</script>
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=3.0.4-b-modified-1778550931" id="cookie-notice-front-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/plugins/bb-plugin/js/libs/jquery.ba-throttle-debounce.min.js?ver=2.10.2-b-modified-1777884119" id="jquery-throttle-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/uploads/bb-plugin/cache/3c7b96ac390600e3a0ab590febf538c5-layout-bundle.js?ver=2.10.2-1.5.3-b-modified-1781231191" id="fl-builder-layout-bundle-3c7b96ac390600e3a0ab590febf538c5-js"></script>
+<script defer="defer" src="https://sitemate.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.7.19.2-b-modified-1770177017" id="bootstrap-js"></script>
+<script id="fl-automator-js-extra">
+var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768","lightbox":"enabled","scrollTopPosition":"800"};
+</script>
+<script defer="defer" src="https://sitemate.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.19.2-b-modified-1770177017" id="fl-automator-js"></script>
+
+		<!-- Compliance by Hu-manity.co plugin v3.0.4 https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Compliance by Hu-manity.co" style="background-color: rgba(46,129,218,0.8);"><div class="cookie-notice-container" style="color: #fff"><span id="cn-notice-text" class="cn-text-container">This website uses cookies to improve your experience. If you continue to use this site, you agree to the use of cookies.</span><span id="cn-notice-buttons" class="cn-buttons-container"><button id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom gdpr-button" aria-label="Okay">Okay</button><button data-link-url="https://sitemate.com/resources/cookie-policy/" data-link-target="_blank" id="cn-more-info" class="cn-more-info cn-button cn-button-custom gdpr-button" aria-label="View cookie notice">View cookie notice</button></span><button type="button" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="No"></button></div>
+			
+		</div>
+		<!-- / Compliance by Hu-manity.co plugin --><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"1169ebe454e24aa38441c7866fa233e2","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a0d032798fa77fa8',t:'MTc4MTY3OTgzNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

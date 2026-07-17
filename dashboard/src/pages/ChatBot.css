@@ -1,0 +1,149 @@
+.chatbotPage{
+padding:25px;
+background:#f8fbff;
+min-height:100vh;
+}
+
+.chatbotCard{
+max-width:900px;
+margin:auto;
+background:white;
+border-radius:22px;
+box-shadow:0 15px 40px rgba(0,0,0,.08);
+overflow:hidden;
+}
+
+.chatHeader{
+display:flex;
+align-items:center;
+gap:20px;
+padding:30px;
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+color:white;
+}
+
+.robotIcon{
+font-size:60px;
+}
+
+.chatHeader h2{
+margin:0;
+font-size:30px;
+}
+
+.chatHeader p{
+margin-top:8px;
+opacity:.9;
+}
+
+.chatArea{
+padding:30px;
+min-height:350px;
+background:#f8fbff;
+display:flex;
+flex-direction:column;
+gap:20px;
+}
+
+.userMessage{
+display:flex;
+justify-content:flex-end;
+align-items:flex-start;
+gap:10px;
+}
+
+.userMessage div{
+background:#2563eb;
+color:white;
+padding:15px 18px;
+border-radius:18px 18px 0 18px;
+max-width:70%;
+line-height:1.7;
+}
+
+.chatUser{
+font-size:35px;
+color:#2563eb;
+}
+
+.botMessage{
+display:flex;
+align-items:flex-start;
+gap:12px;
+}
+
+.botMessage div{
+background:white;
+padding:15px 18px;
+border-radius:18px 18px 18px 0;
+box-shadow:0 10px 20px rgba(0,0,0,.06);
+max-width:70%;
+line-height:1.8;
+color:#334155;
+}
+
+.chatBot{
+font-size:35px;
+color:#10b981;
+}
+
+.chatInput{
+display:flex;
+padding:25px;
+gap:15px;
+background:white;
+border-top:1px solid #e5e7eb;
+}
+
+.chatInput input{
+flex:1;
+padding:16px;
+border-radius:14px;
+border:1px solid #d1d5db;
+font-size:16px;
+outline:none;
+}
+
+.chatInput input:focus{
+border-color:#2563eb;
+box-shadow:0 0 0 4px rgba(37,99,235,.15);
+}
+
+.chatInput button{
+width:60px;
+border:none;
+border-radius:14px;
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+color:white;
+font-size:20px;
+cursor:pointer;
+transition:.3s;
+}
+
+.chatInput button:hover{
+transform:translateY(-3px);
+box-shadow:0 12px 25px rgba(37,99,235,.3);
+}
+
+@media(max-width:768px){
+
+.chatHeader{
+flex-direction:column;
+text-align:center;
+}
+
+.userMessage div,
+.botMessage div{
+max-width:100%;
+}
+
+.chatInput{
+flex-direction:column;
+}
+
+.chatInput button{
+width:100%;
+height:55px;
+}
+
+}

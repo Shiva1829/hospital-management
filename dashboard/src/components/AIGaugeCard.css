@@ -1,0 +1,83 @@
+.ai-card {
+  width: 280px;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 25px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  transition: all 0.35s ease;
+  border: 1px solid #e5e7eb;
+  cursor: pointer;
+}
+
+.ai-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 40px rgba(37, 99, 235, 0.18);
+}
+
+.ai-card h2 {
+  color: #1e3a8a;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.circle {
+  width: 170px;
+  height: 170px;
+  margin: auto;
+  border-radius: 50%;
+  background: conic-gradient(
+    #2563eb 0deg,
+    #3b82f6 220deg,
+    #dbeafe 220deg,
+    #dbeafe 360deg
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.circle::before {
+  content: "";
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  background: white;
+}
+
+.circle h1 {
+  position: relative;
+  z-index: 2;
+  color: #2563eb;
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.ai-card p {
+  margin-top: 18px;
+  color: #64748b;
+  font-size: 15px;
+}
+
+@media (max-width: 768px) {
+  .ai-card {
+    width: 100%;
+  }
+
+  .circle {
+    width: 150px;
+    height: 150px;
+  }
+
+  .circle::before {
+    width: 118px;
+    height: 118px;
+  }
+
+  .circle h1 {
+    font-size: 28px;
+  }
+}

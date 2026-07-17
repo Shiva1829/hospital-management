@@ -1,0 +1,282 @@
+/* ===========================
+   GLOBAL RESET
+=========================== */
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family:
+    "Poppins",
+    "Segoe UI",
+    Arial,
+    sans-serif;
+
+  background:#f4f8fc;
+
+  color:#1e293b;
+
+  overflow-x:hidden;
+
+  min-height:100vh;
+}
+
+/* ===========================
+   ROOT
+=========================== */
+
+#root{
+  min-height:100vh;
+  width:100%;
+}
+
+/* ===========================
+   LINKS
+=========================== */
+
+a{
+  text-decoration:none;
+  color:inherit;
+}
+
+/* ===========================
+   BUTTONS
+=========================== */
+
+button{
+
+  cursor:pointer;
+
+  border:none;
+
+  outline:none;
+
+  transition:.3s;
+
+  font-family:inherit;
+
+}
+
+button:disabled{
+
+  cursor:not-allowed;
+
+  opacity:.6;
+
+}
+
+/* ===========================
+   INPUTS
+=========================== */
+
+input,
+select,
+textarea{
+
+  font-family:inherit;
+
+  outline:none;
+
+}
+
+input::placeholder,
+textarea::placeholder{
+
+  color:#94a3b8;
+
+}
+
+/* ===========================
+   IMAGES
+=========================== */
+
+img{
+
+  max-width:100%;
+
+  display:block;
+
+}
+
+/* ===========================
+   TABLE
+=========================== */
+
+table{
+
+  width:100%;
+
+  border-collapse:collapse;
+
+}
+
+/* ===========================
+   SCROLLBAR
+=========================== */
+
+::-webkit-scrollbar{
+
+  width:10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+  background:#edf2f7;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+  background:#2563eb;
+
+  border-radius:20px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+  background:#1d4ed8;
+
+}
+
+/* ===========================
+   SELECTION
+=========================== */
+
+::selection{
+
+  background:#2563eb;
+
+  color:#fff;
+
+}
+
+/* ===========================
+   PAGE LAYOUT
+=========================== */
+
+.page{
+
+  min-height:100vh;
+
+  padding:30px;
+
+}
+
+/* ===========================
+   CONTAINER
+=========================== */
+
+.container{
+
+  width:100%;
+
+  max-width:1400px;
+
+  margin:auto;
+
+}
+
+/* ===========================
+   HEADINGS
+=========================== */
+
+h1{
+
+  font-size:32px;
+
+  font-weight:700;
+
+}
+
+h2{
+
+  font-size:24px;
+
+}
+
+h3{
+
+  font-size:20px;
+
+}
+
+h4{
+
+  font-size:18px;
+
+}
+
+/* ===========================
+   PARAGRAPHS
+=========================== */
+
+p{
+
+  line-height:1.7;
+
+  color:#64748b;
+
+}
+
+/* ===========================
+   CARDS
+=========================== */
+
+.card{
+
+  background:#fff;
+
+  border-radius:18px;
+
+  box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:992px){
+
+  .page{
+
+    padding:20px;
+
+  }
+
+}
+
+@media(max-width:768px){
+
+  h1{
+
+    font-size:26px;
+
+  }
+
+  h2{
+
+    font-size:22px;
+
+  }
+
+}
+
+@media(max-width:480px){
+
+  .page{
+
+    padding:15px;
+
+  }
+
+}

@@ -1,0 +1,129 @@
+.themeToggle{
+
+display:flex;
+
+align-items:center;
+
+gap:10px;
+
+padding:12px 22px;
+
+border:none;
+
+border-radius:50px;
+
+cursor:pointer;
+
+background:linear-gradient(135deg,#2563eb,#1d4ed8);
+
+color:white;
+
+font-size:15px;
+
+font-weight:600;
+
+transition:.35s;
+
+box-shadow:0 10px 25px rgba(37,99,235,.25);
+
+}
+
+.themeToggle:hover{
+
+transform:translateY(-3px);
+
+box-shadow:0 15px 35px rgba(37,99,235,.35);
+
+}
+
+.themeIcon{
+
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+width:34px;
+
+height:34px;
+
+border-radius:50%;
+
+background:rgba(255,255,255,.18);
+
+font-size:18px;
+
+transition:.3s;
+
+}
+
+.themeToggle:hover .themeIcon{
+
+transform:rotate(20deg) scale(1.1);
+
+}
+
+/* ---------- DARK MODE ---------- */
+
+body.dark-theme{
+
+background:#0f172a;
+
+color:#f8fafc;
+
+transition:.35s;
+
+}
+
+body.dark-theme .card,
+body.dark-theme .dashboardCard,
+body.dark-theme .doctorCard,
+body.dark-theme .analyticsChartCard,
+body.dark-theme .registerCard{
+
+background:#1e293b;
+
+color:white;
+
+}
+
+body.dark-theme input,
+body.dark-theme select,
+body.dark-theme textarea{
+
+background:#334155;
+
+color:white;
+
+border:1px solid #475569;
+
+}
+
+body.dark-theme table{
+
+background:#1e293b;
+
+color:white;
+
+}
+
+body.dark-theme th{
+
+background:#2563eb;
+
+}
+
+body.dark-theme td{
+
+border-color:#334155;
+
+}
+
+body.dark-theme h1,
+body.dark-theme h2,
+body.dark-theme h3{
+
+color:white;
+
+}

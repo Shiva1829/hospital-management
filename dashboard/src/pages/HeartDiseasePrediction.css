@@ -1,0 +1,195 @@
+.heartPrediction{
+width:100%;
+}
+
+.heartCard{
+background:#fff;
+padding:35px;
+border-radius:22px;
+box-shadow:0 15px 40px rgba(0,0,0,.08);
+}
+
+.heartHeader{
+display:flex;
+align-items:center;
+gap:20px;
+margin-bottom:30px;
+}
+
+.heartIcon{
+font-size:45px;
+color:#ef4444;
+}
+
+.heartHeader h2{
+margin:0;
+font-size:30px;
+color:#0f172a;
+}
+
+.heartHeader p{
+margin-top:5px;
+color:#64748b;
+}
+
+.uploadArea{
+margin-bottom:25px;
+}
+
+.uploadBox{
+height:170px;
+border:2px dashed #2563eb;
+border-radius:18px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+cursor:pointer;
+background:#f8fbff;
+transition:.3s;
+}
+
+.uploadBox:hover{
+background:#eff6ff;
+}
+
+.uploadBox svg{
+font-size:42px;
+color:#2563eb;
+margin-bottom:15px;
+}
+
+.uploadBox span{
+font-size:17px;
+font-weight:600;
+color:#2563eb;
+}
+
+.previewImage{
+margin:20px 0;
+display:flex;
+justify-content:center;
+}
+
+.previewImage img{
+width:320px;
+max-width:100%;
+border-radius:18px;
+box-shadow:0 12px 30px rgba(0,0,0,.12);
+}
+
+.analyzeBtn{
+width:100%;
+padding:16px;
+background:#2563eb;
+color:white;
+border:none;
+border-radius:14px;
+font-size:18px;
+font-weight:600;
+cursor:pointer;
+display:flex;
+justify-content:center;
+align-items:center;
+gap:12px;
+transition:.3s;
+}
+
+.analyzeBtn:hover{
+background:#1d4ed8;
+transform:translateY(-3px);
+}
+
+.resultCard{
+margin-top:35px;
+padding:25px;
+background:#eff6ff;
+border-radius:20px;
+}
+
+.resultHeader{
+display:flex;
+align-items:center;
+gap:12px;
+margin-bottom:20px;
+}
+
+.resultHeader svg{
+font-size:30px;
+color:#22c55e;
+}
+
+.resultHeader h3{
+margin:0;
+color:#0f172a;
+}
+
+.resultGrid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
+margin-bottom:25px;
+}
+
+.resultGrid div{
+background:white;
+padding:20px;
+border-radius:15px;
+text-align:center;
+box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+.resultGrid span{
+display:block;
+margin-bottom:10px;
+color:#64748b;
+font-size:15px;
+}
+
+.resultGrid h2{
+margin:0;
+color:#2563eb;
+font-size:28px;
+}
+
+.recommendation{
+display:flex;
+gap:15px;
+align-items:flex-start;
+background:white;
+padding:20px;
+border-radius:15px;
+}
+
+.recommendation svg{
+font-size:24px;
+color:#2563eb;
+margin-top:3px;
+}
+
+.recommendation p{
+margin:0;
+line-height:1.7;
+color:#475569;
+}
+
+@media(max-width:768px){
+
+.heartCard{
+padding:20px;
+}
+
+.heartHeader{
+flex-direction:column;
+text-align:center;
+}
+
+.resultGrid{
+grid-template-columns:1fr;
+}
+
+.previewImage img{
+width:100%;
+}
+
+}

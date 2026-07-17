@@ -1,0 +1,246 @@
+.messagesPage{
+padding:30px;
+background:#f8fafc;
+min-height:100vh;
+}
+
+.messagesHeader{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:30px;
+}
+
+.messagesHeader h1{
+display:flex;
+align-items:center;
+gap:12px;
+font-size:32px;
+font-weight:700;
+color:#1e3a8a;
+margin-bottom:8px;
+}
+
+.messagesHeader p{
+color:#64748b;
+font-size:15px;
+}
+
+.messageCounter{
+width:75px;
+height:75px;
+border-radius:50%;
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+display:flex;
+justify-content:center;
+align-items:center;
+color:#fff;
+font-size:26px;
+font-weight:700;
+box-shadow:0 10px 25px rgba(37,99,235,.3);
+}
+
+.searchBar{
+margin-bottom:30px;
+background:#fff;
+display:flex;
+align-items:center;
+gap:12px;
+padding:15px 20px;
+border-radius:14px;
+box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+.searchBar svg{
+color:#2563eb;
+font-size:18px;
+}
+
+.searchBar input{
+border:none;
+outline:none;
+font-size:15px;
+width:100%;
+background:transparent;
+}
+
+.messagesGrid{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(370px,1fr));
+gap:25px;
+}
+
+.messageCard{
+background:#fff;
+border-radius:20px;
+padding:25px;
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+transition:.35s;
+border:1px solid #eef2ff;
+}
+
+.messageCard:hover{
+transform:translateY(-6px);
+box-shadow:0 18px 35px rgba(37,99,235,.15);
+}
+
+.messageTop{
+display:flex;
+align-items:center;
+gap:18px;
+margin-bottom:20px;
+}
+
+.avatar{
+width:65px;
+height:65px;
+border-radius:50%;
+background:#dbeafe;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:36px;
+color:#2563eb;
+}
+
+.messageTop h2{
+font-size:21px;
+font-weight:700;
+margin-bottom:8px;
+color:#0f172a;
+}
+
+.emailChip{
+display:inline-flex;
+align-items:center;
+gap:8px;
+padding:8px 14px;
+background:#eff6ff;
+color:#2563eb;
+border-radius:30px;
+font-size:13px;
+font-weight:600;
+}
+
+.phoneRow{
+display:flex;
+align-items:center;
+gap:10px;
+margin-bottom:18px;
+color:#475569;
+font-size:15px;
+}
+
+.phoneRow svg{
+color:#2563eb;
+}
+
+.messageBox{
+background:#f8fafc;
+padding:18px;
+border-radius:14px;
+margin-bottom:20px;
+}
+
+.messageBox strong{
+display:block;
+margin-bottom:10px;
+font-size:15px;
+color:#1e293b;
+}
+
+.messageBox p{
+line-height:1.7;
+color:#475569;
+font-size:15px;
+}
+
+.messageFooter{
+display:flex;
+justify-content:flex-end;
+align-items:center;
+margin-top:15px;
+}
+
+.messageFooter span{
+background:#dcfce7;
+color:#15803d;
+padding:8px 14px;
+border-radius:30px;
+font-size:13px;
+font-weight:600;
+}
+
+.emptyMessages{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+padding:80px 20px;
+background:#ffffff;
+border-radius:20px;
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+text-align:center;
+}
+
+.emptyMessages svg{
+font-size:70px;
+color:#94a3b8;
+margin-bottom:20px;
+}
+
+.emptyMessages h2{
+font-size:28px;
+color:#1e293b;
+margin-bottom:10px;
+}
+
+.emptyMessages p{
+font-size:15px;
+color:#64748b;
+max-width:450px;
+line-height:1.6;
+}
+
+@media(max-width:768px){
+
+.messagesHeader{
+flex-direction:column;
+align-items:flex-start;
+gap:20px;
+}
+
+.messageCounter{
+width:60px;
+height:60px;
+font-size:22px;
+}
+
+.messagesGrid{
+grid-template-columns:1fr;
+}
+
+.messageCard{
+padding:20px;
+}
+
+.messageTop{
+flex-direction:column;
+align-items:flex-start;
+}
+
+.avatar{
+width:55px;
+height:55px;
+font-size:30px;
+}
+
+.searchBar{
+padding:12px 16px;
+}
+
+.messagesHeader h1{
+font-size:26px;
+}
+
+}

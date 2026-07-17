@@ -1,0 +1,2023 @@
+
+<!DOCTYPE html>
+<html lang="en-gb">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              referrerpolicy="origin"
+              type="text/css"
+              href="https://cloud.typography.com/6310938/7413032/css/fonts.css" />
+        
+        <style>
+            #back-to-top {
+              display: none; /* Hidden by default */
+              position: fixed;
+              bottom: 20px;
+              right: 20px;
+              z-index: 100; /* Ensure it is above other elements */
+            }
+        </style>
+        
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MSLS5PW');
+        </script>
+        <!-- End Google Tag Manager -->
+        
+    
+        
+            <link rel="stylesheet" href="/static/styles.c0fbc26dcd1c.css">
+        
+        
+    <style>
+        .tdbtn a {
+            color: #2967BC !important;
+        }
+    </style>
+
+        <link rel="icon" sizes="512x512" href="/static/favicon/android-chrome-512x512.5dcf20cb3d4c.png" type="image/png">
+        <link rel="icon" sizes="192x192" href="/static/favicon/android-chrome-192x192.1df17a48f74b.png" type="image/png">
+        <link rel="apple-touch-icon" href="/static/favicon/apple-touch-icon.6b78d88450c9.png" type="image/png">
+        <link rel="icon" sizes="32x32" href="/static/favicon/favicon-32x32.595a8c5a6827.png" type="image/png">
+        <link rel="icon" sizes="16x16" href="/static/favicon/favicon-16x16.17791bc61a4a.png" type="image/png">
+        <link rel="icon" href="/static/favicon/favicon.05171ea30934.ico">
+        <!-- alpine.js -->
+        <!-- Alpine Plugins -->
+        <script defer src="https://unpkg.com/@alpinejs/focus@3.x.x/dist/cdn.min.js"></script>
+        <script src="//unpkg.com/alpinejs" defer></script>
+        <script nomodule
+                src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine-ie11.js"
+                integrity="sha256-AMTJlzkvTEmx59ePYsFlNO5yorEPf6d68kesQpYRd4g="
+                crossorigin="anonymous"></script>
+        <!-- scrollreveal -->
+        <script src="https://cdn.jsdelivr.net/npm/scrollreveal@4.0.9/dist/scrollreveal.min.js"
+                integrity="sha256-YHdamLXLIBEicRscu4gge3gdzJSWGvvWggYMiCYwCg0="
+                crossorigin="anonymous"></script>
+        
+
+
+
+
+<title>Failures in communication or follow-up of unexpected significant radiological findings</title>
+<link rel="canonical" href="https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/">
+<meta name="description" content="X-rays are the most common radiological examination. 22.9 million were carried out in the NHS in 2016/17. Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk." />
+
+
+
+
+
+
+
+<meta property="og:title" content="Failures in communication or follow-up of unexpected significant radiological findings" />
+<meta property="og:description" content="X-rays are the most common radiological examination. 22.9 million were carried out in the NHS in 2016/17. Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk." />
+<meta property="og:image" content="https://hssib-ovd42x6f-media.s3.amazonaws.com/production-assets/images/HSIB_Website_Report_Failures_in_communication_o.original.jpg" />
+<meta property="og:site_name" content="HSSIB" />
+<meta property="og:url" content="https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/" />
+<meta property="og:type" content="article" />
+
+
+<meta property="article:published_time" content="2021-03-22T16:40:13.950262+00:00" />
+<meta property="article:modified_time" content="2024-01-22T16:09:22.860499+00:00" />
+
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Failures in communication or follow-up of unexpected significant radiological findings">
+<meta name="twitter:image" content="https://hssib-ovd42x6f-media.s3.amazonaws.com/production-assets/images/HSIB_Website_Report_Failures_in_communication_o.original.jpg">
+<meta name="twitter:description" content="X-rays are the most common radiological examination. 22.9 million were carried out in the NHS in 2016/17. Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk.">
+<meta name="twitter:site" content="@theHSSIB" />
+
+
+
+
+
+
+    </head>
+    <body x-data="{searchOverlay: false, bodyLock: false , bodyOverlay: false, mobileNav: false }"
+          class=""
+          @overlay-toggle="bodyOverlay = !bodyOverlay"
+          @bodyLock-toggle.window="bodyLock = ! bodyLock"
+          @body-toggle-off="bodyOverlay = false"
+          :class=" bodyLock ? 'overflow-hidden' : ''"
+          id="top printOverride">
+        
+        
+
+
+<div
+@set-search-true.window="searchOverlay = !searchOverlay"
+x-show="searchOverlay"
+x-trap.noscroll="searchOverlay"
+x-cloak
+x-on:keydown.escape="searchOverlay = !searchOverlay"
+x-transition:enter="transition ease-in-out duration-1000"
+x-transition:enter-start="opacity-0  transform -translate-y-12"
+x-transition:enter-end="opacity-100  transform translate-y-0"
+x-transition:leave="transition ease-in-out duration-1000"
+x-transition:leave-start="opacity-100 transform translate-y-0"
+x-transition:leave-end="opacity-0 transform -translate-y-0 "
+class="fixed w-full search-overlay h-auto  overflow-y-auto  max-h-screen min-h-screen z-100 bg-primary-500 bg-opacity-95">
+
+  
+  <div class="px-8 py-12 w-full flex items-center h-auto justify-center">
+      <div style="width:650px;" class="searchbar py-8 flex flex-col">
+        <form class="w-full" action="/search/" method="get" role="search">
+          <label class="sr-only" for="search-form-q">Search this site</label>
+          <div class="flex flex-row w-full">
+              <input x-ref="searchinput" class="w-full px-3 py-2 text-primary-500" type="search" name="q" id="search-form-q" placeholder="Search for…"  />
+              <button type="submit" class="items-center self-stretch justify-center block w-auto h-auto px-3 font-medium bg-yellow-500 text-primary-500 hover:text-white hover:bg-primary-900">
+                  <span class="">Search</span>
+              </button>
+          </div>
+      </form>
+
+        <button
+        @click="searchOverlay = !searchOverlay"
+        class="text-sm underline text-white w-full text-center mt-4" >Close</button>
+      </div>
+</div>
+</div>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSLS5PW"
+        height="0"
+        width="0"
+        style="display:none;
+               visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+            <a href="#main" class="skip-to-content-link">Skip to content</a>
+            <a href="#main-nav" class="skip-to-content-link">Skip to main menu</a>
+            <noscript>
+                <div id="noscript" role="alert">
+                    <div class="container">
+                        <h2 class="h3">JavaScript must be enabled for this website to reliably work</h2>
+                        <p>
+                            {% trans "For instructions on how to enable JavaScript, please visit <a href='https://www.enable-javascript.com/'
+    target='_blank'
+    class='alert-link'>enable-javascript.com</i></a>." %}
+                        </p>
+                    </div>
+                </div>
+            </noscript>
+        
+        <!-- overlay -->
+        <div style="display: none"
+             class="fixed inset-0 z-50 transition-all duration-700 ease-in-out bg-black bg-opacity-75"
+             x-show="bodyOverlay"
+             x-transition:enter="transition ease-in-out opacity-0 duration-1000"
+             x-transition:enter-start="opacity-0 "
+             x-transition:enter-end="opacity-100"></div>
+        <!-- <div id="safetyScroll" style="z-index: 999" class="fixed top-0 right-0 flex-row items-center justify-between hidden mt-24">
+            <a href="https://www.hssib.org.uk/patient-safety-concern/" class="items-center self-center justify-center order-4 hidden w-48 h-auto p-4 text-center transition-colors duration-300 ease-in-out bg-yellow-500 md:flex print:hidden rounded-l-md lg:min-h-90 md:self-start hover:bg-green-500 hover:text-white text-primary-500">
+                <span class="leading-tight">Tell us about a patient safety concern</span>
+            </a>
+</div> -->
+        
+        
+<header :class=" searchOverlay ? 'z-101' : ''"
+        class="relative z-40 pt-8 text-blue-900 bg-teal-200 print:bg-transparent main-site-header">
+    <div class="container">
+        <div class="flex flex-col w-full lg:flex-row print:flex-row">
+            <div class="flex flex-row justify-between w-full print:items-end print:justify-items-end print:mb-8">
+                <a class="flex print:self-end print:w-full print:justify-items-end" href="/">
+                    <div class="h-full pr-4 mx-auto print:ml-auto print:mr-0 max-w-300 print:max-w-250 logo"><svg class="screen:w-full h-auto" viewBox="0 0 315 78" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M116.708 14.8H118.108V20.4001H125.408V14.8H126.808V27.4001H125.408V21.7001H118.108V27.4001H116.708V14.8Z" fill="#14487C"/>
+    <path d="M129.608 22.8001C129.608 20.1001 131.508 17.9001 134.108 17.9001C136.908 17.9001 138.408 20.1001 138.408 22.8001C138.408 23.0001 138.408 23.1001 138.408 23.3001H131.008C131.208 25.3001 132.608 26.5001 134.308 26.5001C135.608 26.5001 136.508 26.0001 137.208 25.2001L138.108 26.0001C137.208 27.0001 136.008 27.7001 134.308 27.7001C131.708 27.7001 129.608 25.7001 129.608 22.8001ZM137.008 22.3001C136.908 20.6001 135.908 19.1001 134.008 19.1001C132.408 19.1001 131.208 20.4001 131.008 22.3001H137.008Z" fill="#14487C"/>
+    <path d="M140.108 24.7001C140.108 22.7001 141.708 21.7001 144.108 21.7001C145.308 21.7001 146.108 21.9001 147.008 22.1001V21.8001C147.008 20.1001 146.008 19.3001 144.208 19.3001C143.108 19.3001 142.208 19.6001 141.408 20.0001L141.008 18.9001C142.008 18.4001 143.008 18.1001 144.408 18.1001C145.708 18.1001 146.708 18.4001 147.408 19.1001C148.008 19.7001 148.408 20.6001 148.408 21.8001V27.5001H147.108V26.1001C146.508 26.9001 145.408 27.7001 143.708 27.7001C141.808 27.6001 140.108 26.6001 140.108 24.7001ZM147.008 24.0001V23.1001C146.308 22.9001 145.408 22.7001 144.308 22.7001C142.608 22.7001 141.608 23.5001 141.608 24.6001C141.608 25.8001 142.708 26.5001 143.908 26.5001C145.608 26.5001 147.008 25.5001 147.008 24.0001Z" fill="#14487C"/>
+    <path d="M151.408 14.3H152.808V27.4001H151.408V14.3Z" fill="#14487C"/>
+    <path d="M156.408 25.0001V19.4001H155.108V18.2001H156.408V15.4001H157.808V18.2001H160.808V19.4001H157.808V24.8001C157.808 25.9001 158.408 26.3001 159.408 26.3001C159.908 26.3001 160.308 26.2001 160.808 26.0001V27.2001C160.308 27.5001 159.808 27.6001 159.108 27.6001C157.608 27.6001 156.408 26.9001 156.408 25.0001Z" fill="#14487C"/>
+    <path d="M163.208 14.3H164.608V19.8C165.208 18.8 166.208 18 167.808 18C170.008 18 171.408 19.5001 171.408 21.7001V27.5H170.008V22.1001C170.008 20.4001 169.108 19.3 167.408 19.3C165.808 19.3 164.608 20.5001 164.608 22.2001V27.5H163.208V14.3Z" fill="#14487C"/>
+    <path d="M179.108 25.6001L180.008 24.6001C181.308 25.8001 182.608 26.4001 184.308 26.4001C186.008 26.4001 187.108 25.5001 187.108 24.3001C187.108 23.1001 186.508 22.5001 183.808 21.9001C180.908 21.3001 179.608 20.3001 179.608 18.3001C179.608 16.3001 181.308 14.9001 183.708 14.9001C185.508 14.9001 186.908 15.4001 188.108 16.4001L187.308 17.5001C186.108 16.5001 185.008 16.1001 183.708 16.1001C182.108 16.1001 181.008 17.0001 181.008 18.1001C181.008 19.3001 181.608 20.0001 184.408 20.5001C187.208 21.1001 188.508 22.1001 188.508 24.1001C188.508 26.3001 186.708 27.7001 184.208 27.7001C182.308 27.6001 180.608 26.9001 179.108 25.6001Z" fill="#14487C"/>
+    <path d="M190.708 22.8001C190.708 20.1001 192.608 17.9001 195.208 17.9001C198.008 17.9001 199.508 20.1001 199.508 22.8001C199.508 23.0001 199.508 23.1001 199.508 23.3001H192.108C192.308 25.3001 193.708 26.5001 195.408 26.5001C196.708 26.5001 197.608 26.0001 198.308 25.2001L199.208 26.0001C198.308 27.0001 197.108 27.7001 195.408 27.7001C192.708 27.7001 190.708 25.7001 190.708 22.8001ZM198.108 22.3001C198.008 20.6001 197.008 19.1001 195.108 19.1001C193.508 19.1001 192.308 20.4001 192.108 22.3001H198.108Z" fill="#14487C"/>
+    <path d="M201.908 18.1001H203.308V20.5001C204.008 19.0001 205.308 17.8001 207.108 17.9001V19.4001H207.008C205.008 19.4001 203.308 20.9001 203.308 23.7001V27.4001H201.908V18.1001Z" fill="#14487C"/>
+    <path d="M208.308 18.1001H209.808L212.908 25.8001L216.108 18.1001H217.608L213.508 27.5001H212.308L208.308 18.1001Z" fill="#14487C"/>
+    <path d="M219.808 14.6001H221.408V16.1001H219.808V14.6001ZM219.908 18.1001H221.308V27.4001H219.908V18.1001Z" fill="#14487C"/>
+    <path d="M223.908 22.8001C223.908 20.1001 226.008 17.9001 228.708 17.9001C230.508 17.9001 231.608 18.6001 232.408 19.6001L231.508 20.6001C230.808 19.8001 229.908 19.2001 228.708 19.2001C226.808 19.2001 225.408 20.8001 225.408 22.8001C225.408 24.8001 226.908 26.4001 228.808 26.4001C230.008 26.4001 230.908 25.8001 231.608 25.0001L232.508 25.8001C231.608 26.8001 230.408 27.6001 228.708 27.6001C226.008 27.7001 223.908 25.4001 223.908 22.8001Z" fill="#14487C"/>
+    <path d="M233.908 22.8001C233.908 20.1001 235.808 17.9001 238.408 17.9001C241.208 17.9001 242.708 20.1001 242.708 22.8001C242.708 23.0001 242.708 23.1001 242.708 23.3001H235.308C235.508 25.3001 236.908 26.5001 238.608 26.5001C239.908 26.5001 240.808 26.0001 241.508 25.2001L242.408 26.0001C241.508 27.0001 240.308 27.7001 238.608 27.7001C236.008 27.7001 233.908 25.7001 233.908 22.8001ZM241.308 22.3001C241.208 20.6001 240.208 19.1001 238.308 19.1001C236.708 19.1001 235.508 20.4001 235.308 22.3001H241.308Z" fill="#14487C"/>
+    <path d="M244.408 26.2L245.108 25.2C246.108 26 247.208 26.4 248.308 26.4C249.408 26.4 250.208 25.8 250.208 24.9C250.208 24 249.108 23.6 247.908 23.3C246.408 22.9 244.808 22.4 244.808 20.7C244.808 19.1 246.108 18 248.008 18C249.108 18 250.408 18.4 251.308 19L250.708 20C249.808 19.4 248.808 19.1 247.908 19.1C246.808 19.1 246.108 19.7 246.108 20.4C246.108 21.3 247.308 21.6 248.508 22C249.908 22.4 251.508 23 251.508 24.7C251.508 26.5 250.008 27.5 248.208 27.5C246.908 27.6 245.408 27.1 244.408 26.2Z" fill="#14487C"/>
+    <path d="M258.908 25.6001L259.808 24.6001C261.108 25.8001 262.408 26.4001 264.108 26.4001C265.808 26.4001 266.908 25.5001 266.908 24.3001C266.908 23.1001 266.308 22.5001 263.608 21.9001C260.708 21.3001 259.408 20.3001 259.408 18.3001C259.408 16.3001 261.108 14.9001 263.508 14.9001C265.308 14.9001 266.708 15.4001 267.908 16.4001L267.108 17.5001C265.908 16.5001 264.808 16.1001 263.508 16.1001C261.908 16.1001 260.808 17.0001 260.808 18.1001C260.808 19.3001 261.408 20.0001 264.208 20.5001C267.008 21.1001 268.308 22.1001 268.308 24.1001C268.308 26.3001 266.508 27.7001 264.008 27.7001C262.108 27.6001 260.408 26.9001 258.908 25.6001Z" fill="#14487C"/>
+    <path d="M270.308 24.7001C270.308 22.7001 271.908 21.7001 274.308 21.7001C275.508 21.7001 276.308 21.9001 277.208 22.1001V21.8001C277.208 20.1001 276.208 19.3001 274.408 19.3001C273.308 19.3001 272.408 19.6001 271.608 20.0001L271.208 18.9001C272.208 18.4001 273.208 18.1001 274.608 18.1001C275.908 18.1001 276.908 18.4001 277.608 19.1001C278.208 19.7001 278.608 20.6001 278.608 21.8001V27.5001H277.208V26.1001C276.608 26.9001 275.508 27.7001 273.808 27.7001C272.108 27.6001 270.308 26.6001 270.308 24.7001ZM277.208 24.0001V23.1001C276.508 22.9001 275.608 22.7001 274.508 22.7001C272.808 22.7001 271.808 23.5001 271.808 24.6001C271.808 25.8001 272.908 26.5001 274.108 26.5001C275.808 26.5001 277.208 25.5001 277.208 24.0001Z" fill="#14487C"/>
+    <path d="M282.008 19.4001H280.708V18.2001H282.008V17.4001C282.008 16.3001 282.308 15.5 282.808 15C283.308 14.5 284.008 14.3 284.808 14.3C285.408 14.3 285.908 14.4 286.308 14.5V15.7001C285.808 15.6001 285.408 15.5 284.908 15.5C283.808 15.5 283.308 16.1 283.308 17.5V18.2001H286.308V19.4001H283.408V27.5H282.008V19.4001Z" fill="#14487C"/>
+    <path d="M287.308 22.8001C287.308 20.1001 289.208 17.9001 291.808 17.9001C294.608 17.9001 296.108 20.1001 296.108 22.8001C296.108 23.0001 296.108 23.1001 296.108 23.3001H288.708C288.908 25.3001 290.308 26.5001 292.008 26.5001C293.308 26.5001 294.208 26.0001 294.908 25.2001L295.808 26.0001C294.908 27.0001 293.708 27.7001 292.008 27.7001C289.408 27.7001 287.308 25.7001 287.308 22.8001ZM294.708 22.3001C294.608 20.6001 293.608 19.1001 291.708 19.1001C290.108 19.1001 288.908 20.4001 288.708 22.3001H294.708Z" fill="#14487C"/>
+    <path d="M299.008 25.0001V19.4001H297.708V18.2001H299.008V15.4001H300.408V18.2001H303.408V19.4001H300.408V24.8001C300.408 25.9001 301.008 26.3001 302.008 26.3001C302.508 26.3001 302.908 26.2001 303.408 26.0001V27.2001C302.908 27.5001 302.408 27.6001 301.708 27.6001C300.208 27.6001 299.008 26.9001 299.008 25.0001Z" fill="#14487C"/>
+    <path d="M312.808 18.1H314.308L310.408 27.7C309.608 29.6 308.708 30.3 307.308 30.3C306.508 30.3 305.908 30.1 305.308 29.8L305.808 28.7C306.308 28.9 306.708 29 307.308 29C308.108 29 308.708 28.6 309.208 27.3L305.008 18H306.508L309.908 25.8L312.808 18.1Z" fill="#14487C"/>
+    <path d="M116.808 36.4001H118.208V49.0002H116.808V36.4001Z" fill="#14487C"/>
+    <path d="M121.708 39.7H123.108V41.3C123.708 40.3 124.708 39.5 126.308 39.5C128.508 39.5 129.908 41 129.908 43.2V49H128.508V43.6C128.508 41.9 127.608 40.8 125.908 40.8C124.308 40.8 123.108 42 123.108 43.7V49H121.708V39.7Z" fill="#14487C"/>
+    <path d="M131.508 39.7H133.008L136.108 47.3999L139.308 39.7H140.808L136.708 49.1H135.508L131.508 39.7Z" fill="#14487C"/>
+    <path d="M141.908 44.4C141.908 41.7 143.808 39.5 146.408 39.5C149.208 39.5 150.708 41.7 150.708 44.4C150.708 44.6 150.708 44.7 150.708 44.9H143.308C143.508 46.9 144.908 48.1 146.608 48.1C147.908 48.1 148.808 47.6 149.508 46.8L150.408 47.6C149.508 48.6 148.308 49.3 146.608 49.3C144.008 49.3 141.908 47.3 141.908 44.4ZM149.308 43.9C149.208 42.2 148.208 40.7 146.308 40.7C144.708 40.7 143.508 42.1 143.308 43.9H149.308Z" fill="#14487C"/>
+    <path d="M152.308 47.8001L153.008 46.8001C154.008 47.6001 155.108 48.0001 156.208 48.0001C157.308 48.0001 158.108 47.4001 158.108 46.5001C158.108 45.6001 157.008 45.2001 155.808 44.9001C154.308 44.5001 152.708 44.0001 152.708 42.3001C152.708 40.7001 154.008 39.6001 155.908 39.6001C157.008 39.6001 158.308 40.0001 159.208 40.6001L158.608 41.6001C157.708 41.0001 156.708 40.7001 155.808 40.7001C154.708 40.7001 154.008 41.3001 154.008 42.1001C154.008 43.0001 155.208 43.3001 156.408 43.7001C157.808 44.1001 159.408 44.7001 159.408 46.4001C159.408 48.2001 157.908 49.2001 156.108 49.2001C154.908 49.2001 153.408 48.7001 152.308 47.8001Z" fill="#14487C"/>
+    <path d="M162.408 46.6V41H161.108V39.8H162.408V37H163.808V39.8H166.808V41H163.808V46.4C163.808 47.5 164.408 47.9 165.408 47.9C165.908 47.9 166.308 47.8 166.808 47.6V48.8C166.308 49.1 165.808 49.2 165.108 49.2C163.508 49.2 162.408 48.5 162.408 46.6Z" fill="#14487C"/>
+    <path d="M169.208 36.2H170.808V37.7H169.208V36.2ZM169.308 39.7H170.708V49H169.308V39.7Z" fill="#14487C"/>
+    <path d="M173.808 50.7001L174.408 49.6001C175.508 50.4001 176.708 50.8001 178.008 50.8001C180.108 50.8001 181.408 49.7001 181.408 47.5001V46.4001C180.608 47.5001 179.508 48.4001 177.708 48.4001C175.508 48.4001 173.308 46.7001 173.308 44.0001C173.308 41.3001 175.508 39.6001 177.708 39.6001C179.408 39.6001 180.608 40.5001 181.308 41.5001V39.8001H182.708V47.5001C182.708 48.9001 182.308 50.0001 181.508 50.8001C180.708 51.6001 179.408 52.0001 178.008 52.0001C176.508 52.0001 175.008 51.5001 173.808 50.7001ZM181.408 43.9001C181.408 42.0001 179.708 40.7001 178.008 40.7001C176.308 40.7001 174.808 41.9001 174.808 43.8001C174.808 45.7001 176.308 47.0001 178.008 47.0001C179.808 47.1001 181.408 45.8001 181.408 43.9001Z" fill="#14487C"/>
+    <path d="M185.208 46.2999C185.208 44.2999 186.808 43.2999 189.208 43.2999C190.408 43.2999 191.208 43.5 192.108 43.7V43.3999C192.108 41.6999 191.108 40.8999 189.308 40.8999C188.208 40.8999 187.308 41.2 186.508 41.6L186.108 40.5C187.108 40 188.108 39.7 189.508 39.7C190.808 39.7 191.808 40 192.508 40.7C193.108 41.3 193.508 42.1999 193.508 43.3999V49.1H192.208V47.7C191.608 48.5 190.508 49.2999 188.808 49.2999C186.908 49.1999 185.208 48.1999 185.208 46.2999ZM192.008 45.6V44.7C191.308 44.5 190.408 44.2999 189.308 44.2999C187.608 44.2999 186.608 45.1 186.608 46.2C186.608 47.4 187.708 48.1 188.908 48.1C190.608 48.1 192.008 47.1 192.008 45.6Z" fill="#14487C"/>
+    <path d="M196.708 46.6V41H195.408V39.8H196.708V37H198.108V39.8H201.108V41H198.108V46.4C198.108 47.5 198.708 47.9 199.708 47.9C200.208 47.9 200.608 47.8 201.108 47.6V48.8C200.608 49.1 200.108 49.2 199.408 49.2C197.808 49.2 196.708 48.5 196.708 46.6Z" fill="#14487C"/>
+    <path d="M203.508 36.2H205.108V37.7H203.508V36.2ZM203.608 39.7H205.008V49H203.608V39.7Z" fill="#14487C"/>
+    <path d="M207.608 44.4C207.608 41.7 209.708 39.5 212.508 39.5C215.308 39.5 217.308 41.7 217.308 44.3C217.308 46.9 215.208 49.2 212.408 49.2C209.708 49.3 207.608 47.1 207.608 44.4ZM215.908 44.4C215.908 42.4 214.408 40.7 212.408 40.7C210.408 40.7 209.008 42.3 209.008 44.3C209.008 46.3 210.508 47.9 212.408 47.9C214.508 48 215.908 46.4 215.908 44.4Z" fill="#14487C"/>
+    <path d="M219.808 39.7H221.208V41.3C221.808 40.3 222.808 39.5 224.408 39.5C226.608 39.5 228.008 41 228.008 43.2V49H226.608V43.6C226.608 41.9 225.708 40.8 224.008 40.8C222.408 40.8 221.208 42 221.208 43.7V49H219.808V39.7Z" fill="#14487C"/>
+    <path d="M230.108 47.8001L230.808 46.8001C231.808 47.6001 232.908 48.0001 234.008 48.0001C235.108 48.0001 235.908 47.4001 235.908 46.5001C235.908 45.6001 234.808 45.2001 233.608 44.9001C232.108 44.5001 230.508 44.0001 230.508 42.3001C230.508 40.7001 231.808 39.6001 233.708 39.6001C234.808 39.6001 236.108 40.0001 237.008 40.6001L236.408 41.6001C235.508 41.0001 234.508 40.7001 233.608 40.7001C232.508 40.7001 231.808 41.3001 231.808 42.1001C231.808 43.0001 233.008 43.3001 234.208 43.7001C235.608 44.1001 237.208 44.7001 237.208 46.4001C237.208 48.2001 235.708 49.2001 233.908 49.2001C232.708 49.2001 231.208 48.7001 230.108 47.8001Z" fill="#14487C"/>
+    <path d="M245.508 36.4001H250.908C252.308 36.4001 253.508 36.8002 254.208 37.5002C254.708 38.0002 255.008 38.7002 255.008 39.5002C255.008 41.1002 254.008 42.0001 253.008 42.4001C254.508 42.9001 255.708 43.7001 255.708 45.4001C255.708 47.6001 253.908 48.8001 251.108 48.8001H245.508V36.4001ZM253.508 39.8001C253.508 38.6001 252.508 37.7001 250.708 37.7001H246.908V42.0002H250.608C252.308 42.0002 253.508 41.3001 253.508 39.8001ZM250.908 43.3001H246.908V47.7001H251.108C253.008 47.7001 254.208 46.9001 254.208 45.4001C254.208 44.1001 253.108 43.3001 250.908 43.3001Z" fill="#14487C"/>
+    <path d="M257.708 44.4C257.708 41.7 259.808 39.5 262.608 39.5C265.408 39.5 267.408 41.7 267.408 44.3C267.408 46.9 265.308 49.2 262.508 49.2C259.708 49.3 257.708 47.1 257.708 44.4ZM266.008 44.4C266.008 42.4 264.508 40.7 262.508 40.7C260.508 40.7 259.108 42.3 259.108 44.3C259.108 46.3 260.608 47.9 262.508 47.9C264.608 48 266.008 46.4 266.008 44.4Z" fill="#14487C"/>
+    <path d="M269.408 44.4001C269.408 41.3001 271.608 39.5001 273.808 39.5001C275.508 39.5001 276.608 40.4001 277.408 41.5001V35.9001H278.808V49.0001H277.408V47.2001C276.608 48.3001 275.508 49.3001 273.808 49.3001C271.608 49.2001 269.408 47.5001 269.408 44.4001ZM277.408 44.4001C277.408 42.2001 275.808 40.8001 274.008 40.8001C272.208 40.8001 270.708 42.1001 270.708 44.4001C270.708 46.6001 272.208 48.0001 274.008 48.0001C275.808 48.0001 277.408 46.5001 277.408 44.4001Z" fill="#14487C"/>
+    <path d="M288.808 39.7001H290.308L286.408 49.3001C285.608 51.2001 284.708 51.9001 283.308 51.9001C282.508 51.9001 281.908 51.7001 281.308 51.4001L281.808 50.3001C282.308 50.5001 282.708 50.6001 283.308 50.6001C284.108 50.6001 284.708 50.2001 285.208 48.9001L281.008 39.6001H282.508L285.908 47.4001L288.808 39.7001Z" fill="#14487C"/>
+    <path d="M63.6081 52.2C63.9081 52.5 64.5081 52.5 64.8081 52.2L68.6081 48.4C73.1081 43.9 75.6081 37.9 75.6081 31.6V30.9C75.6081 29.7 74.9081 28.7 73.9081 28.2V27.5C73.9081 21.6 76.208 16 80.4081 11.9C80.8081 11.5 81.3081 11.4 81.9081 11.6C82.4081 11.8 82.7081 12.3 82.7081 12.8V38.9C82.7081 44.5 80.5081 49.7 76.6081 53.6L54.0081 76.2C53.8081 76.4 53.6081 76.5 53.4081 76.7C52.8081 77 52.3081 77.1 51.7081 77C51.5081 77 51.3081 76.9 51.1081 76.8C50.3081 76.5 49.5081 75.7 49.5081 74.4V63.5C49.5081 56.2 52.3081 49.3 57.4081 44.1L71.6081 29.9C71.9081 29.6 72.2081 29.5 72.5081 29.5C72.6081 29.5 72.7081 29.5 72.7081 29.5H72.8081C72.9081 29.5 72.9081 29.5 73.0081 29.6C73.5081 29.8 73.8081 30.3 73.8081 30.8V31.5C73.8081 37.4 71.5081 43 67.3081 47.1L63.5081 50.9C63.3081 51.3 63.3081 51.8 63.6081 52.2Z" fill="#14487C"/>
+    <path d="M28.708 48.2999L32.508 52.0999C32.808 52.3999 33.408 52.3999 33.708 52.0999C34.008 51.7999 34.008 51.1999 33.708 50.8999L29.908 47.0999C25.708 42.8999 23.408 37.3999 23.408 31.4999V30.7999C23.408 30.1999 23.708 29.7999 24.208 29.5999C24.308 29.5999 24.308 29.5999 24.408 29.4999H24.508C24.908 29.3999 25.408 29.5999 25.708 29.8999L39.908 44.0999C45.008 49.2999 47.808 56.1999 47.808 63.4999V74.1999C47.808 75.4999 47.008 76.2999 46.208 76.5999C46.008 76.6999 45.808 76.6999 45.608 76.7999C45.508 76.7999 45.408 76.7999 45.208 76.7999C44.608 76.7999 43.908 76.5999 43.408 75.9999L20.808 53.4999C16.908 49.5999 14.708 44.2999 14.708 38.7999V12.6999C14.708 12.0999 15.008 11.6999 15.508 11.4999C15.708 11.3999 15.908 11.3999 16.008 11.3999C16.308 11.3999 16.708 11.4999 16.908 11.7999C21.108 15.9999 23.408 21.4999 23.408 27.3999V28.0999C22.308 28.5999 21.708 29.5999 21.708 30.7999V31.4999C21.708 37.8999 24.208 43.7999 28.708 48.2999Z" fill="#14487C"/>
+    <path d="M6.80808 39.5C1.00808 33.7 -1.29192 25.5 0.708078 17.5C1.80808 13 4.30808 9 7.70808 5.8C12.0081 1.9 17.5081 0 23.0081 0C29.1081 0 35.3081 2.4 40.0081 7.1L47.5081 14.6L39.5081 22.6C36.7081 25.4 35.2081 29.1 35.2081 33.1C35.2081 34.6 35.4081 36.1 35.9081 37.5L27.1081 28.7C26.6081 28.2 26.0081 27.9 25.3081 27.8V27.4C25.3081 21 22.8081 15.1 18.3081 10.6C17.4081 9.7 16.1081 9.5 15.0081 9.9C13.8081 10.4 13.1081 11.5 13.1081 12.7V38.8C13.1081 41.8 13.7081 44.8 14.8081 47.5L6.80808 39.5Z" fill="#178D51"/>
+    <path d="M82.6081 47.3999C83.7081 44.6999 84.3081 41.7999 84.3081 38.7V12.7C84.3081 11.4 83.6081 10.4 82.4081 9.89995C81.2081 9.39995 80.0081 9.69995 79.1081 10.6C74.6081 15.1 72.1081 21.0999 72.1081 27.4V27.7999C71.5081 27.8999 70.8081 28.1999 70.3081 28.6999L61.4081 37.6C63.0081 32.5 61.8081 26.6999 57.8081 22.6999L49.8081 14.7L57.3081 7.19995C66.5081 -2.00005 81.3081 -2.20005 90.3081 6.69995C93.4081 9.69995 95.5081 13.5 96.6081 17.6C98.6081 25.6 96.3081 33.8 90.5081 39.6L82.6081 47.3999Z" fill="#FFDD00"/>
+    <path d="M48.7081 47.3C56.3849 47.3 62.6081 41.0768 62.6081 33.4C62.6081 25.7232 56.3849 19.5 48.7081 19.5C41.0313 19.5 34.8081 25.7232 34.8081 33.4C34.8081 41.0768 41.0313 47.3 48.7081 47.3Z" fill="#0A6773"/>
+    </svg></div>
+                    <span class="sr-only">HSSIB</span>
+                </a>
+                <div class="flex flex-row items-stretch justify-center max-w-50 md:max-w-none print:hidden">
+                    <div class="items-center self-center hidden h-auto py-1 pl-5 pr-2 bg-transparent rounded-sm xl:shrink-0 lg:flex">
+                        <!-- mini nav -->
+                        <nav class="flex w-full md:flex">
+                            <ul class="flex flex-row flex-wrap justify-start w-full text-primary-500 xl:justify-end">
+                                
+                                    <li class="mr-3">
+                                        
+                                            <a class="pb-1 border-b-2 border-transparent hover:border-primary-500 hover:border-b-2"
+                                               href="/news-events-blog/">News, events &amp; blog</a>
+                                        
+                                    </li>
+                                
+                                    <li class="mr-3">
+                                        
+                                            <a class="pb-1 border-b-2 border-transparent hover:border-primary-500 hover:border-b-2"
+                                               href="/work-for-us/">Work for us</a>
+                                        
+                                    </li>
+                                
+                                    <li class="mr-3">
+                                        
+                                            <a class="pb-1 border-b-2 border-transparent hover:border-primary-500 hover:border-b-2"
+                                               href="https://29b35612.sibforms.com/serve/MUIFAAdS115EqqzOD1zbZsgoEKkMafbzneoUqardplYsFcJH_oez6XkVRITtpmvv_q58FwOI3LHxdLE8dziibhGAq2ELQvYPvk0U4F3_AR0Vsw9E03eQc8jiKRyPjIpGL0zU04sU3-VDYA0f80IIrJtTzyXZed5ajn5jU1A2PzWtBRZYTAEQLvmE1aW5qhRVUVcCZHc-wQ0iyprH">Subscribe to our mailing list</a>
+                                        
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+                        
+                        <button @click="$dispatch('set-search-true');"
+                                class="flex flex-row items-center self-center px-2 py-2 font-medium text-white border-2 border-transparent rounded-md bg-primary-500 hover:bg-primary-600 hover:border-white">
+                            <span class="mr-3">
+                                <svg width="20"
+                                     height="20"
+                                     viewBox="0 0 20 20"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M19.7158 18.053L14.8677 13.2049C16.5515 10.9548 16.9747 8.00452 15.9927 5.37094C15.0107 2.73899 12.7578 0.786626 10.0122 0.189476C7.26681 -0.409147 4.40505 0.431288 2.41885 2.41886C0.431291 4.40497 -0.409164 7.26703 0.189489 10.0123C0.786633 12.7578 2.73882 15.0107 5.3709 15.9929C8.00429 16.9749 10.9547 16.5517 13.2047 14.8679L18.0528 19.716C18.5202 20.1171 19.2191 20.0905 19.6541 19.6541C20.0905 19.2191 20.1171 18.5202 19.716 18.0528L19.7158 18.053ZM2.36431 8.27441C2.36431 6.30449 3.34631 4.46578 4.98294 3.37038C6.61958 2.27633 8.69561 2.0699 10.515 2.82335C12.3345 3.57534 13.6585 5.18546 14.0449 7.11702C14.4312 9.04712 13.8281 11.0434 12.4377 12.4385C11.3319 13.5459 9.83238 14.1695 8.26791 14.171C6.70205 14.1725 5.20104 13.5518 4.09357 12.4459C2.98625 11.34 2.36404 9.83904 2.36404 8.27452L2.36431 8.27441Z" fill="#DDF0EE" />
+                                </svg>
+                            </span>
+                            <span x-text="searchOverlay ? 'Close': 'Search'">Search</span>
+                        </button>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="top-0 w-full mt-5 bg-primary-600">
+        <div class="container">
+            <nav id="main-nav"
+                 class="flex flex-row justify-between w-full py-1 text-white lg:py-0 lg:flex">
+                <ul class="flex-row flex-wrap hidden w-full lg:flex xl:text-lg">
+                    
+
+    
+        
+            <li
+            @set-sub-menu-false.window="subMenu = false"
+            
+            x-data="{ subMenu: false }"
+            class="relative mr-6"
+            @mouseLeave="subMenu = false"
+            @click.away="subMenu = false"
+            >
+                <a
+                    @focus="$dispatch('set-sub-menu-false'); subMenu = true"
+                    
+                    @mouseOver="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-transparent': subMenu === false }"
+                    class="flex flex-row pt-3 pb-2 border-b-4 hover:border-teal-100 "
+                    href="/about-us/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >About us
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_9">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/who-we-are/" id="ddtoggle_607" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Who we are
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/our-team/" id="ddtoggle_23" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Our team
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/our-board/" id="ddtoggle_590" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Our Board
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/vision-mission-and-values/" id="ddtoggle_906" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Vision, mission and values
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/equality-diversity-and-inclusion/" id="ddtoggle_606" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Equality, diversity and inclusion
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/corporate-publications/" id="ddtoggle_293" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Corporate publications
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/public-consultations/" id="ddtoggle_705" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Public consultations
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/national-collaboration/" id="ddtoggle_856" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        National collaboration
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/international-collaboration/" id="ddtoggle_769" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        International collaboration
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/publication-scheme/" id="ddtoggle_604" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Publication scheme
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/hsib-legacy/" id="ddtoggle_157" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        HSIB legacy
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            @set-sub-menu-false.window="subMenu = false"
+            
+            x-data="{ subMenu: false }"
+            class="relative mr-6"
+            @mouseLeave="subMenu = false"
+            @click.away="subMenu = false"
+            >
+                <a
+                    @focus="$dispatch('set-sub-menu-false'); subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-transparent': subMenu === false }"
+                    class="flex flex-row pt-3 pb-2 border-b-4 hover:border-teal-100 ancestor"
+                    href="/patient-safety-investigations/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Patient safety investigations
+                </a>
+
+                
+            </li>
+        
+    
+        
+            <li
+            @set-sub-menu-false.window="subMenu = false"
+            
+            x-data="{ subMenu: false }"
+            class="relative mr-6"
+            @mouseLeave="subMenu = false"
+            @click.away="subMenu = false"
+            >
+                <a
+                    @focus="$dispatch('set-sub-menu-false'); subMenu = true"
+                    
+                    @mouseOver="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-transparent': subMenu === false }"
+                    class="flex flex-row pt-3 pb-2 border-b-4 hover:border-teal-100 "
+                    href="/investigation-process/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Investigation process
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_588">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/how-we-learn-about-patient-safety-issues/" id="ddtoggle_805" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How we learn about patient safety issues
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/how-we-decide-what-to-investigate/" id="ddtoggle_804" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How we decide what to investigate
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/how-we-investigate/" id="ddtoggle_806" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How we investigate
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/being-involved-in-an-investigation/" id="ddtoggle_807" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Being involved in an investigation
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            @set-sub-menu-false.window="subMenu = false"
+            
+            x-data="{ subMenu: false }"
+            class="relative mr-6"
+            @mouseLeave="subMenu = false"
+            @click.away="subMenu = false"
+            >
+                <a
+                    @focus="$dispatch('set-sub-menu-false'); subMenu = true"
+                    
+                    @mouseOver="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-transparent': subMenu === false }"
+                    class="flex flex-row pt-3 pb-2 border-b-4 hover:border-teal-100 "
+                    href="/share-a-concern/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Share a concern
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_11">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/share-a-concern/how-to-tell-us-about-a-concern/" id="ddtoggle_93" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How to tell us about a patient safety concern
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/share-a-concern/other-organisations-to-contact/" id="ddtoggle_802" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Other organisations to contact
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/share-a-concern/help-and-support/" id="ddtoggle_803" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Help and support
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            @set-sub-menu-false.window="subMenu = false"
+            
+            x-data="{ subMenu: false }"
+            class="relative mr-6"
+            @mouseLeave="subMenu = false"
+            @click.away="subMenu = false"
+            >
+                <a
+                    @focus="$dispatch('set-sub-menu-false'); subMenu = true"
+                    
+                    @mouseOver="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-transparent': subMenu === false }"
+                    class="flex flex-row pt-3 pb-2 border-b-4 hover:border-teal-100 "
+                    href="/education/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Education
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_389">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/education/building-investigation-excellence/" id="ddtoggle_885" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Building investigation excellence
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/education/resources/" id="ddtoggle_811" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Resources
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            @set-sub-menu-false.window="subMenu = false"
+            
+            x-data="{ subMenu: false }"
+            class="relative mr-6"
+            @mouseLeave="subMenu = false"
+            @click.away="subMenu = false"
+            >
+                <a
+                    @focus="$dispatch('set-sub-menu-false'); subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-transparent': subMenu === false }"
+                    class="flex flex-row pt-3 pb-2 border-b-4 hover:border-teal-100 "
+                    href="/contact-us/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Contact us
+                </a>
+
+                
+            </li>
+        
+    
+
+                </ul>
+                <div class="flex flex-row lg:hidden print:hidden">    <button
+        @click.prevent="mobileNav = !mobileNav; $dispatch('body-toggle');"
+        class="flex flex-row items-center justify-center text-white hover:text-yellow-500">
+        <svg class="w-8 h-8 fill-current" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <path d="m16 15c-3.3125 0-6 2.6875-6 6s2.6875 6 6 6h68c3.3125 0 6-2.6875 6-6s-2.6875-6-6-6zm0 29c-3.3125 0-6 2.6875-6 6s2.6875 6 6 6h68c3.3125 0 6-2.6875 6-6s-2.6875-6-6-6zm0 29c-3.3125 0-6 2.6875-6 6s2.6875 6 6 6h68c3.3125 0 6-2.6875 6-6s-2.6875-6-6-6z"/>
+        </svg>
+        <span class="text-xs ml-1 tracking-wide uppercase">Menu</span>
+    </button>
+</div>
+            </nav>
+        </div>
+    </section>
+    
+<div x-show="mobileNav"
+    x-cloak
+    x-transition:enter="transition ease-in-out duration-500"
+    x-transition:enter-start="opacity-0 transform  -translate-y-12"
+    x-transition:enter-end="opacity-100 transform  translate-y-0"
+    x-transition:leave="transition ease-in duration-300"
+    x-transition:leave-end="opacity-0 transform -translate-y-3"
+    @click.away="mobileNav = false; $dispatch('body-toggle-off');"
+    class="fixed top-0 left-0 right-0 z-40 w-full h-auto max-h-screen mx-auto overflow-y-auto shadow-md bg-primary-500 lg:hidden">
+
+      <nav class="bg-primary-600 px-4 flex w-full md:flex">
+
+        <ul class="flex flex-row pr-24 flex-wrap w-full text-teal-200">
+            
+                <li class="mr-3">
+                    
+                        <a
+                            class="pt-2 pb-1 inline-flex text-white border-b-2 border-transparent hover:border-white hover:border-b-2"
+                            href="/news-events-blog/"
+                        >
+                            News, events &amp; blog
+                        </a>
+                    
+                </li>
+            
+                <li class="mr-3">
+                    
+                        <a
+                            class="pt-2 pb-1 inline-flex text-white border-b-2 border-transparent hover:border-white hover:border-b-2"
+                            href="/work-for-us/"
+                        >
+                            Work for us
+                        </a>
+                    
+                </li>
+            
+                <li class="mr-3">
+                    
+                        <a
+                            class="pt-2 pb-1 inline-flex border-b-2 border-transparent hover:border-white hover:border-b-2"
+                            href="https://29b35612.sibforms.com/serve/MUIFAAdS115EqqzOD1zbZsgoEKkMafbzneoUqardplYsFcJH_oez6XkVRITtpmvv_q58FwOI3LHxdLE8dziibhGAq2ELQvYPvk0U4F3_AR0Vsw9E03eQc8jiKRyPjIpGL0zU04sU3-VDYA0f80IIrJtTzyXZed5ajn5jU1A2PzWtBRZYTAEQLvmE1aW5qhRVUVcCZHc-wQ0iyprH"
+                        >
+                            Subscribe to our mailing list
+                        </a>
+                    
+                </li>
+            
+          </ul>
+          <button
+          @click.prevent="mobileNav = false; $dispatch('body-toggle-off');"
+            class="absolute top-0 mt-1 right-0 mr-4 z-50 flex-row items-center justify-center p-2 text-white rounded-lg hover:text-primary-500 hover:bg-teal-100 bg-primary-400 lg:hidden">
+                <svg class="w-6 h-6 fill-current" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <path d="m50 5c-24.898 0-45 20.102-45 45s20.102 45 45 45 45-20.102 45-45-20.102-45-45-45zm22.898 60.199c2.1016 2.1016 2.1016 5.5 0 7.6016-1.1016 1.1016-2.3984 1.6016-3.8008 1.6016-1.3984 0-2.8008-0.5-3.8008-1.6016l-14.996-15-15.102 15c-1.1016 1.1016-2.3984 1.6016-3.8008 1.6016-1.3984 0-2.8008-0.5-3.8008-1.6016-2.1016-2.1016-2.1016-5.5 0-7.6016l15.102-15.102-15.098-14.996c-2.1016-2.1016-2.1016-5.5 0-7.6016 2.1016-2.1016 5.5-2.1016 7.6016 0l15.102 15.102 15.102-15.102c2.1016-2.1016 5.5-2.1016 7.6016 0 2.1016 2.1016 2.1016 5.5 0 7.6016l-15.109 15.098z"/>
+                </svg>
+        </button>
+    </nav>
+
+
+    <div class="container">
+        <nav class="flex flex-col w-full pt-6 pr-12 lg:pr-0">
+            <ul class="flex flex-col w-full pb-3 space-y-4 text-lg ">
+              
+
+    
+        
+            <li
+            
+            class="relative pb-2 mr-6"
+            x-data="{ subMenu: false }"
+            @click.away="subMenu = false"
+            >
+                <a
+                    
+                    @click.prevent="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-primary-500': subMenu === false }"
+                    class="flex flex-row py-1 border-b-4 text-white hover:border-teal-100 "
+                    href="/about-us/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >About us
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_9">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/who-we-are/" id="ddtoggle_607" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Who we are
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/our-team/" id="ddtoggle_23" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Our team
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/our-board/" id="ddtoggle_590" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Our Board
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/vision-mission-and-values/" id="ddtoggle_906" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Vision, mission and values
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/equality-diversity-and-inclusion/" id="ddtoggle_606" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Equality, diversity and inclusion
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/corporate-publications/" id="ddtoggle_293" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Corporate publications
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/public-consultations/" id="ddtoggle_705" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Public consultations
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/national-collaboration/" id="ddtoggle_856" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        National collaboration
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/international-collaboration/" id="ddtoggle_769" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        International collaboration
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/publication-scheme/" id="ddtoggle_604" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Publication scheme
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/about-us/hsib-legacy/" id="ddtoggle_157" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        HSIB legacy
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            
+            class="relative pb-2 mr-6"
+            x-data="{ subMenu: false }"
+            @click.away="subMenu = false"
+            >
+                <a
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-primary-500': subMenu === false }"
+                    class="flex flex-row py-1 border-b-4 text-white hover:border-teal-100 ancestor"
+                    href="/patient-safety-investigations/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Patient safety investigations
+                </a>
+
+                
+            </li>
+        
+    
+        
+            <li
+            
+            class="relative pb-2 mr-6"
+            x-data="{ subMenu: false }"
+            @click.away="subMenu = false"
+            >
+                <a
+                    
+                    @click.prevent="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-primary-500': subMenu === false }"
+                    class="flex flex-row py-1 border-b-4 text-white hover:border-teal-100 "
+                    href="/investigation-process/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Investigation process
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_588">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/how-we-learn-about-patient-safety-issues/" id="ddtoggle_805" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How we learn about patient safety issues
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/how-we-decide-what-to-investigate/" id="ddtoggle_804" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How we decide what to investigate
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/how-we-investigate/" id="ddtoggle_806" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How we investigate
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/investigation-process/being-involved-in-an-investigation/" id="ddtoggle_807" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Being involved in an investigation
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            
+            class="relative pb-2 mr-6"
+            x-data="{ subMenu: false }"
+            @click.away="subMenu = false"
+            >
+                <a
+                    
+                    @click.prevent="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-primary-500': subMenu === false }"
+                    class="flex flex-row py-1 border-b-4 text-white hover:border-teal-100 "
+                    href="/share-a-concern/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Share a concern
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_11">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/share-a-concern/how-to-tell-us-about-a-concern/" id="ddtoggle_93" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        How to tell us about a patient safety concern
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/share-a-concern/other-organisations-to-contact/" id="ddtoggle_802" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Other organisations to contact
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/share-a-concern/help-and-support/" id="ddtoggle_803" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Help and support
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            
+            class="relative pb-2 mr-6"
+            x-data="{ subMenu: false }"
+            @click.away="subMenu = false"
+            >
+                <a
+                    
+                    @click.prevent="subMenu = true"
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-primary-500': subMenu === false }"
+                    class="flex flex-row py-1 border-b-4 text-white hover:border-teal-100 "
+                    href="/education/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Education
+                    <svg class="self-center block w-3 h-3 ml-2 fill-current text-primary-200" width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                      <path d="m4.582 12.5h90.832c4.375 0 5.832 2.918 3.543 6.457l-45.414 66.461c-0.70703 1.2344-2.0195 1.9961-3.4375 1.9961-1.4219 0-2.7344-0.76172-3.4375-1.9961l-45.625-66.461c-2.293-3.5391-0.83594-6.457 3.5391-6.457z"/>
+                    </svg>
+                    
+                </a>
+
+                
+                <div
+                 x-show="subMenu"
+                :class="{ 'table': subMenu === true, 'hidden': subMenu === false }"
+                 class="z-50 hidden w-auto px-4 pt-4 pb-4 text-base text-white normal-case whitespace-nowrap min-w-250 lg:flex-row lg:absolute left-full lg:bg-primary-400 lg:shadow-lg top-full lg:border-b-6 border-gradient-ms subMenu"
+                >
+                    
+
+
+    <ul
+    class="flex flex-col w-full"
+    aria-label="ddtoggle_389">
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/education/building-investigation-excellence/" id="ddtoggle_885" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Building investigation excellence
+                    </a>
+                    
+                </li>
+            
+        
+            
+                <li class="flex w-full border-b border-primary-600">
+                    <a class="w-full py-1 pr-3 transition-all duration-200 hover:pl-3 hover:pr-0 " href="/education/resources/" id="ddtoggle_811" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Resources
+                    </a>
+                    
+                </li>
+            
+        
+    </ul>
+
+
+                </div>
+                
+            </li>
+        
+    
+        
+            <li
+            
+            class="relative pb-2 mr-6"
+            x-data="{ subMenu: false }"
+            @click.away="subMenu = false"
+            >
+                <a
+                    
+                    :class="{ 'border-teal-100': subMenu === true, 'border-primary-500': subMenu === false }"
+                    class="flex flex-row py-1 border-b-4 text-white hover:border-teal-100 "
+                    href="/contact-us/"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    :aria-expanded="subMenu"
+                >Contact us
+                </a>
+
+                
+            </li>
+        
+    
+
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+
+        
+            <!-- z-index above footer image -->
+            <main id="main"
+                  role="main"
+                  class="relative"
+                  :class="{ 'z-auto' : bodyOverlay, 'z-30' : !bodyOverlay }">
+
+                <div>
+                    
+
+
+    <div class="bg-teal-200 breadcrumbs">
+        <div class="container">
+            <nav class="flex w-full py-3 font-normal text-primary-500" aria-label="Breadcrumb">
+                <ol class="flex flex-row flex-wrap">
+                    
+                        
+                    
+                        
+                            <li class="mr-3">
+                                <a class="py-1 underline hover:text-primary-400" href="/">
+                                    Home
+                                </a>
+                                &nbsp;&gt;
+                            </li>
+                        
+                    
+                        
+                            <li class="mr-3">
+                                <a class="py-1 underline hover:text-primary-400" href="/patient-safety-investigations/">
+                                    Patient safety investigations
+                                </a>
+                                &nbsp;&gt;
+                            </li>
+                        
+                    
+                    <li aria-current="page">Failures in communication or follow-up of unexpected significant radiological findings</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+
+                </div>
+                <div>
+                    <!-- Full width section after main nav (page title etc.) -->
+                    
+    <header class="py-8 bg-orange-300 text-primary-500">
+        
+<div class="container relative z-40 ">
+    <div class="flex flex-col -mx-2 md:flex-row print:flex-row">
+        <div class="w-auto px-2 mt-4">
+            
+                <img alt="X-ray of a shoulder and chest." height="300" src="https://hssib-ovd42x6f-media.s3.amazonaws.com/production-assets/images/HSIB_Website_Report_Failures_in_co.f2484dd9.fill-400x300.jpg" width="400">
+            
+        </div>
+        <div class="flex flex-col justify-center w-3/4 px-2 py-4 md:ml-12 print:block">
+            <h1 class="text-inherit">Failures in communication or follow-up of unexpected significant radiological findings</h1>
+        </div>
+    </div>
+    
+        <div class="mb-4 mt-4 flex w-auto"><span class="px-3 py-1 text-primary-500 text-base flex w-auto rounded-sm self-start border-2 bg-transparent font-medium category-tag-blue">
+    HSIB legacy content
+</span>
+</div>
+    
+</div>
+
+    </header>
+    <div class="mb-3 bg-teal-100">
+        <div class="container flex flex-col flex-wrap py-6 md:flex-row investigation-anchors print:flex-row">
+            <div class="w-full">
+                <h2 class='mb-2 text-lg text-primary-500'>Jump to:</h2>
+            </div>
+            <div class="flex flex-col flex-wrap -mx-4 md:flex-row print:flex-row">
+                
+                    <a href="#hsib-legacy-content">HSIB legacy content</a>
+                
+                    <a href="#background">Background</a>
+                
+                    <a href="#reference-event">Reference event</a>
+                
+                    <a href="#the-national-investigation">The national investigation</a>
+                
+                    <a href="#findings">Findings</a>
+                
+                    <a href="#impact">Impact</a>
+                
+                    <a href="#feedback">Feedback</a>
+                
+                
+                    <a href="#safety-recommendations">Safety recommendations</a>
+                
+                <a href="#safety-observations">Safety observations</a>
+                <a href="#safety-actions">Safety actions</a>
+                
+                
+            </div>
+        </div>
+    </div>
+
+
+                    
+                </div>
+                <!-- Some pages have an additional full width section beneath the main nav and page header -->
+                
+                <!-- <div> -->
+                <!-- </div> -->
+                
+                <div class="">
+                    <!-- Page content, in container -->
+                    
+    
+
+    <div id="content" class="container w-full">
+        <div class="flex flex-col flex-wrap mt-4 lg:flex-nowrap md:flex-row print:block sm:-mx-4">
+            <div class="w-full overflow-hidden lg:w-8/12 sm:my-4 sm:px-4">
+                <!-- Column Content -->
+                
+    
+        <div class="leading-normal prose max-w-none lg:leading-normal text-primary-900 markdown print:leading-normal">
+            
+                
+
+<h2 class="mt-0" id="hsib-legacy-content">HSIB legacy content</h2>
+<div class="text-field"><p data-block-key="gbwb2">This investigation was carried out by the Healthcare Safety Investigation Branch (HSIB). Find out more about <a href="/about-us/hsib-legacy/" class="richtext-arrow-link">HSIB legacy</a>.</p></div>
+
+            
+                
+
+<h2 class="mt-0" id="background">Background</h2>
+<div class="text-field"><p data-block-key="ieckf">X-rays are the most common radiological examination. 22.9 million were carried out in the NHS in 2016/17. Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk.</p><p data-block-key="as86t">The lack of follow-up or communication of unexpected significant findings can have a serious or life-threatening impact on patients.</p></div>
+
+            
+                
+
+<h2 class="mt-0" id="reference-event">Reference event</h2>
+<div class="text-field"><p data-block-key="ieckf">In the investigation reference event, a 76-year-old woman had a chest X-ray showing a possible lung cancer which was not followed up and resulted in a delayed diagnosis. The patient died just over two months after her diagnosis.</p></div>
+
+            
+                
+
+<h2 class="mt-0" id="the-national-investigation">The national investigation</h2>
+<div class="text-field"><p data-block-key="ieckf">Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk.</p><p data-block-key="e243f">HSIB contacted the hospital where the reference event occurred after it was reported as an incident on the national serious incident reporting database.</p><p data-block-key="8gqq8">The investigation reviewed the processes for communication and follow-up of unexpected significant radiological findings to understand why such findings are not always received or acted upon.</p><p data-block-key="1d5lm">The factors that influence the communication of results were explored and opportunities to reduce the risk of this happening in future were identified.</p><p data-block-key="f3bvs">The investigation paid particular attention to unexpected significant radiological findings from chest X-rays performed during a patient’s stay in an emergency department (ED).</p><p data-block-key="4fbe4">X-rays are the most common radiological examination and large volumes are requested from EDs. However, the conclusions of this investigation are applicable to the communication of radiological findings from other areas, and other types of diagnostic test results.</p></div>
+
+            
+                
+
+<h2 class="mt-0" id="findings">Findings</h2>
+<div class="text-field"><ul><li data-block-key="ieckf">There is wide variation in practice in how unexpected significant radiological findings are communicated to clinicians. There is also considerable variation in how findings are acknowledged by clinicians, if they are at all. There is very little assurance that the actions indicated by the findings have been taken.</li><li data-block-key="c4rag">Unexpected significant radiological findings may be communicated by telephone, electronic or paper-based systems, and involve a variety of policies and procedures. It is often a multi-step process, involving a number of individuals and information systems; this increases the risk of errors.</li><li data-block-key="3knae">Monitored acknowledgement of radiological findings is an important component of a reliable system and requires dedicated time and resource. Monitored acknowledgement is not in place in many trusts.</li><li data-block-key="5trhn">Opening a report and generating a read receipt is an unreliable form of acknowledgement. A more robust risk control is for acknowledgement to be a separate, distinct action. That said, acknowledgement does not guarantee action has been, or will be, taken. A system that provided assurance that necessary actions had been completed would best mitigate risk. Current IT infrastructure in many trusts means this is not feasible in the short term.</li><li data-block-key="822or">There are often many steps before a patient is informed of an unexpected significant radiological finding. These steps provide opportunities for error. Inspection of trusts by the Care Quality Commission is limited in scope in relation to the communication and follow-up of radiological findings. Inspections do not look at whether a monitored acknowledgement system and other risk controls necessary for a reliable system are in place.</li><li data-block-key="ffe7g">There is no nationally agreed list of what constitutes an unexpected significant finding that should trigger an alert. Some trusts have developed lists to standardise when alerts should be triggered by radiologists and to create a common expectation for clinicians.</li></ul></div>
+
+            
+                
+
+<h2 class="mt-0" id="impact">Impact</h2>
+<div class="text-field"><p data-block-key="ysjo9">During our investigation we collaborated closely with the Royal College of Radiologists and the Academy of Medical Royal Colleges. They were integral to the development of our safety recommendations, which you can read in full below.</p><p data-block-key="ftx6w">As a result of our safety recommendations, the Academy of Medical Royal Colleges published <a class="" href="https://www.aomrc.org.uk/wp-content/uploads/2022/10/Alerts_notification_imaging_reports_recommendations_1022.pdf">Recommendations on alerts and notification of imaging reports</a> guidance in October 2022. The main objective of this guidance is to ensure prompt and effective imaging result notification and its subsequent action to protect patient safety.</p><p data-block-key="nq321">This guidance reflects the evidence found in our investigation and fulfils our safety recommendation.</p></div>
+
+            
+                
+
+<h2 class="mt-0" id="feedback">Feedback</h2>
+<div class="text-field"><p data-block-key="ieckf">Tell us what you think about this investigation using our <a class="" href="https://www.smartsurvey.co.uk/s/PatientSafetyInvestigationsFeedback/">online feedback form</a>.</p></div>
+
+            
+        </div>
+    
+
+            </div>
+            <div class="w-full sm:min-w-300 lg:w-4/12 sm:my-4 sm:px-4">
+                <!-- Column Content -->
+                
+    
+        <div class="sticky top-0 mb-8">
+            <h2 class="mb-4 h3 text-primary-500">Publications</h2>
+            
+                <a class="flex self-start mb-4 text-white hover:bg-primary-700 bg-primary-400 btn pr"
+                   href="investigation-report">Investigation report</a>
+            
+            
+            
+        
+        
+        
+<aside class="w-full main-sidebar lg:pt-4 mt-0-first">
+    
+    
+    
+        
+<div class="w-full p-6 my-4 bg-gray-200 rounded-md timeline text-primary-500">
+    <h2 class="h3">Timeline</h2>
+    <ul class="flex flex-col pl-6 my-4 border-l-2 border-green-500 timeline print:pb-8">
+        
+            <li class="relative mt-8 item"><div>
+    <time datetime="2018/09/10">
+        10 September 2018
+    </time>
+    <p>Investigation launched</p>
+</div></li>
+        
+            <li class="relative mt-8 item"><div>
+    <time datetime="2019/07/18">
+        18 July 2019
+    </time>
+    <p>Final report published</p>
+</div></li>
+        
+    </ul>
+</div>
+
+    
+    
+    <div class="text-field">
+        <h2 class="mb-4 h3 text-primary-500" id="feedback">Feedback</h2>
+        <p>Tell us what you think about our investigations and reports by completing our <a class="" href="https://www.smartsurvey.co.uk/s/HSSIBFeedback/" target="_blank">online feedback form</a>.</p>
+    </div>
+
+    <div class="share-links w-full py-4 px-6 my-4 rounded-md timeline text-primary-500 bg-gray-200">
+    <h2 class="mb-4 font-medium h4">
+        Share this page
+    </h2>
+    <div class="flex flex-row flex-wrap gap-y-2 gap-x-4 shareLinks">
+        <a class="" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/&title=Failures in communication or follow-up of unexpected significant radiological findings&summary=&lt;p data-block-key=&quot;yhv52&quot;&gt;X-rays are the most common radiological examination. 22.9 million were carried out in the NHS in 2016/17. Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk. &lt;/p&gt;">
+            <svg class="w-8 h-8 text-green-500 fill-current hover:text-primary-500" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+            <span class="sr-only">
+                Share on LinkedIn
+            </span>
+        </a>
+
+        <a class="" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/">
+            <svg class="w-8 h-8 text-green-500 fill-current hover:text-primary-500" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            <span class="sr-only">
+                Share on Facebook
+            </span>
+        </a>
+
+        <a class="" href="https://x.com/intent/tweet?text=https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/">
+            <svg class="w-8 h-8 text-green-500 fill-current hover:text-primary-500"  role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>
+            <span class="sr-only">
+                Share on Twitter
+            </span>
+        </a>
+
+        <a class=""  href="https://bsky.app/intent/compose?text=https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/">
+            <svg class="w-8 h-8 text-green-500 fill-current hover:text-primary-500"  role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Bluesky</title><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>
+            <span class="sr-only">
+                Share on Bluesky
+            </span>
+        </a>
+
+        <a class="" href="whatsapp://send?text=https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/" data-action="share/whatsapp/share" target="_blank">
+            <svg class="w-8 h-8 text-green-500 fill-current hover:text-primary-500" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>WhatsApp</title><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+            <span class="sr-only">
+                Share on whatsapp
+            </span>
+        </a>
+
+        <a class="" title="Email" href="mailto:?subject=Failures in communication or follow-up of unexpected significant radiological findings&amp;body=https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/" target="_blank">
+            <?xml version="1.0" encoding="UTF-8"?>
+            <svg class="w-8 h-8 text-green-500 fill-current hover:text-primary-500" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><title>Email</title>
+                <path d="m13.094 22c-3.3203 0-6.0938 2.6836-6.0938 6v44c0 3.3164 2.7734 6 6.0938 6h73.812c3.3203 0 6.0938-2.6836 6.0938-6v-44c0-3.3164-2.7734-6-6.0938-6zm1.0312 4h71.75l-34.125 30.5c-0.85156 0.76172-2.6484 0.76172-3.5 0zm-3.125 2.5625l24.969 22.312-24.969 20.688zm78 0v43l-24.969-20.688zm-50 25.031l6.5938 5.875c2.5 2.2344 6.3125 2.2344 8.8125 0l6.5938-5.875 24.656 20.406h-71.312z"/>
+            </svg>
+            <span class="sr-only">
+                Share over email
+            </span>
+        </a>
+    </div>
+</div>
+
+</aside>
+
+    </div>
+
+            </div>
+        </div>
+    </div>
+    
+    
+
+                </div>
+                
+            </main>
+            
+        
+        
+    
+        
+            <section class="relative w-full py-12 bg-white typography concern print:bg-teal-300">
+                
+                    <div class="absolute inset-0 z-20 w-full h-full bg-teal-300 print:hidden opacity-95"></div>
+                
+                <div class="container relative z-40">
+                    <div class="flex flex-col w-full space-y-4 print:block">
+                        
+                            <h2 class="h2 text-primary-500" id="safety-recommendations">Safety recommendations</h2>
+                            
+                            
+                                <article class="flex flex-col print:block">
+                                    
+                                        
+<div class="w-full p-6 my-4 leading-normal bg-white rounded-lg ring-1 ring-black ring-opacity-5 max-w-none content markdown print:px-0">
+    <div class="flex flex-col mb-4 print:mb-0 print:block">
+        <div class="flex flex-col px-4 pt-3 mb-4 bg-orange-300 rounded lg:flex-row print:block print:px-0 print:mb-0">
+            
+                <div class="flex flex-row w-auto print:ml-0 lg:ml-2">
+                    
+                        <h3 class="mb-2 text-xl font-medium">
+                            Royal College of Radiologists
+                            
+                            
+                        </h3>
+                    
+                </div>
+            
+        </div>
+        <hr>
+        <div
+            x-data={open : false}
+            class="flex flex-col mt-4 lg:-mx-3 lg:flex-row print:flex-row">
+            <div class="w-full font-semibold prose print:font-normal lg:px-3 max-w-none"><p data-block-key="f0xar">It is recommended that the Royal College of Radiologists, working with the Society and College of Radiographers and other relevant specialties through the Academy of Royal Medical Colleges, develops:</p><ol><li data-block-key="rfauw">principles upon which findings should be reported as ‘unexpected significant’, ‘critical’ and ‘urgent’</li><li data-block-key="ckv93">a simplified national framework for the coding of alerts on radiology reports</li><li data-block-key="rl9ak">a list of conditions for which an alert should always be triggered, where appropriate and feasible to do so.</li></ol></div>
+        </div>
+    </div>
+    
+        
+<!-- this gets one card -->
+
+    <div x-data="{open : false}" class="flex flex-col">
+        <hr class="mt-2">
+        <button @click="open = !open"
+                
+                class="mb-2 mt-4 text-xl flex self-start items-center flex-row w-auto bg-teal-200 rounded-sm px-4 py-1 text-primary-500 text-left hover:text-primary-700 hover:bg-teal-300 font-medium">
+            <span>Response</span>
+            <svg :class="open ? 'rotate-90' : ''"
+                 class="w-6 ml-2 h-6 transform duration-500 fill-current"
+                 width="100pt"
+                 height="100pt"
+                 version="1.1"
+                 viewBox="0 0 100 100"
+                 xmlns="http://www.w3.org/2000/svg">
+                <g>
+                <path d="m12.5 45.832h64.582v8.332h-64.582z" />
+                <path d="m59.168 77.918l-5.8359-5.8359 22.086-22.082-22.086-22.082 5.8359-5.8359 27.914 27.918z" />
+                </g>
+            </svg>
+        </button>
+        <div x-show="open"
+             class="flex flex-col w-full lg:flex-col rounded-lg  border-teal-200 ">
+            <div class="w-full pt-4 py-4 prose lg:w-3/4 markdown max-w-none"><p data-block-key="3tcgg">We extend our sympathy to the family of the patient at the heart of these systemic failings and welcome the thorough investigation of the wider issues raised in the reference case to this investigation.</p><p data-block-key="zjmif">As the report points out, there have been a number of attempts to resolve the challenges of alerts and acknowledgments of unexpected findings over the years, especially since in 2007 the National Patient Safety Agency (NPSA) Safer Practice Notice highlighted the risk of harm to patients if radiology reports are not acted upon.</p><p data-block-key="gjy47">Ownership of alerts and acknowledgements extends between teams.</p><p data-block-key="ifebv">After very positive initial discussions with the College of Radiographers and the Academy of Medical Royal Colleges, we are committed to gathering data and evidence to inform conditions which should always be notified by the end of December 2019. Through the Academy we will consult widely across specialties to establish consensus on those conditions and identify the key partners with whom we will work to develop principles for classification and national model for coding. We intend to publish substantive guidelines in Autumn/Winter 2020.</p><p data-block-key="vy7hw">Whilst convergence in terminology and methodology on significant unexpected findings will make considerable progress toward avoiding these critical diagnoses falling between the gaps, the value of this safeguarding is limited without digital systems and infrastructure capable of adapting to an agreed national framework. This is particularly important as we move toward an increasingly networked approach to delivery of our diagnostic services, which will challenge systems and the integration between teams and organisations. We have invited NHSX to join us to ensure that the collaborative framework we develop can be practically implemented across the country at the earliest opportunity. This is the key lever to ensure that both patients and services can have confidence that serious unexpected findings will be acted upon.</p><p data-block-key="k2udd"><b>Response received on 10 October 2019.</b></p></div>
+        </div>
+    </div>
+
+
+    
+</div>
+
+                                    
+                                        
+<div class="w-full p-6 my-4 leading-normal bg-white rounded-lg ring-1 ring-black ring-opacity-5 max-w-none content markdown print:px-0">
+    <div class="flex flex-col mb-4 print:mb-0 print:block">
+        <div class="flex flex-col px-4 pt-3 mb-4 bg-orange-300 rounded lg:flex-row print:block print:px-0 print:mb-0">
+            
+                <div class="flex flex-row w-auto print:ml-0 lg:ml-2">
+                    
+                        <h3 class="mb-2 text-xl font-medium">
+                            NHS England and NHS Improvement
+                            
+                            
+                        </h3>
+                    
+                </div>
+            
+        </div>
+        <hr>
+        <div
+            x-data={open : false}
+            class="flex flex-col mt-4 lg:-mx-3 lg:flex-row print:flex-row">
+            <div class="w-full font-semibold prose print:font-normal lg:px-3 max-w-none"><p data-block-key="p55u1">It is recommended that NHS England and NHS Improvement’s patient safety team takes steps to ensure providers are aware of the safety recommendations in this report and act to implement the key findings regarding risk controls such as a monitored acknowledgement system for critical, urgent and unexpected significant findings.</p></div>
+        </div>
+    </div>
+    
+        
+<!-- this gets one card -->
+
+    <div x-data="{open : false}" class="flex flex-col">
+        <hr class="mt-2">
+        <button @click="open = !open"
+                
+                class="mb-2 mt-4 text-xl flex self-start items-center flex-row w-auto bg-teal-200 rounded-sm px-4 py-1 text-primary-500 text-left hover:text-primary-700 hover:bg-teal-300 font-medium">
+            <span>Response</span>
+            <svg :class="open ? 'rotate-90' : ''"
+                 class="w-6 ml-2 h-6 transform duration-500 fill-current"
+                 width="100pt"
+                 height="100pt"
+                 version="1.1"
+                 viewBox="0 0 100 100"
+                 xmlns="http://www.w3.org/2000/svg">
+                <g>
+                <path d="m12.5 45.832h64.582v8.332h-64.582z" />
+                <path d="m59.168 77.918l-5.8359-5.8359 22.086-22.082-22.086-22.082 5.8359-5.8359 27.914 27.918z" />
+                </g>
+            </svg>
+        </button>
+        <div x-show="open"
+             class="flex flex-col w-full lg:flex-col rounded-lg  border-teal-200 ">
+            <div class="w-full pt-4 py-4 prose lg:w-3/4 markdown max-w-none"><p data-block-key="e5gi5">Once the Royal College of Radiologists, and partner organisations, have developed and published their proposals and definitions (as outlined in Recommendation 2019/039) the national patient safety team will utilise avenues at its disposal, including a national patient safety alert (if the nationally agreed criteria are met), to promote systematic implementation of the safety recommendations related to unexpected significant radiological findings.</p><p data-block-key="tx9jn"><b>Response received on 14 October 2019.</b></p></div>
+        </div>
+    </div>
+
+
+    
+</div>
+
+                                    
+                                        
+<div class="w-full p-6 my-4 leading-normal bg-white rounded-lg ring-1 ring-black ring-opacity-5 max-w-none content markdown print:px-0">
+    <div class="flex flex-col mb-4 print:mb-0 print:block">
+        <div class="flex flex-col px-4 pt-3 mb-4 bg-orange-300 rounded lg:flex-row print:block print:px-0 print:mb-0">
+            
+                <div class="flex flex-row w-auto print:ml-0 lg:ml-2">
+                    
+                        <h3 class="mb-2 text-xl font-medium">
+                            NHSX
+                            
+                            
+                        </h3>
+                    
+                </div>
+            
+        </div>
+        <hr>
+        <div
+            x-data={open : false}
+            class="flex flex-col mt-4 lg:-mx-3 lg:flex-row print:flex-row">
+            <div class="w-full font-semibold prose print:font-normal lg:px-3 max-w-none"><p data-block-key="f29hl">It is recommended that NHSX develops a method of digitally notifying patients of results. This should be used to inform patients of unexpected significant radiological findings after an agreed timeframe. It should be developed in conjunction with the Royal College of Radiologists. The notification system should be tested and evaluated.</p></div>
+        </div>
+    </div>
+    
+        
+<!-- this gets one card -->
+
+    <div x-data="{open : false}" class="flex flex-col">
+        <hr class="mt-2">
+        <button @click="open = !open"
+                
+                class="mb-2 mt-4 text-xl flex self-start items-center flex-row w-auto bg-teal-200 rounded-sm px-4 py-1 text-primary-500 text-left hover:text-primary-700 hover:bg-teal-300 font-medium">
+            <span>Response</span>
+            <svg :class="open ? 'rotate-90' : ''"
+                 class="w-6 ml-2 h-6 transform duration-500 fill-current"
+                 width="100pt"
+                 height="100pt"
+                 version="1.1"
+                 viewBox="0 0 100 100"
+                 xmlns="http://www.w3.org/2000/svg">
+                <g>
+                <path d="m12.5 45.832h64.582v8.332h-64.582z" />
+                <path d="m59.168 77.918l-5.8359-5.8359 22.086-22.082-22.086-22.082 5.8359-5.8359 27.914 27.918z" />
+                </g>
+            </svg>
+        </button>
+        <div x-show="open"
+             class="flex flex-col w-full lg:flex-col rounded-lg  border-teal-200 ">
+            <div class="w-full pt-4 py-4 prose lg:w-3/4 markdown max-w-none"><p data-block-key="tz7ke">We acknowledge and agree with the report’s recommendation 2019/041 - that a method should be developed to digitally notify patient of unexpected significant radiological findings after an agreed timeframe. We are happy to work with the Royal College of Radiology and other key stakeholders such as the Royal College of General Practice on this issue.</p><p data-block-key="tnm83">We are already aware of local areas using patient facing portals to provide results to patients and our national work with the GP Connect programme is looking specifically at capabilities to support tasking and alerting to GPs. In response to this recommendation, we are planning to conduct some discovery work over the coming months to look at requirements, potential solutions and guidance that NHSX can provide to improve digital practice and ultimately patient safety..</p><p data-block-key="q5w7z">There will be information governance and integration issues to overcome which we will, of course, work through in partnership with provider organisations.</p><p data-block-key="gb7f5"><b>Response received on 17 October 2019.</b></p></div>
+        </div>
+    </div>
+
+
+    
+</div>
+
+                                    
+                                        
+<div class="w-full p-6 my-4 leading-normal bg-white rounded-lg ring-1 ring-black ring-opacity-5 max-w-none content markdown print:px-0">
+    <div class="flex flex-col mb-4 print:mb-0 print:block">
+        <div class="flex flex-col px-4 pt-3 mb-4 bg-orange-300 rounded lg:flex-row print:block print:px-0 print:mb-0">
+            
+                <div class="flex flex-row w-auto print:ml-0 lg:ml-2">
+                    
+                        <h3 class="mb-2 text-xl font-medium">
+                            Care Quality Commission
+                            
+                            
+                        </h3>
+                    
+                </div>
+            
+        </div>
+        <hr>
+        <div
+            x-data={open : false}
+            class="flex flex-col mt-4 lg:-mx-3 lg:flex-row print:flex-row">
+            <div class="w-full font-semibold prose print:font-normal lg:px-3 max-w-none"><p data-block-key="b6qgy">It is recommended that the Care Quality Commission amends all appropriate core service frameworks to include risk controls identified in this report, to mitigate the risk of significant abnormal findings not being followed up.</p></div>
+        </div>
+    </div>
+    
+        
+<!-- this gets one card -->
+
+    <div x-data="{open : false}" class="flex flex-col">
+        <hr class="mt-2">
+        <button @click="open = !open"
+                
+                class="mb-2 mt-4 text-xl flex self-start items-center flex-row w-auto bg-teal-200 rounded-sm px-4 py-1 text-primary-500 text-left hover:text-primary-700 hover:bg-teal-300 font-medium">
+            <span>Response</span>
+            <svg :class="open ? 'rotate-90' : ''"
+                 class="w-6 ml-2 h-6 transform duration-500 fill-current"
+                 width="100pt"
+                 height="100pt"
+                 version="1.1"
+                 viewBox="0 0 100 100"
+                 xmlns="http://www.w3.org/2000/svg">
+                <g>
+                <path d="m12.5 45.832h64.582v8.332h-64.582z" />
+                <path d="m59.168 77.918l-5.8359-5.8359 22.086-22.082-22.086-22.082 5.8359-5.8359 27.914 27.918z" />
+                </g>
+            </svg>
+        </button>
+        <div x-show="open"
+             class="flex flex-col w-full lg:flex-col rounded-lg  border-teal-200 ">
+            <div class="w-full pt-4 py-4 prose lg:w-3/4 markdown max-w-none"><p data-block-key="dc7ry">CQC agree that effective fail-safe processes such as those identified in the report are important in helping protect the safety of patients, but that it is, of course, not possible or appropriate for CQC inspectors to review all aspects of every service in detail on every inspection, and we therefore need to be selective as to what we include in our assessment frameworks.</p><p data-block-key="7km0j">However in light of the report we would consider what changes we could make to our core service frameworks to include aspects of fail-safe processes where appropriate and where we will be able to collect sufficient evidence to drive improvement. This would be taken forward as part of the wider work CQC is currently undertaking in relation to lightening the load work and review of frameworks.</p><p data-block-key="xy0q6">However, the IR(ME)R Team and the Hospitals Policy Team regularly review the diagnostic imaging frameworks to make sure they are kept up to date and include any relevant new standards or appropriate guidance such as this HSIB recommendation.</p><p data-block-key="8o0c7"><b>Response received on 26 November 2019.</b></p></div>
+        </div>
+    </div>
+
+
+    
+</div>
+
+                                    
+                                </article>
+                            
+                        
+                        
+                            <article id="safety-observations"
+                                     class="w-full h-auto p-6 my-4 leading-normal bg-white rounded-lg print:p-0 ring-1 ring-black ring-opacity-5">
+                                <div class="leading-normal content markdown">
+                                    <h3 class="mb-2 text-xl font-medium">Safety observations</h3>
+                                    <hr>
+                                    <div class="flex flex-col mt-4 lg:-mx-3 lg:flex-row print:flex-row">
+                                        <div class="w-full prose lg:px-3 print:px-0 markdown max-w-none"><p data-block-key="91vrg">There is an established model of radiology departments requesting a CT scan for chest X-rays referred from GPs that show possible lung cancer. Two trusts are extending this to chest X-rays referred from the emergency department.</p><p data-block-key="c99dd">It would be beneficial for this practice to be evaluated.</p><p data-block-key="gje9q"><b>Observation to the Royal College of Radiologists:</b></p><p data-block-key="wyfod">Given the likely wider use of artificial intelligence in the future, some standardisation of radiology reports may be required. It would be beneficial for this to be evaluated.</p></div>
+                                    </div>
+                                </div>
+                            </article>
+                        
+                        
+                            <article id="safety-actions"
+                                     class="w-full p-6 my-4 leading-normal bg-white rounded-lg print:p-0 ring-1 ring-black ring-opacity-5">
+                                <div class="leading-normal content markdown">
+                                    <h3 class="mb-2 text-xl font-medium">Safety actions</h3>
+                                    <hr>
+                                    <div class="flex flex-col mt-4 lg:-mx-3 lg:flex-row print:flex-row">
+                                        <div class="w-full prose lg:px-3 print:px-0 markdown max-w-none"><p data-block-key="5sw89">The Academy of Medical Royal Colleges has written a statement endorsing the need to ensure clinicians act on alerted radiological findings and that a monitored acknowledgement system is in place in all local organisations.</p><p data-block-key="iyfwx">Whether this is a single centralised system or specialty-specific process is for local decision depending on the available infrastructure.</p></div>
+                                    </div>
+                                </div>
+                            </article>
+                        
+                    </div>
+                </div>
+                
+            </section>
+        
+    
+
+
+        <footer class="relative z-20 pt-8 text-blue-900 bg-teal-200 print:bg-transparent print:text-black site-footer">
+            <div class="container relative z-20 pt-16 md:pt-0">
+                <div class="w-full print:hidden">
+                    
+                    <div class="grid grid-cols-1 gap-4 sm:grid-cols-3 xl:grid-cols-4 ">
+                        <div class="pt-4 print:hidden xl:col-span-1 sm:col-span-3">
+                            <a title="home" class="block h-auto mb-4 max-w-175" href="/">
+                                
+                                <svg class="w-full h-auto" viewBox="0 0 198 209" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M125.3 94.5001C125.9 95.1001 126.9 95.1001 127.5 94.5001L134.4 87.6001C142.6 79.4001 147 68.6001 147 57.1001V55.9001C147 53.7001 145.8 51.8001 143.9 50.9001V49.6001C143.9 38.9001 148.1 28.8001 155.6 21.3001C156.3 20.6001 157.3 20.4001 158.2 20.8001C159.1 21.2001 159.7 22.0001 159.7 23.0001V70.2001C159.7 80.3001 155.8 89.8001 148.7 96.9001L107.8 137.8C107.4 138.2 107.1 138.4 106.7 138.6C105.7 139.1 104.6 139.2 103.7 139.1C103.3 139 103 138.9 102.7 138.8C101.3 138.2 99.8 136.8 99.8 134.4V114.9C99.8 101.6 104.9 89.2001 114.1 79.7001L139.8 54.0001C140.3 53.5001 140.9 53.3001 141.5 53.3001C141.6 53.3001 141.8 53.3001 141.9 53.3001H142C142.1 53.3001 142.2 53.4001 142.4 53.4001C143.3 53.8001 143.9 54.6001 143.9 55.6001V56.8001C143.9 67.5001 139.7 77.6001 132.2 85.1001L125.3 92.0001C124.7 92.9001 124.7 93.9001 125.3 94.5001Z" fill="#14487C"/>
+    <path d="M62 87.6001L68.9 94.5001C69.5 95.1001 70.5 95.1001 71.1 94.5001C71.7 93.9001 71.7 92.9001 71.1 92.3001L64.2 85.4001C56.6 77.8001 52.5 67.8001 52.5 57.1001V55.9001C52.5 54.9001 53.1 54.0001 54 53.7001C54.1 53.6001 54.2 53.6001 54.4 53.6001H54.5C55.3 53.5001 56 53.7001 56.6 54.3001L82.2999 80.0001C91.5999 89.5001 96.6 101.9 96.6 115.2V134.7C96.6 137 95.1 138.5 93.7 139.1C93.3 139.2 92.9999 139.4 92.4999 139.4C92.2999 139.4 92.1 139.4 91.9 139.4C90.8 139.4 89.6 139 88.6 138L47.7 97.1001C40.6 90.0001 36.7 80.5001 36.7 70.4001V23.0001C36.7 22.0001 37.3 21.1001 38.2 20.8001C38.5 20.7001 38.8 20.6001 39.2 20.6001C39.8 20.6001 40.4 20.8001 40.9 21.3001C48.5 28.9001 52.6 38.9001 52.6 49.6001V50.8001C50.7 51.7001 49.5 53.6001 49.5 55.8001V57.0001C49.4 68.6001 53.9 79.4001 62 87.6001Z" fill="#14487C"/>
+    <path d="M22.3 71.5C11.7 61 7.59998 46.1 11.2 31.6C13.2 23.4 17.6 16.1 24 10.5C31.9 3.4 41.8 0 51.7 0C62.8 0 73.9 4.3 82.4 12.8L96 26.4L81.4 41C76.3 46.1 73.5 52.8 73.5 60C73.5 62.8 73.9 65.5 74.7 68L58.7 52C57.8 51.1 56.7 50.6 55.5 50.4V49.6C55.5 38.1 51 27.2 42.9 19.1C41.3 17.5 39 17 36.9 17.9C34.8 18.8 33.5 20.7 33.5 23V70.2C33.5 75.7 34.6 81 36.6 85.9L22.3 71.5Z" fill="#178D51"/>
+    <path d="M159.7 85.9001C161.7 81.0001 162.8 75.7001 162.8 70.2001V23.0001C162.8 20.7001 161.5 18.8001 159.4 17.9001C157.3 17.0001 155 17.5001 153.4 19.1001C145.2 27.3001 140.8 38.1001 140.8 49.6001V50.3001C139.6 50.4001 138.5 51.0001 137.6 51.9001L121.6 68.0001C124.5 58.8001 122.3 48.3001 115 41.0001L100.4 26.4001L114 12.8001C130.6 -3.79989 157.5 -4.19989 173.9 11.9001C179.4 17.4001 183.4 24.2001 185.2 31.7001C188.8 46.2001 184.7 61.1001 174.1 71.6001L159.7 85.9001Z" fill="#FFDD00"/>
+    <path d="M98.2 85.7001C112.118 85.7001 123.4 74.4176 123.4 60.5001C123.4 46.5825 112.118 35.3 98.2 35.3C84.2824 35.3 73 46.5825 73 60.5001C73 74.4176 84.2824 85.7001 98.2 85.7001Z" fill="#0A6773"/>
+    <path d="M0 171.7H1.4V177.3H8.7V171.7H10.1V184.3H8.7V178.6H1.4V184.3H0V171.7Z" fill="#14487C"/>
+    <path d="M12.8999 179.6C12.8999 176.9 14.7999 174.7 17.3999 174.7C20.1999 174.7 21.6999 176.9 21.6999 179.6C21.6999 179.8 21.6999 179.9 21.6999 180.1H14.2999C14.4999 182.1 15.8999 183.3 17.5999 183.3C18.8999 183.3 19.7999 182.8 20.4999 182L21.3999 182.8C20.4999 183.8 19.2999 184.5 17.5999 184.5C14.9999 184.5 12.8999 182.5 12.8999 179.6ZM20.2999 179.1C20.1999 177.4 19.1999 175.9 17.2999 175.9C15.6999 175.9 14.4999 177.2 14.2999 179.1H20.2999Z" fill="#14487C"/>
+    <path d="M23.3999 181.6C23.3999 179.6 24.9999 178.6 27.3999 178.6C28.5999 178.6 29.3999 178.8 30.2999 179V178.6C30.2999 176.9 29.2999 176.1 27.4999 176.1C26.3999 176.1 25.4999 176.4 24.6999 176.8L24.2999 175.7C25.2999 175.2 26.2999 174.9 27.6999 174.9C28.9999 174.9 29.9999 175.2 30.6999 175.9C31.2999 176.5 31.6999 177.4 31.6999 178.6V184.3H30.3999V182.9C29.7999 183.7 28.6999 184.5 26.9999 184.5C25.0999 184.5 23.3999 183.5 23.3999 181.6ZM30.2999 180.8V179.9C29.5999 179.7 28.6999 179.5 27.5999 179.5C25.8999 179.5 24.8999 180.3 24.8999 181.4C24.8999 182.6 25.9999 183.3 27.1999 183.3C28.8999 183.4 30.2999 182.3 30.2999 180.8Z" fill="#14487C"/>
+    <path d="M34.6001 171.1H36.0001V184.2H34.6001V171.1Z" fill="#14487C"/>
+    <path d="M39.6999 181.8V176.2H38.3999V175H39.6999V172.2H41.0999V175H44.0999V176.2H41.0999V181.6C41.0999 182.7 41.6999 183.1 42.6999 183.1C43.1999 183.1 43.5999 183 44.0999 182.8V184C43.5999 184.3 43.0999 184.4 42.3999 184.4C40.8999 184.4 39.6999 183.7 39.6999 181.8Z" fill="#14487C"/>
+    <path d="M46.5 171.1H47.9V176.6C48.5 175.6 49.5 174.8 51.1 174.8C53.3 174.8 54.7 176.3 54.7 178.5V184.3H53.3V178.9C53.3 177.2 52.4 176.1 50.7 176.1C49.1 176.1 47.9 177.3 47.9 179V184.3H46.5V171.1Z" fill="#14487C"/>
+    <path d="M62.3999 182.4L63.2999 181.4C64.5999 182.6 65.8999 183.2 67.5999 183.2C69.2999 183.2 70.3999 182.3 70.3999 181.1C70.3999 179.9 69.7999 179.3 67.0999 178.7C64.1999 178.1 62.8999 177.1 62.8999 175.1C62.8999 173.1 64.5999 171.7 66.9999 171.7C68.7999 171.7 70.1999 172.2 71.3999 173.2L70.5999 174.3C69.3999 173.3 68.2999 172.9 66.9999 172.9C65.3999 172.9 64.2999 173.8 64.2999 174.9C64.2999 176.1 64.8999 176.8 67.6999 177.3C70.4999 177.9 71.7999 178.9 71.7999 180.9C71.7999 183.1 69.9999 184.5 67.4999 184.5C65.5999 184.4 63.8999 183.8 62.3999 182.4Z" fill="#14487C"/>
+    <path d="M74 179.6C74 176.9 75.9 174.7 78.5 174.7C81.3 174.7 82.8 176.9 82.8 179.6C82.8 179.8 82.8 179.9 82.8 180.1H75.4C75.6 182.1 77 183.3 78.7 183.3C80 183.3 80.9 182.8 81.6 182L82.5 182.8C81.6 183.8 80.4 184.5 78.7 184.5C76 184.5 74 182.5 74 179.6ZM81.4 179.1C81.3 177.4 80.3 175.9 78.4 175.9C76.8 175.9 75.6 177.2 75.4 179.1H81.4Z" fill="#14487C"/>
+    <path d="M85.2 175H86.6V177.4C87.3 175.9 88.6 174.7 90.4 174.8V176.3H90.2999C88.2999 176.3 86.6 177.8 86.6 180.6V184.3H85.2V175Z" fill="#14487C"/>
+    <path d="M91.6001 175H93.1001L96.2001 182.7L99.4001 175H100.9L96.8001 184.4H95.6001L91.6001 175Z" fill="#14487C"/>
+    <path d="M103.1 171.4H104.7V172.9H103.1V171.4ZM103.2 175H104.6V184.3H103.2V175Z" fill="#14487C"/>
+    <path d="M107.2 179.7C107.2 177 109.3 174.8 112 174.8C113.8 174.8 114.9 175.5 115.7 176.5L114.8 177.5C114.1 176.7 113.2 176.1 112 176.1C110.1 176.1 108.7 177.7 108.7 179.7C108.7 181.7 110.2 183.3 112.1 183.3C113.3 183.3 114.2 182.7 114.9 181.9L115.8 182.7C114.9 183.7 113.7 184.5 112 184.5C109.3 184.5 107.2 182.3 107.2 179.7Z" fill="#14487C"/>
+    <path d="M117.2 179.6C117.2 176.9 119.1 174.7 121.7 174.7C124.5 174.7 126 176.9 126 179.6C126 179.8 126 179.9 126 180.1H118.6C118.8 182.1 120.2 183.3 121.9 183.3C123.2 183.3 124.1 182.8 124.8 182L125.7 182.8C124.8 183.8 123.6 184.5 121.9 184.5C119.3 184.5 117.2 182.5 117.2 179.6ZM124.6 179.1C124.5 177.4 123.5 175.9 121.6 175.9C120 175.9 118.8 177.2 118.6 179.1H124.6Z" fill="#14487C"/>
+    <path d="M127.7 183.1L128.4 182.1C129.4 182.9 130.5 183.3 131.6 183.3C132.7 183.3 133.5 182.7 133.5 181.8C133.5 180.9 132.4 180.5 131.2 180.2C129.7 179.8 128.1 179.3 128.1 177.6C128.1 176 129.4 174.9 131.3 174.9C132.4 174.9 133.7 175.3 134.6 175.9L134 176.9C133.1 176.3 132.1 176 131.2 176C130.1 176 129.4 176.6 129.4 177.3C129.4 178.2 130.6 178.5 131.8 178.9C133.2 179.3 134.8 179.9 134.8 181.6C134.8 183.4 133.3 184.4 131.5 184.4C130.2 184.4 128.7 183.9 127.7 183.1Z" fill="#14487C"/>
+    <path d="M142.2 182.4L143.1 181.4C144.4 182.6 145.7 183.2 147.4 183.2C149.1 183.2 150.2 182.3 150.2 181.1C150.2 179.9 149.6 179.3 146.9 178.7C144 178.1 142.7 177.1 142.7 175.1C142.7 173.1 144.4 171.7 146.8 171.7C148.6 171.7 150 172.2 151.2 173.2L150.4 174.3C149.2 173.3 148.1 172.9 146.8 172.9C145.2 172.9 144.1 173.8 144.1 174.9C144.1 176.1 144.7 176.8 147.5 177.3C150.3 177.9 151.6 178.9 151.6 180.9C151.6 183.1 149.8 184.5 147.3 184.5C145.4 184.4 143.7 183.8 142.2 182.4Z" fill="#14487C"/>
+    <path d="M153.6 181.6C153.6 179.6 155.2 178.6 157.6 178.6C158.8 178.6 159.6 178.8 160.5 179V178.6C160.5 176.9 159.5 176.1 157.7 176.1C156.6 176.1 155.7 176.4 154.9 176.8L154.5 175.7C155.5 175.2 156.5 174.9 157.9 174.9C159.2 174.9 160.2 175.2 160.9 175.9C161.5 176.5 161.9 177.4 161.9 178.6V184.3H160.6V182.9C160 183.7 158.9 184.5 157.2 184.5C155.4 184.5 153.6 183.5 153.6 181.6ZM160.5 180.8V179.9C159.8 179.7 158.9 179.5 157.8 179.5C156.1 179.5 155.1 180.3 155.1 181.4C155.1 182.6 156.2 183.3 157.4 183.3C159.1 183.4 160.5 182.3 160.5 180.8Z" fill="#14487C"/>
+    <path d="M165.3 176.2H164V175H165.3V174.2C165.3 173.1 165.6 172.3 166.1 171.8C166.6 171.3 167.3 171.1 168.1 171.1C168.7 171.1 169.2 171.2 169.6 171.3V172.5C169.1 172.4 168.7 172.3 168.2 172.3C167.1 172.3 166.6 172.9 166.6 174.3V175.1H169.6V176.3H166.7V184.4H165.3V176.2Z" fill="#14487C"/>
+    <path d="M170.6 179.6C170.6 176.9 172.5 174.7 175.1 174.7C177.9 174.7 179.4 176.9 179.4 179.6C179.4 179.8 179.4 179.9 179.4 180.1H172C172.2 182.1 173.6 183.3 175.3 183.3C176.6 183.3 177.5 182.8 178.2 182L179.1 182.8C178.2 183.8 177 184.5 175.3 184.5C172.7 184.5 170.6 182.5 170.6 179.6ZM178 179.1C177.9 177.4 176.9 175.9 175 175.9C173.4 175.9 172.2 177.2 172 179.1H178Z" fill="#14487C"/>
+    <path d="M182.3 181.8V176.2H181V175H182.3V172.2H183.7V175H186.7V176.2H183.7V181.6C183.7 182.7 184.3 183.1 185.3 183.1C185.8 183.1 186.2 183 186.7 182.8V184C186.2 184.3 185.7 184.4 185 184.4C183.5 184.4 182.3 183.7 182.3 181.8Z" fill="#14487C"/>
+    <path d="M196.1 175H197.6L193.6 184.6C192.8 186.5 191.9 187.2 190.5 187.2C189.7 187.2 189.1 187 188.5 186.7L189 185.6C189.5 185.8 189.9 185.9 190.5 185.9C191.3 185.9 191.9 185.5 192.4 184.2L188.2 174.9H189.7L193.1 182.7L196.1 175Z" fill="#14487C"/>
+    <path d="M12.1001 193.3H13.5001V205.9H12.1001V193.3Z" fill="#14487C"/>
+    <path d="M17 196.6H18.4V198.2C19 197.2 20 196.4 21.6 196.4C23.8 196.4 25.2 197.9 25.2 200.1V205.9H23.8V200.5C23.8 198.8 22.9 197.7 21.2 197.7C19.6 197.7 18.4 198.9 18.4 200.6V205.9H17V196.6Z" fill="#14487C"/>
+    <path d="M26.8 196.6H28.3L31.4001 204.3L34.6001 196.6H36.1001L32.0001 206H30.8L26.8 196.6Z" fill="#14487C"/>
+    <path d="M37.2 201.2C37.2 198.5 39.1 196.3 41.7 196.3C44.5 196.3 46 198.5 46 201.2C46 201.4 46 201.5 46 201.7H38.6C38.8 203.7 40.2 204.9 41.9 204.9C43.2 204.9 44.0999 204.4 44.7999 203.6L45.7 204.4C44.8 205.4 43.6 206.1 41.9 206.1C39.2 206.1 37.2 204.1 37.2 201.2ZM44.6 200.7C44.5 199 43.5 197.5 41.6 197.5C40 197.5 38.8 198.9 38.6 200.7H44.6Z" fill="#14487C"/>
+    <path d="M47.6001 204.7L48.3001 203.7C49.3001 204.5 50.4001 204.9 51.5001 204.9C52.6001 204.9 53.4001 204.3 53.4001 203.4C53.4001 202.5 52.3001 202.1 51.1001 201.8C49.6001 201.4 48.0001 200.9 48.0001 199.2C48.0001 197.6 49.3001 196.5 51.2001 196.5C52.3001 196.5 53.6001 196.9 54.5001 197.5L53.9001 198.5C53.0001 197.9 52.0001 197.6 51.1001 197.6C50.0001 197.6 49.3001 198.2 49.3001 199C49.3001 199.9 50.5001 200.2 51.7001 200.6C53.1001 201 54.7001 201.6 54.7001 203.3C54.7001 205.1 53.2001 206.1 51.4001 206.1C50.1001 206 48.7001 205.5 47.6001 204.7Z" fill="#14487C"/>
+    <path d="M57.6999 203.4V197.8H56.3999V196.6H57.6999V193.8H59.0999V196.6H62.0999V197.8H59.0999V203.2C59.0999 204.3 59.6999 204.7 60.6999 204.7C61.1999 204.7 61.5999 204.6 62.0999 204.4V205.6C61.5999 205.9 61.0999 206 60.3999 206C58.7999 206 57.6999 205.3 57.6999 203.4Z" fill="#14487C"/>
+    <path d="M64.5 193H66.1V194.5H64.5V193ZM64.6 196.6H66V205.9H64.6V196.6Z" fill="#14487C"/>
+    <path d="M69.1001 207.5L69.7001 206.4C70.8001 207.2 72.0001 207.6 73.3001 207.6C75.4001 207.6 76.7001 206.5 76.7001 204.3V203.2C75.9001 204.3 74.8001 205.2 73.0001 205.2C70.8001 205.2 68.6001 203.5 68.6001 200.8C68.6001 198.1 70.8001 196.4 73.0001 196.4C74.7001 196.4 75.9001 197.3 76.6001 198.3V196.6H78.0001V204.3C78.0001 205.7 77.6001 206.8 76.8001 207.6C76.0001 208.4 74.7001 208.8 73.3001 208.8C71.8001 208.8 70.3001 208.4 69.1001 207.5ZM76.7001 200.8C76.7001 198.9 75.0001 197.6 73.3001 197.6C71.6001 197.6 70.1001 198.8 70.1001 200.7C70.1001 202.6 71.6001 203.9 73.3001 203.9C75.0001 203.9 76.7001 202.6 76.7001 200.8Z" fill="#14487C"/>
+    <path d="M80.3999 203.2C80.3999 201.2 81.9999 200.2 84.3999 200.2C85.5999 200.2 86.3999 200.4 87.2999 200.6V200.3C87.2999 198.6 86.2999 197.8 84.4999 197.8C83.3999 197.8 82.4999 198.1 81.6999 198.5L81.2999 197.4C82.2999 196.9 83.2999 196.6 84.6999 196.6C85.9999 196.6 86.9999 196.9 87.6999 197.6C88.2999 198.2 88.6999 199.1 88.6999 200.3V206H87.3999V204.6C86.7999 205.4 85.6999 206.2 83.9999 206.2C82.1999 206.1 80.3999 205.1 80.3999 203.2ZM87.2999 202.4V201.5C86.5999 201.3 85.6999 201.1 84.5999 201.1C82.8999 201.1 81.8999 201.9 81.8999 203C81.8999 204.2 82.9999 204.9 84.1999 204.9C85.8999 205 87.2999 203.9 87.2999 202.4Z" fill="#14487C"/>
+    <path d="M91.9001 203.4V197.8H90.6001V196.6H91.9001V193.8H93.3001V196.6H96.3001V197.8H93.3001V203.2C93.3001 204.3 93.9001 204.7 94.9001 204.7C95.4001 204.7 95.8001 204.6 96.3001 204.4V205.6C95.8001 205.9 95.3001 206 94.6001 206C93.1001 206 91.9001 205.3 91.9001 203.4Z" fill="#14487C"/>
+    <path d="M98.8 193H100.4V194.5H98.8V193ZM98.9001 196.6H100.3V205.9H98.9001V196.6Z" fill="#14487C"/>
+    <path d="M102.9 201.3C102.9 198.6 105 196.4 107.8 196.4C110.6 196.4 112.6 198.6 112.6 201.2C112.6 203.8 110.5 206.1 107.7 206.1C104.9 206.1 102.9 203.9 102.9 201.3ZM111.2 201.3C111.2 199.3 109.7 197.6 107.7 197.6C105.7 197.6 104.3 199.2 104.3 201.2C104.3 203.2 105.8 204.8 107.7 204.8C109.8 204.8 111.2 203.2 111.2 201.3Z" fill="#14487C"/>
+    <path d="M115.1 196.6H116.5V198.2C117.1 197.2 118.1 196.4 119.7 196.4C121.9 196.4 123.3 197.9 123.3 200.1V205.9H121.9V200.5C121.9 198.8 121 197.7 119.3 197.7C117.7 197.7 116.5 198.9 116.5 200.6V205.9H115.1V196.6Z" fill="#14487C"/>
+    <path d="M125.4 204.7L126.1 203.7C127.1 204.5 128.2 204.9 129.3 204.9C130.4 204.9 131.2 204.3 131.2 203.4C131.2 202.5 130.1 202.1 128.9 201.8C127.4 201.4 125.8 200.9 125.8 199.2C125.8 197.6 127.1 196.5 129 196.5C130.1 196.5 131.4 196.9 132.3 197.5L131.7 198.5C130.8 197.9 129.8 197.6 128.9 197.6C127.8 197.6 127.1 198.2 127.1 199C127.1 199.9 128.3 200.2 129.5 200.6C130.9 201 132.5 201.6 132.5 203.3C132.5 205.1 131 206.1 129.2 206.1C127.9 206 126.5 205.5 125.4 204.7Z" fill="#14487C"/>
+    <path d="M140.8 193.3H146.2C147.6 193.3 148.8 193.7 149.5 194.4C150 194.9 150.3 195.6 150.3 196.4C150.3 198 149.3 198.9 148.3 199.3C149.8 199.8 151 200.6 151 202.3C151 204.5 149.2 205.7 146.4 205.7H140.8V193.3ZM148.8 196.6C148.8 195.4 147.8 194.5 146 194.5H142.2V198.8H145.9C147.6 198.9 148.8 198.1 148.8 196.6ZM146.2 200.1H142.2V204.5H146.4C148.3 204.5 149.5 203.7 149.5 202.2C149.5 200.9 148.4 200.1 146.2 200.1Z" fill="#14487C"/>
+    <path d="M153 201.3C153 198.6 155.1 196.4 157.9 196.4C160.7 196.4 162.7 198.6 162.7 201.2C162.7 203.8 160.6 206.1 157.8 206.1C155 206.1 153 203.9 153 201.3ZM161.2 201.3C161.2 199.3 159.7 197.6 157.7 197.6C155.7 197.6 154.3 199.2 154.3 201.2C154.3 203.2 155.8 204.8 157.7 204.8C159.8 204.8 161.2 203.2 161.2 201.3Z" fill="#14487C"/>
+    <path d="M164.6 201.2C164.6 198.1 166.8 196.3 169 196.3C170.7 196.3 171.8 197.2 172.6 198.3V192.7H174V205.8H172.6V203.9C171.8 205 170.7 206 169 206C166.8 206.1 164.6 204.3 164.6 201.2ZM172.7 201.2C172.7 199 171.1 197.6 169.3 197.6C167.5 197.6 166 198.9 166 201.2C166 203.4 167.5 204.8 169.3 204.8C171.1 204.8 172.7 203.4 172.7 201.2Z" fill="#14487C"/>
+    <path d="M184.1 196.6H185.6L181.7 206.2C180.9 208.1 180 208.8 178.6 208.8C177.8 208.8 177.2 208.6 176.6 208.3L177.1 207.2C177.6 207.4 178 207.5 178.6 207.5C179.4 207.5 180 207.1 180.5 205.8L176.3 196.5H177.8L181.2 204.3L184.1 196.6Z" fill="#14487C"/>
+    </svg>
+
+                            </a>
+                        </div>
+                        <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:col-span-3 lg:col-span-3 xl:col-span-2 lg:grid-cols-3 xl:grid-cols-2">
+                            
+                                <nav class="pt-4 footerNav">
+                                    <h3 class="mb-3 h4">Get in touch</h3>
+                                    <ul class="flex flex-col flex-wrap">
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/media-enquiries/">Media enquiries</a>
+                                                
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="https://29b35612.sibforms.com/serve/MUIFAGlowXbolKZ2RQeW0R8JW5gFdDbm3A_a2AfJXwKfAv4kFo21hLHoUatcl4Uh-Iil0O8zQ3C9GzcdyMyWwxsdM0TnG23bRcAOk3gHZHpDkDnuY-C5F9I9w2drxiS5VDJLhWTWwSfqsmUXQm6jx2BFV5_-7-Sg8LcQhGSudtwf5gmrwx-fUo0QNjpROrFDfSaU3uq1Z12OoFFF">Subscribe to our mailing list</a>
+                                                
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/comments-and-complaints/">Comments and complaints</a>
+                                                
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/contact-us/">Contact us</a>
+                                                
+                                            </li>
+                                        
+                                    </ul>
+                                </nav>
+                            
+                                <nav class="pt-4 footerNav">
+                                    <h3 class="mb-3 h4">Statements and privacy</h3>
+                                    <ul class="flex flex-col flex-wrap">
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/accessibility-statement/">Accessibility statement</a>
+                                                
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/privacy-notice/">Privacy notice</a>
+                                                
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/safeguarding-statement/">Safeguarding statement</a>
+                                                
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                    <a class="hover:underline" href="/modern-slavery-and-human-trafficking-statement/">Modern slavery and human trafficking statement</a>
+                                                
+                                            </li>
+                                        
+                                    </ul>
+                                </nav>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="py-4 mt-4 text-white bg-primary-700">
+                <div class="container relative z-20">
+                    <div class="flex flex-row items-center print:block">
+                        <div class="w-full print:mt-0">
+                            
+                            <p>
+                                &copy; 2026
+                                HSSIB.
+                            </p>
+                        </div>
+                        <div class="flex flex-row print:hidden text-primary-100 social-icons">
+                            
+
+                            
+                                <a aria-label="HSSIB Bluesky"
+                                   href="https://bsky.app/profile/hssib.bsky.social">
+                                    <svg class="w-6 h-6 fill-current"
+                                         role="img"
+                                         viewBox="0 0 24 24"
+                                         xmlns="http://www.w3.org/2000/svg">
+                                        <title>Bluesky</title>
+                                        <path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/>
+                                    </svg>
+                                </a>
+                            
+
+                            
+                            
+                            
+                                <a aria-label="HSSIB Linkedin"
+                                   href="https://www.linkedin.com/company/hssib/">
+                                    <svg class="w-6 h-6 fill-current"
+                                         id="linkedin-svg"
+                                         role="img"
+                                         viewBox="0 0 24 24"
+                                         xmlns="http://www.w3.org/2000/svg">
+                                        <title>LinkedIn icon</title>
+                                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z">
+                                        </path>
+                                    </svg>
+                                </a>
+                            
+                            
+                            
+                                <a aria-label="HSSIB Pinterest"
+                                   href="https://www.youtube.com/@theHSSIB">
+                                    <svg class="w-6 h-6 fill-current"
+                                         id="youtube-svg"
+                                         role="img"
+                                         viewBox="0 0 24 24"
+                                         xmlns="http://www.w3.org/2000/svg">
+                                        <title>YouTube icon</title>
+                                        <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z">
+                                        </path>
+                                    </svg>
+                                </a>
+                            
+                            
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </footer>
+        
+        
+            <script src="/static/scripts.bundle.5fff061ba79d.js" type="text/javascript"></script>
+        
+
+        
+        <!-- object fit polyfill -->
+        <script src="https://cdn.jsdelivr.net/npm/objectFitPolyfill@2.3.5/dist/objectFitPolyfill.min.js"
+                integrity="sha256-005Io3huQdMqQibEbQioqG16d6pW1J29dGFdgxBuMs8="
+                crossorigin="anonymous"></script>
+        
+        <script>
+            $('a').each(function () {
+                var url = new URL(this.href);
+                if (url.host != window.location.host) {
+                    $(this).attr('target', '_blank');
+                }
+
+                // uncomment if we want to enable the patient-safety-concern popup
+                //if (url.pathname == '/patient-safety-concern/' && $(this).data('show-popup') != false) {
+                //    $(this).on('click', function(event) {
+                //        event.preventDefault();
+                //        event.stopPropagation();
+                //        window.dispatchEvent(new Event('set-patient-true'));
+                //    })
+                //}
+
+            });
+        </script>
+        <script>
+            // Rerun the polyfill on multiple elements
+            var elements = document.querySelectorAll('.object-cover');
+            objectFitPolyfill(elements);
+        </script>
+        
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+              var backToTopButton = document.getElementById("back-to-top");
+
+              window.addEventListener("scroll", function() {
+                if (window.scrollY > 300) {
+                  backToTopButton.style.display = "block";
+                } else {
+                  backToTopButton.style.display = "none";
+                }
+              });
+
+              backToTopButton.addEventListener("click", function(event) {
+                event.preventDefault();
+                document.getElementById('main').scrollIntoView({
+                  behavior: 'smooth'
+                });
+              });
+            });
+        </script>
+        <script type="application/ld+json">
+  {"@context": "http://schema.org", "@type": "Article", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.hssib.org.uk/patient-safety-investigations/failures-in-communication-or-follow-up-of-unexpected-significant-radiological-findings/"}, "headline": "Failures in communication or follow-up of unexpected significant radiological findings", "description": "X-rays are the most common radiological examination. 22.9 million were carried out in the NHS in 2016/17. Failures in communication or follow-up of unexpected significant radiological findings is a nationally recognised patient safety risk.", "datePublished": "2021-03-22T16:40:13.950262+00:00", "dateModified": "2024-01-22T16:09:22.860499+00:00", "author": {"@type": "Person", "name": ""}, "image": ["https://hssib-ovd42x6f-media.s3.amazonaws.com/production-assets/images/HSIB_Website_Report_Failures_i.f2484dd9.fill-10000x10000.jpg", "https://hssib-ovd42x6f-media.s3.amazonaws.com/production-assets/images/HSIB_Website_Report_Failures_i.f2484dd9.fill-40000x30000.jpg", "https://hssib-ovd42x6f-media.s3.amazonaws.com/production-assets/images/HSIB_Website_Report_Failures_in.f2484dd9.fill-16000x9000.jpg"], "publisher": {"@context": "http://schema.org", "@type": "Organization", "url": "https://www.hssib.org.uk/", "name": "HSSIB"}}
+</script>
+
+        
+            
+        
+        
+    </body>
+</html>

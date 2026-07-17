@@ -1,0 +1,1276 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap");
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:"Montserrat",sans-serif;
+}
+
+body{
+  background:#eef4ff;
+  overflow-x:hidden;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+::-webkit-scrollbar{
+  width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+  background:#2563eb;
+  border-radius:20px;
+}
+
+.page{
+  margin-left:120px;
+  padding:30px;
+  min-height:100vh;
+}
+
+/* ================= SIDEBAR ================= */
+.sidebar{
+position: fixed;
+left: 0;
+top: 0;
+width: 300px;
+height: 100vh;
+background: linear-gradient(180deg,#2563eb,#1e3a8a);
+padding: 20px;
+overflow-y: auto;
+}
+
+.links{
+display: flex;
+flex-direction: column;
+gap: 12px;
+}
+
+.nav-btn{
+width: 100%;
+border: none;
+outline: none;
+background: rgba(255,255,255,0.15);
+color: white;
+border-radius: 16px;
+padding: 15px;
+display: flex;
+align-items: center;
+gap: 14px;
+cursor: pointer;
+transition: 0.3s;
+font-size: 15px;
+font-weight: 600;
+}
+
+.nav-btn svg{
+font-size: 22px;
+}
+
+.nav-btn:hover{
+background: white;
+color: #2563eb;
+transform: translateX(6px);
+}
+
+.logout-btn{
+background: #ef4444;
+}
+
+.logout-btn:hover{
+background: white;
+color: red;
+}
+
+.page{
+margin-left: 320px;
+}
+
+
+/* ================= DASHBOARD CARDS ================= */
+
+.banner{
+  background:white;
+  border-radius:25px;
+  padding:30px;
+  margin-bottom:25px;
+  box-shadow:0 10px 30px rgba(0,0,0,.08);
+}
+
+.firstBox{
+  display:flex;
+  align-items:center;
+  gap:30px;
+}
+
+.firstBox img{
+  width:140px;
+}
+
+.content h5{
+  color:#2563eb;
+  font-size:30px;
+  margin-bottom:10px;
+}
+
+.content p{
+  color:#555;
+  line-height:1.8;
+}
+
+.secondBox,
+.thirdBox{
+  margin-top:25px;
+  text-align:center;
+  background:#f8fbff;
+  padding:25px;
+  border-radius:20px;
+}
+
+.secondBox h3,
+.thirdBox h3{
+  color:#2563eb;
+  font-size:40px;
+}
+
+/* ================= TABLE ================= */
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  overflow:hidden;
+  border-radius:20px;
+  margin-top:20px;
+}
+
+table thead{
+  background:#2563eb;
+  color:white;
+}
+
+table th{
+  padding:18px;
+}
+
+table td{
+  background:white;
+  padding:16px;
+  text-align:center;
+}
+
+table tbody tr:hover{
+  background:#f3f7ff;
+}
+
+/* ================= STATUS ================= */
+
+.value-pending{
+  color:orange;
+}
+
+.value-accepted{
+  color:green;
+}
+
+.value-rejected{
+  color:red;
+}
+
+.green{
+  color:green;
+  font-size:22px;
+}
+
+.red{
+  color:red;
+  font-size:22px;
+}
+
+/* ==========================================
+                FORMS
+========================================== */
+
+.form-component {
+  background: #ffffff;
+  padding: 45px;
+  border-radius: 25px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  margin-top: 20px;
+}
+
+.form-component h2 {
+  color: #2563eb;
+  font-size: 34px;
+  margin-bottom: 35px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.form-component form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-component form div {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+/* ==========================================
+                INPUTS
+========================================== */
+
+.form-component input,
+.form-component select,
+.form-component textarea {
+  width: 100%;
+  background: #f8fbff;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  padding: 18px 20px;
+  font-size: 17px;
+  color: #333;
+  outline: none;
+  transition: .3s;
+}
+
+.form-component input {
+  height: 65px;
+}
+
+.form-component textarea {
+  height: 160px;
+  resize: none;
+}
+
+.form-component input:focus,
+.form-component select:focus,
+.form-component textarea:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 15px rgba(37, 99, 235, .2);
+}
+
+.form-component input::placeholder,
+.form-component textarea::placeholder {
+  color: #888;
+}
+
+/* ==========================================
+                SELECT BOX
+========================================== */
+
+.form-component select {
+  cursor: pointer;
+  height: 65px;
+}
+
+/* ==========================================
+                BUTTONS
+========================================== */
+
+.form-component button {
+  width: 220px;
+  height: 60px;
+  background: linear-gradient(
+      135deg,
+      #2563eb,
+      #1d4ed8
+  );
+  border: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: .3s;
+  margin: auto;
+}
+
+.form-component button:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(37,99,235,.35);
+}
+
+/* ==========================================
+          REGISTER DOCTOR IMAGE
+========================================== */
+
+.add-doctor-avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.add-doctor-avatar img {
+  width: 140px;
+  height: 140px;
+  border-radius: 20px;
+  object-fit: cover;
+  border: 4px solid #2563eb;
+}
+
+.add-doctor-avatar input {
+  width: 200px;
+  font-size: 14px;
+  padding: 8px;
+}
+
+/* ==========================================
+              LOGIN PAGE
+========================================== */
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.login .container {
+  width: 550px;
+  background: white;
+  padding: 50px;
+  border-radius: 30px;
+  box-shadow: 0 10px 40px rgba(0,0,0,.1);
+}
+
+.login .container h2 {
+  color: #2563eb;
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 38px;
+}
+
+/* ==========================================
+            REGISTER ADMIN
+========================================== */
+
+.add-admin {
+  background: white;
+  padding: 45px;
+  border-radius: 25px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+/* ==========================================
+            REGISTER DOCTOR
+========================================== */
+
+.add-doctor {
+  background: white;
+  padding: 45px;
+  border-radius: 25px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+/* ==========================================
+            MESSAGE PAGE
+========================================== */
+
+.messages {
+  background: white;
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+.messages h2 {
+  color: #2563eb;
+  margin-bottom: 25px;
+}
+
+.messageCard {
+  background: #f8fbff;
+  border-left: 5px solid #2563eb;
+  padding: 25px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  transition: .3s;
+}
+
+.messageCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,.1);
+}
+
+.messageCard h4 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+
+.messageCard p {
+  color: #666;
+  line-height: 1.8;
+}
+
+/* ==========================================
+          FORM CARDS HOVER
+========================================== */
+
+.form-component:hover,
+.add-admin:hover,
+.add-doctor:hover {
+  box-shadow: 0 15px 35px rgba(0,0,0,.12);
+}
+
+/* ==========================================
+          RESPONSIVE FORMS
+========================================== */
+
+@media(max-width:768px){
+
+  .form-component form div{
+    flex-direction: column;
+  }
+
+  .login .container{
+    width:95%;
+    padding:35px;
+  }
+
+  .form-component{
+    padding:30px;
+  }
+
+}
+
+/* ==========================================
+            AI MODULE CARDS
+========================================== */
+
+.ai-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+  gap: 30px;
+}
+
+.ai-card {
+  background: rgba(255,255,255,.75);
+  backdrop-filter: blur(15px);
+  border-radius: 25px;
+  padding: 35px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  transition: .4s;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-card::before{
+  content:"";
+  position:absolute;
+  width:150px;
+  height:150px;
+  background:rgba(37,99,235,.08);
+  border-radius:50%;
+  top:-40px;
+  right:-40px;
+}
+
+.ai-card:hover{
+  transform: translateY(-10px);
+  box-shadow:0 20px 40px rgba(0,0,0,.15);
+}
+
+.ai-card h2{
+  color:#2563eb;
+  margin-bottom:20px;
+}
+
+.ai-card p{
+  color:#666;
+  line-height:1.8;
+}
+
+/* ==========================================
+            PREDICTION RESULT
+========================================== */
+
+.prediction-card{
+  background:white;
+  border-radius:25px;
+  padding:30px;
+  box-shadow:0 10px 25px rgba(0,0,0,.1);
+  text-align:center;
+  margin-top:30px;
+}
+
+.prediction-card h1{
+  color:#2563eb;
+  font-size:40px;
+  margin-bottom:15px;
+}
+
+.prediction-card h3{
+  color:#444;
+}
+
+.prediction-card span{
+  color:#16a34a;
+  font-weight:700;
+}
+
+.high-risk{
+  color:red;
+}
+
+.medium-risk{
+  color:orange;
+}
+
+.low-risk{
+  color:green;
+}
+
+/* ==========================================
+            REPORT UPLOAD
+========================================== */
+
+.upload-report{
+  background:white;
+  padding:40px;
+  border-radius:30px;
+  box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+
+.upload-report h2{
+  color:#2563eb;
+  margin-bottom:30px;
+}
+
+.upload-report input[type=file]{
+  background:#f7fbff;
+  border:2px dashed #2563eb;
+  padding:25px;
+  width:100%;
+  border-radius:20px;
+}
+
+.upload-report button{
+  margin-top:25px;
+}
+
+/* ==========================================
+                REPORT CARDS
+========================================== */
+
+.report-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+  gap:25px;
+}
+
+.report-card{
+  background:white;
+  padding:30px;
+  border-radius:25px;
+  box-shadow:0 8px 25px rgba(0,0,0,.08);
+  transition:.4s;
+}
+
+.report-card:hover{
+  transform:translateY(-8px);
+}
+
+.report-card h3{
+  color:#2563eb;
+  margin-bottom:15px;
+}
+
+.report-card p{
+  color:#666;
+  line-height:1.8;
+}
+
+.report-card a{
+  color:#2563eb;
+  text-decoration:none;
+  font-weight:600;
+}
+
+/* ==========================================
+            PREDICTION HISTORY
+========================================== */
+
+.history-container{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+  gap:25px;
+}
+
+.history-card{
+  background:white;
+  padding:30px;
+  border-radius:25px;
+  box-shadow:0 10px 20px rgba(0,0,0,.08);
+  transition:.4s;
+}
+
+.history-card:hover{
+  transform:translateY(-8px);
+}
+
+.history-card h2{
+  color:#2563eb;
+  margin-bottom:20px;
+}
+
+.history-card p{
+  color:#666;
+  line-height:1.9;
+}
+
+/* ==========================================
+            PATIENT HISTORY
+========================================== */
+
+.patient-card{
+  background:white;
+  border-radius:25px;
+  padding:35px;
+  box-shadow:0 8px 25px rgba(0,0,0,.1);
+  margin-bottom:25px;
+}
+
+.patient-card h2{
+  color:#2563eb;
+  margin-bottom:15px;
+}
+
+.patient-card h4{
+  color:#444;
+  margin-bottom:10px;
+}
+
+.patient-card p{
+  color:#666;
+  line-height:1.8;
+}
+
+/* ==========================================
+                ANALYTICS
+========================================== */
+
+.analytics{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+
+.analytics-card{
+  padding:35px;
+  border-radius:30px;
+  background:linear-gradient(
+      135deg,
+      #2563eb,
+      #1d4ed8
+  );
+  color:white;
+  box-shadow:0 10px 30px rgba(37,99,235,.3);
+  transition:.4s;
+}
+
+.analytics-card:hover{
+  transform:translateY(-10px);
+}
+
+.analytics-card h2{
+  font-size:42px;
+  margin-bottom:15px;
+}
+
+.analytics-card h4{
+  font-size:20px;
+}
+
+/* ==========================================
+            GLASS EFFECT
+========================================== */
+
+.glass-card{
+  background:rgba(255,255,255,.2);
+  backdrop-filter:blur(20px);
+  border:1px solid rgba(255,255,255,.3);
+  border-radius:30px;
+  padding:40px;
+  box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+
+/* ==========================================
+            AI DASHBOARD STATS
+========================================== */
+
+.ai-stats{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:25px;
+}
+
+.ai-stat-card{
+  background:white;
+  padding:30px;
+  border-radius:25px;
+  text-align:center;
+  box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+.ai-stat-card h1{
+  color:#2563eb;
+  font-size:42px;
+}
+
+.ai-stat-card p{
+  color:#666;
+  margin-top:10px;
+}
+
+/* ==========================================
+            SCROLLBAR
+========================================== */
+
+::-webkit-scrollbar{
+  width:10px;
+}
+
+::-webkit-scrollbar-track{
+  background:#f4f7fe;
+}
+
+::-webkit-scrollbar-thumb{
+  background:#2563eb;
+  border-radius:20px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background:#1d4ed8;
+}
+
+/* ==========================================
+            RESPONSIVE
+========================================== */
+
+@media(max-width:992px){
+
+  .analytics,
+  .history-container,
+  .report-grid,
+  .ai-container{
+      grid-template-columns:1fr;
+  }
+
+}
+
+@media(max-width:768px){
+
+  .page{
+      padding:15px;
+      margin-left:0;
+  }
+
+  .banner{
+      padding:20px;
+  }
+
+  .firstBox{
+      flex-direction:column;
+      text-align:center;
+  }
+
+  .firstBox img{
+      width:100px;
+  }
+
+  table{
+      display:block;
+      overflow-x:auto;
+  }
+
+  .analytics-card h2{
+      font-size:30px;
+  }
+
+}
+
+@media(max-width:500px){
+
+  .sidebar svg{
+      width:50px;
+      height:50px;
+  }
+
+  .prediction-card h1{
+      font-size:30px;
+  }
+
+}
+
+.ai-page {
+  background: white;
+  padding: 40px;
+  border-radius: 25px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.1);
+}
+
+.ai-page h1 {
+  color: #2563eb;
+  margin-bottom: 25px;
+}
+
+.ai-page input {
+  width: 100%;
+  height: 55px;
+  margin-bottom: 20px;
+}
+
+.prediction-card {
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 20px;
+
+  background: linear-gradient(
+      135deg,
+      #2563eb,
+      #4f46e5
+  );
+
+  color: white;
+
+  box-shadow:
+      0 15px 40px rgba(37,99,235,.3);
+}
+
+.prediction-card h2 {
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+.prediction-card h3 {
+  margin-bottom: 10px;
+}
+
+.prediction-card p {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.ai-page{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:85vh;
+}
+
+.ai-card{
+    width:650px;
+    background:white;
+    padding:40px;
+    border-radius:25px;
+    box-shadow:0 10px 35px rgba(0,0,0,.15);
+    text-align:center;
+}
+
+.ai-card h1{
+    color:#2563eb;
+    margin-bottom:30px;
+}
+
+.ai-card input{
+    width:100%;
+    padding:18px;
+    border-radius:15px;
+    border:1px solid #ddd;
+    margin-bottom:25px;
+}
+
+.ai-card button{
+    width:220px;
+    height:55px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:15px;
+    font-size:18px;
+    cursor:pointer;
+}
+
+.result-card{
+    margin-top:40px;
+    background:linear-gradient(135deg,#eff6ff,#dbeafe);
+    padding:30px;
+    border-radius:20px;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
+
+.result-card h2{
+    color:#1e40af;
+}
+
+.result-card h3{
+    color:red;
+    font-size:32px;
+    margin-top:15px;
+}
+
+.result-card h4{
+    color:green;
+    margin-top:15px;
+    font-size:24px;
+}
+
+.result-card p{
+    margin-top:20px;
+    font-size:18px;
+    color:#444;
+}
+
+.ai-page{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:90vh;
+}
+
+.ai-card{
+  width:600px;
+  background:white;
+  padding:40px;
+  border-radius:25px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.15);
+  text-align:center;
+}
+
+.ai-card h1{
+  color:#2563eb;
+  margin-bottom:30px;
+}
+
+.ai-card input{
+  width:100%;
+  padding:15px;
+  margin-bottom:20px;
+  border-radius:15px;
+  border:1px solid #ddd;
+}
+
+.ai-card button{
+  width:100%;
+  height:55px;
+  border:none;
+  border-radius:15px;
+  background:#2563eb;
+  color:white;
+  font-size:18px;
+  cursor:pointer;
+}
+
+.ai-card button:hover{
+  background:#1d4ed8;
+}
+
+.result-card{
+  margin-top:30px;
+  background:#f8fbff;
+  padding:25px;
+  border-radius:20px;
+  box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}
+
+.result-card h2{
+  color:#2563eb;
+  margin-bottom:15px;
+}
+
+.result-card h3{
+  color:#16a34a;
+  font-size:30px;
+  margin-bottom:15px;
+}
+
+.confidence{
+  color:red;
+  font-weight:700;
+  font-size:22px;
+}
+
+.result-card{
+  margin-top: 30px;
+  padding: 25px;
+  border-radius: 25px;
+  background: linear-gradient(135deg,#eff6ff,#ffffff);
+  box-shadow: 0 8px 25px rgba(0,0,0,.1);
+  text-align: center;
+}
+
+.result-card h2{
+  color: #2563eb;
+  margin-bottom: 15px;
+}
+
+.result-card h3{
+  color: #16a34a;
+  font-size: 28px;
+}
+
+.high-risk{
+  color: red;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.medium-risk{
+  color: orange;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.low-risk{
+  color: green;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.ocr-card{
+  width: 850px;
+  background: white;
+  padding: 40px;
+  border-radius: 30px;
+  box-shadow: 0 10px 40px rgba(0,0,0,.15);
+}
+
+.ocr-card h1{
+  text-align: center;
+  color: #2563eb;
+  margin-bottom: 30px;
+}
+
+.ocr-card input{
+  width: 100%;
+  height: 60px;
+  background: #f5f7ff;
+  border-radius: 15px;
+  padding: 15px;
+  border: none;
+}
+
+.ocr-card button{
+  margin-top: 20px;
+  width: 100%;
+  height: 60px;
+  border: none;
+  border-radius: 18px;
+  background: linear-gradient(90deg,#2563eb,#4f46e5);
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.ocr-output{
+  margin-top: 35px;
+  padding: 30px;
+  border-radius: 20px;
+  background: #f8fbff;
+  box-shadow: 0 5px 20px rgba(0,0,0,.1);
+}
+
+.ocr-output h2{
+  color: #2563eb;
+  margin-bottom: 20px;
+}
+
+.ocr-text{
+  line-height: 1.8;
+  font-size: 16px;
+  color: #444;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* =====================================================
+   DOWNLOAD REPORT BUTTON
+===================================================== */
+
+.downloadBtn{
+
+width:100%;
+
+padding:15px;
+
+margin-top:20px;
+
+border:none;
+
+border-radius:14px;
+
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+
+color:#ffffff;
+
+font-size:16px;
+
+font-weight:600;
+
+letter-spacing:.3px;
+
+cursor:pointer;
+
+transition:all .3s ease;
+
+box-shadow:0 8px 20px rgba(37,99,235,.25);
+
+}
+
+.downloadBtn:hover{
+
+background:linear-gradient(135deg,#1d4ed8,#2563eb);
+
+transform:translateY(-3px);
+
+box-shadow:0 12px 28px rgba(37,99,235,.35);
+
+}
+
+.downloadBtn:active{
+
+transform:scale(.98);
+
+}
+
+.downloadBtn:disabled{
+
+opacity:.6;
+
+cursor:not-allowed;
+
+transform:none;
+
+box-shadow:none;
+
+}
+
+
+
+/* =====================================================
+   EXPORT EXCEL BUTTON
+===================================================== */
+
+.excelBtn{
+
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+gap:10px;
+
+width:100%;
+
+padding:15px;
+
+margin-top:15px;
+
+border:none;
+
+border-radius:14px;
+
+background:linear-gradient(135deg,#16a34a,#22c55e);
+
+color:#ffffff;
+
+font-size:16px;
+
+font-weight:600;
+
+letter-spacing:.3px;
+
+cursor:pointer;
+
+transition:all .3s ease;
+
+box-shadow:0 8px 20px rgba(22,163,74,.25);
+
+}
+
+.excelBtn:hover{
+
+background:linear-gradient(135deg,#15803d,#16a34a);
+
+transform:translateY(-3px);
+
+box-shadow:0 12px 28px rgba(22,163,74,.35);
+
+}
+
+.excelBtn:active{
+
+transform:scale(.98);
+
+}
+
+.excelBtn:disabled{
+
+opacity:.6;
+
+cursor:not-allowed;
+
+transform:none;
+
+box-shadow:none;
+
+}
+
+
+
+/* =====================================================
+   BUTTON GROUP
+===================================================== */
+
+.buttonGroup{
+
+display:flex;
+
+gap:15px;
+
+margin-top:25px;
+
+flex-wrap:wrap;
+
+}
+
+.buttonGroup .downloadBtn,
+
+.buttonGroup .excelBtn{
+
+flex:1;
+
+min-width:220px;
+
+}
+
+
+
+/* =====================================================
+   MOBILE RESPONSIVE
+===================================================== */
+
+@media(max-width:768px){
+
+.buttonGroup{
+
+flex-direction:column;
+
+}
+
+.downloadBtn,
+
+.excelBtn{
+
+width:100%;
+
+}
+
+}

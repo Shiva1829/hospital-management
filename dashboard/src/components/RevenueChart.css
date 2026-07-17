@@ -1,0 +1,39 @@
+.revenueChartCard{
+
+background:#ffffff;
+
+padding:30px;
+
+border-radius:20px;
+
+box-shadow:0 12px 25px rgba(0,0,0,.08);
+
+margin-top:25px;
+
+}
+
+.chartHeader{
+
+margin-bottom:20px;
+
+}
+
+.chartHeader h2{
+
+font-size:28px;
+
+font-weight:700;
+
+color:#0f172a;
+
+margin-bottom:6px;
+
+}
+
+.chartHeader p{
+
+color:#64748b;
+
+font-size:15px;
+
+}

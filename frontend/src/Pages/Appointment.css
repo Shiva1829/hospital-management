@@ -1,0 +1,292 @@
+/* ============================
+   Appointment Page
+============================ */
+
+.appointment-page{
+    width:100%;
+    background:#f5f9ff;
+    overflow:hidden;
+}
+
+/* ============================
+Hero Section
+============================ */
+
+.appointment-hero{
+
+display:grid;
+grid-template-columns:1fr 1fr;
+align-items:center;
+gap:70px;
+
+padding:90px 8%;
+
+background:
+linear-gradient(
+135deg,
+#eef6ff,
+#ffffff);
+
+}
+
+.appointment-left span.page-tag{
+
+display:inline-block;
+
+padding:10px 25px;
+
+background:#2563eb;
+
+color:white;
+
+border-radius:40px;
+
+font-size:14px;
+
+font-weight:700;
+
+letter-spacing:1px;
+
+margin-bottom:25px;
+
+}
+
+.appointment-left h1{
+
+font-size:60px;
+
+font-weight:800;
+
+line-height:1.2;
+
+color:#0f172a;
+
+margin-bottom:25px;
+
+}
+
+.appointment-left h1 span{
+
+display:block;
+
+color:#2563eb;
+
+}
+
+.appointment-left p{
+
+font-size:18px;
+
+line-height:1.8;
+
+color:#64748b;
+
+max-width:600px;
+
+margin-bottom:45px;
+
+}
+
+/* ============================
+Features
+============================ */
+
+.feature-list{
+
+display:flex;
+
+flex-direction:column;
+
+gap:22px;
+
+}
+
+.feature{
+
+display:flex;
+
+align-items:center;
+
+gap:20px;
+
+padding:18px 25px;
+
+background:white;
+
+border-radius:18px;
+
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+
+transition:.35s;
+
+}
+
+.feature:hover{
+
+transform:translateX(8px);
+
+}
+
+.feature svg{
+
+font-size:30px;
+
+color:#2563eb;
+
+}
+
+.feature h4{
+
+margin:0;
+
+font-size:19px;
+
+font-weight:700;
+
+color:#0f172a;
+
+}
+
+.feature p{
+
+margin-top:4px;
+
+font-size:14px;
+
+color:#64748b;
+
+}
+
+/* ============================
+Form Card
+============================ */
+
+.appointment-card{
+
+background:white;
+
+padding:45px;
+
+border-radius:35px;
+
+box-shadow:0 25px 60px rgba(0,0,0,.12);
+
+position:relative;
+
+overflow:hidden;
+
+}
+
+.appointment-card::before{
+
+content:"";
+
+position:absolute;
+
+width:220px;
+
+height:220px;
+
+background:#2563eb;
+
+opacity:.08;
+
+border-radius:50%;
+
+top:-80px;
+
+right:-80px;
+
+}
+
+.appointment-card h2{
+
+display:flex;
+
+align-items:center;
+
+gap:12px;
+
+font-size:32px;
+
+margin-bottom:35px;
+
+color:#0f172a;
+
+}
+
+.appointment-card h2 svg{
+
+color:#2563eb;
+
+}
+
+/* ============================
+Inputs
+============================ */
+
+.appointment-card form{
+
+display:flex;
+
+flex-direction:column;
+
+gap:22px;
+
+}
+
+.row{
+
+display:grid;
+
+grid-template-columns:1fr 1fr;
+
+gap:18px;
+
+}
+
+.appointment-card input,
+
+.appointment-card select,
+
+.appointment-card textarea{
+
+width:100%;
+
+padding:17px 18px;
+
+font-size:16px;
+
+border-radius:14px;
+
+border:1px solid #dbeafe;
+
+outline:none;
+
+background:#f9fbff;
+
+transition:.3s;
+
+}
+
+.appointment-card textarea{
+
+resize:none;
+
+min-height:130px;
+
+}
+
+.appointment-card input:focus,
+
+.appointment-card textarea:focus,
+
+.appointment-card select:focus{
+
+border-color:#2563eb;
+
+background:white;
+
+box-shadow:0 0 0 5px rgba(37,99,235,.12);
+
+}

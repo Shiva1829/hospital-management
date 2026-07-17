@@ -1,0 +1,668 @@
+/* ===========================
+   AI HOSPITAL DASHBOARD
+=========================== */
+
+.dashboardContainer{
+    padding:30px;
+    background:#f5f8fc;
+    min-height:100vh;
+}
+
+/* HERO */
+
+.dashboardHero{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:40px;
+
+    background:linear-gradient(
+        135deg,
+        #2563eb,
+        #3b82f6,
+        #60a5fa
+    );
+
+    border-radius:30px;
+
+    padding:45px;
+
+    color:white;
+
+    box-shadow:
+    0 20px 40px rgba(0,0,0,.12);
+
+    margin-bottom:35px;
+}
+
+.heroLeft{
+    flex:1;
+}
+
+.heroBadge{
+
+    display:inline-block;
+
+    padding:10px 20px;
+
+    background:rgba(255,255,255,.15);
+
+    border-radius:50px;
+
+    font-size:14px;
+
+    margin-bottom:18px;
+
+    backdrop-filter:blur(10px);
+
+}
+
+.heroLeft h1{
+
+    font-size:42px;
+
+    font-weight:700;
+
+    margin-bottom:18px;
+
+}
+
+.heroLeft h1 span{
+
+    color:#ffe082;
+
+}
+
+.heroLeft p{
+
+    font-size:17px;
+
+    line-height:1.8;
+
+    opacity:.95;
+
+    max-width:650px;
+
+}
+
+.heroRight{
+
+    flex:.7;
+
+    display:flex;
+
+    justify-content:center;
+
+}
+
+.heroRight img{
+
+    width:330px;
+
+    max-width:100%;
+
+    filter:drop-shadow(0 20px 30px rgba(0,0,0,.3));
+
+}
+
+/* ==========================
+      STATISTICS
+========================== */
+
+.statsGrid{
+
+    display:grid;
+
+    grid-template-columns:
+
+    repeat(auto-fit,minmax(220px,1fr));
+
+    gap:25px;
+
+    margin-bottom:35px;
+
+}
+
+.statCard{
+
+    background:white;
+
+    border-radius:22px;
+
+    padding:28px;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:20px;
+
+    transition:.35s;
+
+    box-shadow:
+
+    0 10px 25px rgba(0,0,0,.06);
+
+}
+
+.statCard:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:
+
+    0 20px 35px rgba(0,0,0,.15);
+
+}
+
+.statIcon{
+
+    width:70px;
+
+    height:70px;
+
+    border-radius:20px;
+
+    background:#2563eb;
+
+    color:white;
+
+    padding:18px;
+
+    font-size:32px;
+
+}
+
+.statCard h2{
+
+    margin:0;
+
+    font-size:34px;
+
+    color:#0f172a;
+
+}
+
+.statCard p{
+
+    margin-top:6px;
+
+    color:#64748b;
+
+}
+
+/* ===========================
+     QUICK ACTIONS
+=========================== */
+
+.quickActions{
+
+    display:grid;
+
+    grid-template-columns:
+
+    repeat(auto-fit,minmax(220px,1fr));
+
+    gap:22px;
+
+    margin-bottom:35px;
+
+}
+
+.actionCard{
+
+    background:white;
+
+    border-radius:22px;
+
+    padding:30px;
+
+    transition:.35s;
+
+    cursor:pointer;
+
+    box-shadow:
+
+    0 10px 25px rgba(0,0,0,.05);
+
+}
+
+.actionCard:hover{
+
+    transform:translateY(-8px);
+
+    background:#2563eb;
+
+    color:white;
+
+}
+
+.actionCard svg{
+
+    font-size:42px;
+
+    margin-bottom:18px;
+
+    color:#2563eb;
+
+}
+
+.actionCard:hover svg{
+
+    color:white;
+
+}
+
+.actionCard h3{
+
+    margin-bottom:10px;
+
+}
+
+.actionCard p{
+
+    line-height:1.6;
+
+    color:#64748b;
+
+}
+
+.actionCard:hover p{
+
+    color:white;
+
+}
+/* ===========================
+      TABLE SECTION
+=========================== */
+
+.tableSection{
+
+    background:white;
+
+    border-radius:25px;
+
+    padding:30px;
+
+    box-shadow:
+    0 12px 25px rgba(0,0,0,.05);
+
+}
+
+.tableHeader{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:25px;
+
+}
+
+.tableHeader h2{
+
+    font-size:28px;
+
+    color:#0f172a;
+
+}
+
+.tableHeader p{
+
+    color:#64748b;
+
+}
+
+.appointmentTable{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+.appointmentTable thead{
+
+    background:#eff6ff;
+
+}
+
+.appointmentTable th{
+
+    padding:18px;
+
+    text-align:left;
+
+    color:#1e3a8a;
+
+    font-weight:600;
+
+}
+
+.appointmentTable td{
+
+    padding:18px;
+
+    border-bottom:1px solid #edf2f7;
+
+}
+
+.appointmentTable tbody tr{
+
+    transition:.25s;
+
+}
+
+.appointmentTable tbody tr:hover{
+
+    background:#f8fafc;
+
+}
+
+/* ===========================
+       PATIENT INFO
+=========================== */
+
+.patientInfo{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+}
+
+.patientAvatar{
+
+    width:48px;
+
+    height:48px;
+
+    border-radius:50%;
+
+    background:#2563eb;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    color:white;
+
+    font-weight:bold;
+
+    font-size:18px;
+
+}
+
+/* ===========================
+      STATUS BADGES
+=========================== */
+
+.status{
+
+    padding:8px 18px;
+
+    border-radius:40px;
+
+    font-size:13px;
+
+    font-weight:600;
+
+}
+
+.status.pending{
+
+    background:#fff7ed;
+
+    color:#d97706;
+
+}
+
+.status.accepted{
+
+    background:#dcfce7;
+
+    color:#15803d;
+
+}
+
+.status.rejected{
+
+    background:#fee2e2;
+
+    color:#dc2626;
+
+}
+
+/* ===========================
+     VISITED ICONS
+=========================== */
+
+.green{
+
+    color:#16a34a;
+
+    font-size:24px;
+
+}
+
+.red{
+
+    color:#dc2626;
+
+    font-size:24px;
+
+}
+
+/* ===========================
+       DROPDOWN
+=========================== */
+
+.statusSelect{
+
+    padding:10px 15px;
+
+    border-radius:12px;
+
+    border:1px solid #dbeafe;
+
+    background:white;
+
+    outline:none;
+
+    font-size:14px;
+
+    cursor:pointer;
+
+}
+
+/* ===========================
+       EMPTY STATE
+=========================== */
+
+.emptyState{
+
+    text-align:center;
+
+    padding:60px;
+
+    color:#64748b;
+
+}
+
+.emptyState svg{
+
+    font-size:65px;
+
+    margin-bottom:20px;
+
+    color:#cbd5e1;
+
+}
+
+/* ===========================
+        RESPONSIVE
+=========================== */
+
+@media(max-width:1100px){
+
+.dashboardHero{
+
+flex-direction:column;
+
+text-align:center;
+
+}
+
+.heroRight{
+
+margin-top:25px;
+
+}
+
+}
+
+@media(max-width:900px){
+
+.tableSection{
+
+overflow-x:auto;
+
+}
+
+.appointmentTable{
+
+min-width:900px;
+
+}
+
+}
+
+@media(max-width:768px){
+
+.dashboardContainer{
+
+padding:20px;
+
+}
+
+.heroLeft h1{
+
+font-size:32px;
+
+}
+
+.heroRight img{
+
+width:240px;
+
+}
+
+.statCard{
+
+padding:20px;
+
+}
+
+.quickActions{
+
+grid-template-columns:1fr;
+
+}
+
+.statsGrid{
+
+grid-template-columns:1fr;
+
+}
+
+}
+
+@media(max-width:500px){
+
+.heroLeft h1{
+
+font-size:28px;
+
+}
+
+.heroLeft p{
+
+font-size:15px;
+
+}
+
+.tableHeader{
+
+flex-direction:column;
+
+align-items:flex-start;
+
+gap:10px;
+
+}
+
+}
+
+/* ===========================
+       DARK MODE
+=========================== */
+
+body.dark-theme .dashboardContainer{
+
+background:#0f172a;
+
+}
+
+body.dark-theme .tableSection,
+
+body.dark-theme .statCard,
+
+body.dark-theme .actionCard{
+
+background:#1e293b;
+
+color:white;
+
+}
+
+body.dark-theme .appointmentTable th{
+
+background:#334155;
+
+color:white;
+
+}
+
+body.dark-theme .appointmentTable td{
+
+border-bottom:1px solid #475569;
+
+}
+
+body.dark-theme .appointmentTable tbody tr:hover{
+
+background:#273449;
+
+}
+
+body.dark-theme .tableHeader h2,
+
+body.dark-theme .statCard h2{
+
+color:white;
+
+}
+
+body.dark-theme .actionCard p,
+
+body.dark-theme .tableHeader p{
+
+color:#cbd5e1;
+
+}

@@ -1,0 +1,176 @@
+.diseaseDashboard{
+padding:30px;
+background:#f8fbff;
+min-height:100vh;
+}
+
+/* Hero */
+
+.diseaseHero{
+display:grid;
+grid-template-columns:1.2fr 1fr;
+gap:40px;
+align-items:center;
+background:white;
+padding:40px;
+border-radius:24px;
+box-shadow:0 15px 40px rgba(0,0,0,.08);
+margin-bottom:35px;
+}
+
+.heroTag{
+display:inline-block;
+padding:10px 20px;
+background:#dbeafe;
+color:#2563eb;
+font-weight:600;
+border-radius:30px;
+margin-bottom:20px;
+}
+
+.heroContent h1{
+font-size:46px;
+margin-bottom:20px;
+color:#0f172a;
+}
+
+.heroContent h1 span{
+color:#2563eb;
+}
+
+.heroContent p{
+font-size:17px;
+color:#64748b;
+line-height:1.8;
+margin-bottom:30px;
+}
+
+.heroFeatures{
+display:flex;
+gap:18px;
+flex-wrap:wrap;
+}
+
+.featureBox{
+display:flex;
+align-items:center;
+gap:10px;
+padding:14px 20px;
+background:#eff6ff;
+border-radius:15px;
+font-weight:600;
+color:#2563eb;
+transition:.3s;
+}
+
+.featureBox:hover{
+background:#2563eb;
+color:white;
+transform:translateY(-5px);
+}
+
+.featureBox svg{
+font-size:22px;
+}
+
+.heroImage{
+display:flex;
+justify-content:center;
+}
+
+.heroImage img{
+width:100%;
+max-width:420px;
+}
+
+/* Prediction Section */
+
+.predictionSection{
+display:grid;
+grid-template-columns:1fr;
+gap:35px;
+}
+
+.predictionCard{
+background:white;
+border-radius:22px;
+padding:30px;
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+}
+
+.cardHeader{
+display:flex;
+align-items:center;
+gap:15px;
+margin-bottom:25px;
+padding-bottom:15px;
+border-bottom:1px solid #e2e8f0;
+}
+
+.cardHeader svg{
+font-size:28px;
+color:#2563eb;
+}
+
+.cardHeader h2{
+margin:0;
+font-size:28px;
+color:#0f172a;
+}
+
+/* Responsive */
+
+@media(max-width:992px){
+
+.diseaseHero{
+grid-template-columns:1fr;
+text-align:center;
+}
+
+.heroFeatures{
+justify-content:center;
+}
+
+.heroContent h1{
+font-size:36px;
+}
+
+.heroImage img{
+max-width:300px;
+}
+
+}
+
+@media(max-width:768px){
+
+.diseaseDashboard{
+padding:15px;
+}
+
+.diseaseHero{
+padding:25px;
+}
+
+.heroContent h1{
+font-size:30px;
+}
+
+.heroContent p{
+font-size:15px;
+}
+
+.featureBox{
+width:100%;
+justify-content:center;
+}
+
+.cardHeader{
+flex-direction:column;
+text-align:center;
+}
+
+.cardHeader h2{
+font-size:22px;
+}
+
+}

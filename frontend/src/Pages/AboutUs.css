@@ -1,0 +1,229 @@
+.about-page{
+background:#f7fbff;
+}
+
+/* Hero */
+
+.about-hero{
+display:grid;
+grid-template-columns:1fr 1fr;
+align-items:center;
+gap:60px;
+padding:90px 8%;
+}
+
+.about-tag{
+background:#2563eb;
+color:white;
+padding:10px 20px;
+border-radius:30px;
+font-size:14px;
+font-weight:600;
+display:inline-block;
+margin-bottom:20px;
+}
+
+.about-left h1{
+font-size:54px;
+line-height:1.2;
+margin-bottom:25px;
+color:#0f172a;
+}
+
+.about-left h1 span{
+color:#2563eb;
+}
+
+.about-left p{
+font-size:18px;
+line-height:1.9;
+color:#555;
+margin-bottom:35px;
+}
+
+.about-buttons{
+display:flex;
+gap:20px;
+}
+
+.primary-btn{
+padding:16px 35px;
+background:#2563eb;
+border:none;
+border-radius:50px;
+color:white;
+font-size:17px;
+cursor:pointer;
+transition:.35s;
+}
+
+.primary-btn:hover{
+transform:translateY(-5px);
+background:#1d4ed8;
+}
+
+.secondary-btn{
+padding:16px 35px;
+background:white;
+border:2px solid #2563eb;
+color:#2563eb;
+border-radius:50px;
+cursor:pointer;
+transition:.35s;
+}
+
+.secondary-btn:hover{
+background:#2563eb;
+color:white;
+}
+
+.about-right img{
+width:100%;
+animation:floatImage 5s ease-in-out infinite;
+}
+
+@keyframes floatImage{
+
+0%{
+transform:translateY(0);
+}
+
+50%{
+transform:translateY(-20px);
+}
+
+100%{
+transform:translateY(0);
+}
+
+}
+
+/* Cards */
+
+.mission-section{
+padding:70px 8%;
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:30px;
+}
+
+.mission-card{
+background:white;
+padding:35px;
+border-radius:25px;
+text-align:center;
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+transition:.35s;
+}
+
+.mission-card:hover{
+transform:translateY(-10px);
+}
+
+.mission-card svg{
+font-size:45px;
+color:#2563eb;
+margin-bottom:20px;
+}
+
+.mission-card h3{
+margin-bottom:15px;
+}
+
+.mission-card p{
+color:#666;
+line-height:1.7;
+}
+
+/* Content */
+
+.about-content{
+padding:90px 8%;
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:60px;
+align-items:center;
+}
+
+.about-image img{
+width:100%;
+border-radius:30px;
+box-shadow:0 20px 45px rgba(0,0,0,.12);
+}
+
+.about-text h2{
+font-size:42px;
+margin-bottom:20px;
+}
+
+.about-text p{
+line-height:1.9;
+font-size:18px;
+color:#555;
+margin-bottom:25px;
+}
+
+.achievement-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:20px;
+margin-top:40px;
+}
+
+.achievement-grid div{
+background:white;
+padding:30px;
+text-align:center;
+border-radius:20px;
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+transition:.35s;
+}
+
+.achievement-grid div:hover{
+transform:translateY(-8px);
+}
+
+.achievement-grid svg{
+font-size:36px;
+color:#2563eb;
+margin-bottom:15px;
+}
+
+.achievement-grid h3{
+font-size:30px;
+color:#2563eb;
+margin-bottom:8px;
+}
+
+.achievement-grid span{
+color:#666;
+}
+
+/* Responsive */
+
+@media(max-width:992px){
+
+.about-hero,
+.about-content{
+grid-template-columns:1fr;
+text-align:center;
+}
+
+.mission-section{
+grid-template-columns:1fr;
+}
+
+.achievement-grid{
+grid-template-columns:1fr;
+}
+
+.about-buttons{
+justify-content:center;
+flex-wrap:wrap;
+}
+
+.about-left h1{
+font-size:40px;
+}
+
+}

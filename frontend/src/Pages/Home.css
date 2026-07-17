@@ -1,0 +1,248 @@
+/* ===========================
+   HOME PAGE
+=========================== */
+
+.homePage{
+    width:100%;
+    background:#f5f9ff;
+    overflow:hidden;
+}
+
+/* ===========================
+   COMMON SECTION
+=========================== */
+
+.homeSection{
+    padding:90px 8%;
+}
+
+.lightBackground{
+    background:#ffffff;
+}
+
+/* ===========================
+   STATS
+=========================== */
+
+.homeStats{
+    margin-top:-70px;
+    padding:0 8% 80px;
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:30px;
+    position:relative;
+    z-index:100;
+}
+
+.statCard{
+    background:rgba(255,255,255,.85);
+    backdrop-filter:blur(20px);
+    border-radius:25px;
+    padding:35px 25px;
+    text-align:center;
+    box-shadow:0 20px 50px rgba(0,0,0,.08);
+    transition:.35s;
+    border:1px solid rgba(255,255,255,.5);
+}
+
+.statCard:hover{
+    transform:translateY(-12px);
+    box-shadow:0 30px 60px rgba(37,99,235,.25);
+}
+
+.statIcon{
+    font-size:45px;
+    color:#2563eb;
+    margin-bottom:18px;
+}
+
+.statCard h2{
+    font-size:38px;
+    font-weight:700;
+    color:#111827;
+    margin-bottom:8px;
+}
+
+.statCard p{
+    color:#6b7280;
+    font-size:17px;
+    font-weight:500;
+}
+
+/* ===========================
+   WHY CHOOSE
+=========================== */
+
+.whyChoose{
+    padding:100px 8%;
+    background:linear-gradient(135deg,#eef6ff,#ffffff);
+    text-align:center;
+}
+
+.whyChoose h2{
+    font-size:46px;
+    font-weight:700;
+    color:#0f172a;
+    margin-bottom:20px;
+}
+
+.whyChoose>p{
+    width:75%;
+    margin:auto;
+    color:#64748b;
+    font-size:18px;
+    line-height:1.9;
+    margin-bottom:60px;
+}
+
+.chooseGrid{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:30px;
+}
+
+.chooseCard{
+    background:white;
+    padding:40px 28px;
+    border-radius:25px;
+    transition:.35s;
+    box-shadow:0 15px 40px rgba(0,0,0,.08);
+    cursor:pointer;
+}
+
+.chooseCard svg{
+    font-size:55px;
+    color:#2563eb;
+    margin-bottom:20px;
+    transition:.35s;
+}
+
+.chooseCard h3{
+    font-size:24px;
+    margin-bottom:18px;
+    color:#0f172a;
+}
+
+.chooseCard p{
+    color:#6b7280;
+    line-height:1.8;
+    font-size:16px;
+}
+
+.chooseCard:hover{
+    background:linear-gradient(135deg,#2563eb,#1e40af);
+    transform:translateY(-15px);
+    box-shadow:0 25px 60px rgba(37,99,235,.35);
+}
+
+.chooseCard:hover svg,
+.chooseCard:hover h3,
+.chooseCard:hover p{
+    color:white;
+}
+
+/* ===========================
+   SECTION TITLE
+=========================== */
+
+.sectionTitle{
+    text-align:center;
+    margin-bottom:60px;
+}
+
+.sectionTitle h2{
+    font-size:42px;
+    color:#111827;
+}
+
+.sectionTitle p{
+    color:#64748b;
+    margin-top:10px;
+    font-size:18px;
+}
+
+/* ===========================
+   ANIMATION
+=========================== */
+
+.statCard,
+.chooseCard{
+    animation:fadeUp .8s ease;
+}
+
+@keyframes fadeUp{
+
+    from{
+        opacity:0;
+        transform:translateY(50px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:1200px){
+
+.homeStats{
+grid-template-columns:repeat(2,1fr);
+}
+
+.chooseGrid{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+@media(max-width:768px){
+
+.homeSection{
+padding:70px 6%;
+}
+
+.homeStats{
+grid-template-columns:1fr;
+padding:20px;
+margin-top:30px;
+}
+
+.chooseGrid{
+grid-template-columns:1fr;
+}
+
+.whyChoose h2{
+font-size:34px;
+}
+
+.whyChoose>p{
+width:100%;
+font-size:16px;
+}
+
+.statCard h2{
+font-size:32px;
+}
+
+}
+
+@media(max-width:480px){
+
+.statCard{
+padding:25px;
+}
+
+.chooseCard{
+padding:30px 20px;
+}
+
+.sectionTitle h2{
+font-size:30px;
+}
+
+}

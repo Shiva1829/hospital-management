@@ -1,0 +1,332 @@
+/* ===========================
+   REGISTER PAGE
+=========================== */
+
+.registerPage{
+    min-height:100vh;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    align-items:center;
+    gap:60px;
+    padding:70px 8%;
+    background:linear-gradient(135deg,#eef7ff,#d9f3ff);
+    overflow:hidden;
+}
+
+/* ===========================
+   LEFT SIDE
+=========================== */
+
+.registerLeft h1{
+    font-size:56px;
+    font-weight:700;
+    color:#1f2937;
+    margin:25px 0;
+    line-height:1.2;
+}
+
+.registerLeft h1 span{
+    display:block;
+    color:#2563eb;
+}
+
+.registerLeft p{
+    font-size:18px;
+    line-height:1.8;
+    color:#555;
+    margin-bottom:40px;
+    max-width:560px;
+}
+
+.registerTag{
+    display:inline-block;
+    background:#dbeafe;
+    color:#2563eb;
+    padding:8px 22px;
+    border-radius:40px;
+    font-size:13px;
+    font-weight:700;
+    letter-spacing:1px;
+}
+
+/* ===========================
+   FEATURE BOX
+=========================== */
+
+.registerFeature{
+    display:flex;
+    align-items:center;
+    gap:18px;
+    background:white;
+    padding:18px 22px;
+    border-radius:18px;
+    margin-bottom:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+    transition:.35s;
+}
+
+.registerFeature:hover{
+    transform:translateX(12px);
+    box-shadow:0 18px 40px rgba(0,0,0,.15);
+}
+
+.featureIcon{
+    font-size:32px;
+    color:#2563eb;
+}
+
+.registerFeature h4{
+    margin-bottom:4px;
+    color:#1f2937;
+}
+
+.registerFeature p{
+    margin:0;
+    font-size:15px;
+    color:#666;
+}
+
+/* ===========================
+   RIGHT SIDE
+=========================== */
+
+.registerRight{
+    display:flex;
+    justify-content:center;
+}
+
+.registerCard{
+
+    width:100%;
+    max-width:520px;
+
+    background:rgba(255,255,255,.88);
+
+    backdrop-filter:blur(18px);
+
+    padding:45px;
+
+    border-radius:28px;
+
+    box-shadow:0 25px 60px rgba(0,0,0,.15);
+
+}
+
+.registerCard h2{
+
+    text-align:center;
+    font-size:34px;
+    color:#1f2937;
+    margin-bottom:8px;
+
+}
+
+.registerCard>p{
+
+    text-align:center;
+    color:#666;
+    margin-bottom:35px;
+
+}
+
+/* ===========================
+   FORM
+=========================== */
+
+.row{
+
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:18px;
+    margin-bottom:18px;
+
+}
+
+.inputBox{
+
+    display:flex;
+    align-items:center;
+
+    background:#f5f8ff;
+
+    padding:15px 18px;
+
+    border-radius:14px;
+
+    transition:.3s;
+
+}
+
+.inputBox:hover{
+
+    background:#edf4ff;
+
+}
+
+.inputBox svg{
+
+    color:#2563eb;
+    margin-right:14px;
+    font-size:18px;
+
+}
+
+.inputBox input,
+.inputBox select{
+
+    width:100%;
+    border:none;
+    outline:none;
+    background:none;
+    font-size:15px;
+
+}
+
+.full{
+
+    margin-bottom:25px;
+
+}
+
+/* ===========================
+   BUTTON
+=========================== */
+
+.registerBtn{
+
+    width:100%;
+
+    border:none;
+
+    padding:16px;
+
+    border-radius:14px;
+
+    background:linear-gradient(
+    135deg,
+    #2563eb,
+    #06b6d4
+    );
+
+    color:white;
+
+    font-size:18px;
+
+    font-weight:600;
+
+    cursor:pointer;
+
+    transition:.35s;
+
+}
+
+.registerBtn:hover{
+
+    transform:translateY(-4px);
+
+    box-shadow:0 20px 40px rgba(37,99,235,.35);
+
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+.registerFooter{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:8px;
+
+    margin-top:28px;
+
+    font-size:15px;
+
+}
+
+.registerFooter a{
+
+    color:#2563eb;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+}
+
+.registerFooter a:hover{
+
+    text-decoration:underline;
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:992px){
+
+.registerPage{
+
+grid-template-columns:1fr;
+
+padding:45px 6%;
+
+}
+
+.registerLeft{
+
+text-align:center;
+
+}
+
+.registerLeft p{
+
+margin:auto;
+margin-bottom:35px;
+
+}
+
+.registerFeature{
+
+text-align:left;
+
+}
+
+.registerCard{
+
+max-width:100%;
+
+}
+
+.row{
+
+grid-template-columns:1fr;
+
+}
+
+}
+
+@media(max-width:576px){
+
+.registerLeft h1{
+
+font-size:40px;
+
+}
+
+.registerCard{
+
+padding:30px;
+
+}
+
+.registerCard h2{
+
+font-size:28px;
+
+}
+
+}

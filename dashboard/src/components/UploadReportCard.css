@@ -1,0 +1,155 @@
+.uploadReportCard{
+background:#ffffff;
+padding:30px;
+border-radius:20px;
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+max-width:650px;
+margin:auto;
+transition:.3s;
+}
+
+.uploadReportCard:hover{
+box-shadow:0 20px 40px rgba(37,99,235,.15);
+}
+
+.uploadHeader{
+display:flex;
+align-items:center;
+gap:18px;
+margin-bottom:25px;
+}
+
+.uploadHeader svg{
+font-size:45px;
+color:#2563eb;
+}
+
+.uploadHeader h2{
+font-size:28px;
+font-weight:700;
+color:#0f172a;
+margin-bottom:5px;
+}
+
+.uploadHeader p{
+color:#64748b;
+font-size:15px;
+}
+
+.uploadArea{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+border:2px dashed #2563eb;
+border-radius:18px;
+padding:45px 20px;
+cursor:pointer;
+background:#f8fbff;
+transition:.3s;
+}
+
+.uploadArea:hover{
+background:#eef6ff;
+}
+
+.uploadIcon{
+font-size:65px;
+color:#2563eb;
+margin-bottom:15px;
+}
+
+.uploadArea h3{
+font-size:22px;
+font-weight:700;
+color:#1e3a8a;
+margin-bottom:8px;
+}
+
+.uploadArea p{
+color:#64748b;
+font-size:15px;
+}
+
+.selectedFile{
+margin-top:25px;
+padding:18px;
+background:#f8fafc;
+border-radius:12px;
+border-left:5px solid #2563eb;
+}
+
+.selectedFile strong{
+display:block;
+margin-bottom:8px;
+color:#0f172a;
+}
+
+.selectedFile p{
+color:#475569;
+word-break:break-all;
+}
+
+.uploadBtn{
+width:100%;
+margin-top:25px;
+padding:15px;
+border:none;
+border-radius:12px;
+background:#2563eb;
+color:white;
+font-size:17px;
+font-weight:600;
+cursor:pointer;
+transition:.3s;
+}
+
+.uploadBtn:hover{
+background:#1d4ed8;
+}
+
+.uploadBtn:disabled{
+background:#94a3b8;
+cursor:not-allowed;
+}
+
+.successBox{
+margin-top:20px;
+display:flex;
+align-items:center;
+gap:10px;
+padding:15px;
+border-radius:12px;
+background:#dcfce7;
+color:#15803d;
+font-weight:600;
+}
+
+.successBox svg{
+font-size:22px;
+}
+
+@media(max-width:768px){
+
+.uploadReportCard{
+padding:20px;
+}
+
+.uploadHeader{
+flex-direction:column;
+text-align:center;
+}
+
+.uploadArea{
+padding:35px 15px;
+}
+
+.uploadArea h3{
+font-size:18px;
+}
+
+.uploadHeader h2{
+font-size:24px;
+}
+
+}

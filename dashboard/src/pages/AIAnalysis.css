@@ -1,0 +1,153 @@
+.aiPage{
+padding:35px;
+background:#f4f8ff;
+min-height:100vh;
+font-family:Poppins,sans-serif;
+}
+
+/* Hero */
+
+.aiHero{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:linear-gradient(135deg,#2563eb,#1e40af);
+padding:45px;
+border-radius:25px;
+color:white;
+margin-bottom:35px;
+box-shadow:0 18px 40px rgba(37,99,235,.25);
+}
+
+.aiHeroLeft{
+max-width:70%;
+}
+
+.aiBadge{
+display:inline-block;
+background:rgba(255,255,255,.2);
+padding:8px 18px;
+border-radius:25px;
+font-size:13px;
+letter-spacing:1px;
+margin-bottom:15px;
+}
+
+.aiHeroLeft h1{
+font-size:42px;
+margin-bottom:15px;
+}
+
+.aiHeroLeft h1 span{
+color:#ffe082;
+}
+
+.aiHeroLeft p{
+font-size:17px;
+line-height:1.8;
+opacity:.95;
+}
+
+.heroRobot{
+font-size:130px;
+opacity:.95;
+}
+
+/* Services */
+
+.aiCards{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:25px;
+margin-bottom:35px;
+}
+
+.serviceCard{
+background:white;
+padding:28px;
+border-radius:20px;
+text-align:center;
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+transition:.35s;
+}
+
+.serviceCard:hover{
+transform:translateY(-8px);
+box-shadow:0 20px 45px rgba(37,99,235,.2);
+}
+
+.serviceIcon{
+font-size:45px;
+color:#2563eb;
+margin-bottom:15px;
+}
+
+.serviceCard h3{
+margin-bottom:10px;
+color:#1e293b;
+}
+
+.serviceCard p{
+color:#64748b;
+font-size:15px;
+line-height:1.6;
+}
+
+/* AI Modules */
+
+.analysisSection{
+display:flex;
+flex-direction:column;
+gap:30px;
+}
+
+.analysisCard{
+background:white;
+padding:30px;
+border-radius:22px;
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+}
+
+.analysisCard h2{
+margin-bottom:25px;
+font-size:24px;
+color:#1e293b;
+padding-bottom:15px;
+border-bottom:2px solid #eef3ff;
+}
+
+/* Responsive */
+
+@media(max-width:1100px){
+
+.aiCards{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+@media(max-width:768px){
+
+.aiHero{
+flex-direction:column;
+text-align:center;
+}
+
+.aiHeroLeft{
+max-width:100%;
+margin-bottom:25px;
+}
+
+.heroRobot{
+font-size:90px;
+}
+
+.aiCards{
+grid-template-columns:1fr;
+}
+
+.analysisCard{
+padding:20px;
+}
+
+}

@@ -1,0 +1,180 @@
+.recentPatients{
+padding:40px;
+background:#f4f8fd;
+min-height:100vh;
+}
+
+.recentHeader{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:35px;
+flex-wrap:wrap;
+gap:20px;
+}
+
+.recentHeader h1{
+font-size:34px;
+font-weight:700;
+color:#1e293b;
+}
+
+.recentHeader p{
+color:#64748b;
+margin-top:8px;
+}
+
+.searchBox{
+display:flex;
+align-items:center;
+gap:10px;
+background:white;
+padding:12px 18px;
+border-radius:14px;
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.searchBox input{
+border:none;
+outline:none;
+font-size:15px;
+width:220px;
+background:transparent;
+}
+
+.loader{
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+height:300px;
+}
+
+.spinner{
+width:55px;
+height:55px;
+border:6px solid #dbeafe;
+border-top:6px solid #2563eb;
+border-radius:50%;
+animation:spin 1s linear infinite;
+margin-bottom:20px;
+}
+
+@keyframes spin{
+100%{
+transform:rotate(360deg);
+}
+}
+
+.emptyBox{
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+padding:80px;
+background:white;
+border-radius:25px;
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+}
+
+.emptyBox svg{
+font-size:70px;
+color:#94a3b8;
+margin-bottom:20px;
+}
+
+.emptyBox h2{
+margin-bottom:10px;
+color:#334155;
+}
+
+.emptyBox p{
+color:#64748b;
+}
+
+.patientsGrid{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+gap:28px;
+}
+
+.patientCard{
+background:white;
+border-radius:22px;
+padding:25px;
+box-shadow:0 15px 35px rgba(0,0,0,.08);
+transition:.35s;
+}
+
+.patientCard:hover{
+transform:translateY(-8px);
+box-shadow:0 20px 45px rgba(37,99,235,.2);
+}
+
+.patientTop{
+display:flex;
+align-items:center;
+gap:18px;
+margin-bottom:25px;
+}
+
+.avatar{
+font-size:65px;
+color:#2563eb;
+}
+
+.patientTop h3{
+margin:0;
+font-size:22px;
+color:#1e293b;
+}
+
+.patientTop span{
+font-size:13px;
+color:#64748b;
+}
+
+.patientInfo{
+display:grid;
+gap:16px;
+}
+
+.patientInfo div{
+display:flex;
+align-items:center;
+gap:12px;
+padding:12px;
+background:#f8fafc;
+border-radius:12px;
+font-size:15px;
+color:#475569;
+}
+
+.patientInfo span{
+font-weight:500;
+}
+
+@media(max-width:768px){
+
+.recentPatients{
+padding:20px;
+}
+
+.recentHeader{
+flex-direction:column;
+align-items:flex-start;
+}
+
+.searchBox{
+width:100%;
+}
+
+.searchBox input{
+width:100%;
+}
+
+.patientsGrid{
+grid-template-columns:1fr;
+}
+
+}

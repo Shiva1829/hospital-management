@@ -1,0 +1,26 @@
+# Node
+node_modules/
+node_modules
+dist/
+build/
+coverage/
+*.log
+
+# Environment variables
+.env
+backend/config.env
+.env.local
+.env.production
+
+# Python virtual environment
+venv/
+env/
+ai_server/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor & OS
+.vscode/
+.DS_Store
+Thumbs.db
