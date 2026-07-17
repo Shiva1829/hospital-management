@@ -24,3 +24,10 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# AI model files (too large for GitHub)
+ai_server/models/
+*.h5
+*.pkl
+*.pt
+*.pth
