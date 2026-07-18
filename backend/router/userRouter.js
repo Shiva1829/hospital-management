@@ -78,6 +78,12 @@ router.post(
 // POST /api/v1/user/admin/addnew
 // ===========================================
 
+// TEMPORARY ROUTE - DELETE AFTER FIRST ADMIN CREATED
+router.post(
+    "/admin/setup",
+    addNewAdmin
+);
+
 router.post(
 
     "/admin/addnew",
