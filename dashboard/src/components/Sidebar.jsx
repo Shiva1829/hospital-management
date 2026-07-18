@@ -45,7 +45,7 @@ const handleLogout = async () => {
 try {
 
   const res = await axios.get(
-    "http://localhost:4000/api/v1/user/admin/logout",
+    "https://hospital-backend-28d9.onrender.com/api/v1/user/admin/logout",
     {
       withCredentials: true,
     }

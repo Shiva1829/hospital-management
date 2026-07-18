@@ -39,10 +39,10 @@ const PatientProfile = () => {
 
       const [patientRes, reportsRes, predictionsRes, appointmentsRes] =
         await Promise.all([
-          axios.get(`http://localhost:4000/api/v1/patient/${id}`),
-          axios.get(`http://localhost:4000/api/v1/report/patient/${id}`),
-          axios.get(`http://localhost:4000/api/v1/predictions/patient/${id}`),
-          axios.get(`http://localhost:4000/api/v1/appointment/all`),
+          axios.get(`https://hospital-backend-28d9.onrender.com/api/v1/patient/${id}`),
+          axios.get(`https://hospital-backend-28d9.onrender.com/api/v1/report/patient/${id}`),
+          axios.get(`https://hospital-backend-28d9.onrender.com/api/v1/predictions/patient/${id}`),
+          axios.get(`https://hospital-backend-28d9.onrender.com/api/v1/appointment/all`),
         ]);
 
       setPatient(patientRes.data.patient);

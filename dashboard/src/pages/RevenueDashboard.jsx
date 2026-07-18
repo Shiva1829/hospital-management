@@ -27,13 +27,13 @@ const RevenueDashboard = () => {
       setLoading(true);
 
       const revenueResponse = await axios.get(
-        "http://localhost:4000/api/v1/revenue/all"
+        "https://hospital-backend-28d9.onrender.com/api/v1/revenue/all"
       );
 
       setData(revenueResponse.data.revenue || []);
 
       const totalResponse = await axios.get(
-        "http://localhost:4000/api/v1/revenue/total"
+        "https://hospital-backend-28d9.onrender.com/api/v1/revenue/total"
       );
 
       setTotalRevenue(totalResponse.data.totalRevenue || 0);

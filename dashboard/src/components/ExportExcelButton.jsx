@@ -23,7 +23,7 @@ const ExportExcelButton = ({ predictions = [] }) => {
 
       const response = await axios.post(
 
-        "http://localhost:4000/api/v1/excel/export",
+        "https://hospital-backend-28d9.onrender.com/api/v1/excel/export",
 
         predictions,
 

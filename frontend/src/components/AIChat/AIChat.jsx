@@ -61,7 +61,7 @@ const AIChat = () => {
 
       const res = await axios.post(
 
-        "http://localhost:4000/api/v1/chatbot/chat",
+        "https://hospital-backend-28d9.onrender.com/api/v1/chatbot/chat",
 
         {
 
@@ -120,7 +120,7 @@ const AIChat = () => {
 
       await axios.post(
 
-        "http://localhost:4000/api/v1/chatbot/clear",
+        "https://hospital-backend-28d9.onrender.com/api/v1/chatbot/clear",
 
         {
 

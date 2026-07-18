@@ -27,7 +27,7 @@ const Patients = () => {
     try {
 
       const response = await axios.get(
-        "http://localhost:4000/api/v1/patient/all"
+        "https://hospital-backend-28d9.onrender.com/api/v1/patient/all"
       );
 
       setPatients(response.data.patients);
@@ -53,7 +53,7 @@ const Patients = () => {
       }
 
       const response = await axios.get(
-        `http://localhost:4000/api/v1/patient/search/${search}`
+        `https://hospital-backend-28d9.onrender.com/api/v1/patient/search/${search}`
       );
 
       setPatients(response.data.patients);

@@ -28,7 +28,7 @@ const PredictionHistory = () => {
     try {
 
       const { data } = await axios.get(
-        "http://localhost:4000/api/v1/prediction/all"
+        "https://hospital-backend-28d9.onrender.com/api/v1/prediction/all"
       );
 
       setHistory(data.predictions);
@@ -50,7 +50,7 @@ const PredictionHistory = () => {
     try {
 
       await axios.delete(
-        `http://localhost:4000/api/v1/prediction/delete/${id}`
+        `https://hospital-backend-28d9.onrender.com/api/v1/prediction/delete/${id}`
       );
 
       fetchPredictions();

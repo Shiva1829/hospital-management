@@ -36,7 +36,7 @@ const RecentPatients = () => {
   const fetchPatients = async () => {
     try {
       const { data } = await axios.get(
-        "http://localhost:4000/api/v1/patient/recent"
+        "https://hospital-backend-28d9.onrender.com/api/v1/patient/recent"
       );
 
       setPatients(data.patients || []);

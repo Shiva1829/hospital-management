@@ -24,7 +24,7 @@ const SearchPatient = ({ setPatients }) => {
 
       const { data } = await axios.get(
 
-        `http://localhost:4000/api/v1/patient/search/${keyword}`
+        `https://hospital-backend-28d9.onrender.com/api/v1/patient/search/${keyword}`
 
       );
 

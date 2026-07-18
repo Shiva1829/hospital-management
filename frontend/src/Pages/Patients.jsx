@@ -25,7 +25,7 @@ const Patients = () => {
     try {
 
       const { data } = await axios.get(
-        "http://localhost:4000/api/v1/patient/getall"
+        "https://hospital-backend-28d9.onrender.com/api/v1/patient/getall"
       );
 
       setPatients(data.patients);

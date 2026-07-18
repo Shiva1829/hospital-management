@@ -23,7 +23,7 @@ const UploadReport = () => {
     const fetchPatients = async () => {
       try {
         const { data } = await axios.get(
-          "http://localhost:4000/api/v1/patient/all"
+          "https://hospital-backend-28d9.onrender.com/api/v1/patient/all"
         );
         setPatients(data.patients || []);
       } catch (error) {
@@ -59,7 +59,7 @@ const UploadReport = () => {
       formData.append("doctorName", doctorName);
 
       const { data } = await axios.post(
-        "http://localhost:4000/api/v1/report/upload",
+        "https://hospital-backend-28d9.onrender.com/api/v1/report/upload",
         formData,
         {
           headers: { "Content-Type": "multipart/form-data" },
