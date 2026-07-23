@@ -29,10 +29,9 @@ const HeartDiseasePrediction = () => {
       formData.append("file", file);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/heart-image",
-        formData
-      );
-
+            "https://incentives-threatened-gba-characteristics.trycloudflare.com/heart-Image",
+            formData
+);
       setResult(response.data);
 
     } catch (error) {

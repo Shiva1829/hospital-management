@@ -36,7 +36,7 @@ const XrayAnalysis = () => {
       formData.append("file", file);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/xray",
+        "https://incentives-threatened-gba-characteristics.trycloudflare.com/xray",
         formData
       );
 

@@ -34,7 +34,7 @@ const OCRReader = () => {
       formData.append("file", file);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/ocr",
+        "https://incentives-threatened-gba-characteristics.trycloudflare.com/ocr",
         formData
       );
 

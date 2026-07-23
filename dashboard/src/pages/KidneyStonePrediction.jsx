@@ -27,7 +27,7 @@ const KidneyStonePrediction = () => {
       formData.append("file", file);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/kidney",
+        "https://incentives-threatened-gba-characteristics.trycloudflare.com/kidney-Image",
         formData
       );
 

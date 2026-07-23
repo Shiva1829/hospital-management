@@ -32,7 +32,7 @@ const CancerPrediction = () => {
       formData.append("file", file);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/cancer",
+        "https://incentives-threatened-gba-characteristics.trycloudflare.com/cancer-detection-Image",
         formData
       );
 
