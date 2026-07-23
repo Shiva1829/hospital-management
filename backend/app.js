@@ -53,12 +53,25 @@ dbConnection();
 
 app.use(
   cors({
-    origin: [
-      process.env.FRONTEND_URL,
-      process.env.DASHBOARD_URL,
-      "http://localhost:5173",
-      "http://localhost:3000",
-    ].filter(Boolean),
+    origin: function (origin, callback) {
+      const allowedOrigins = [
+        process.env.FRONTEND_URL,
+        process.env.DASHBOARD_URL,
+        "http://localhost:5173",
+        "http://localhost:5174",
+        "http://localhost:3000",
+        "https://hospital-management-theta-two.vercel.app",
+        "https://hospital-management-yquh.vercel.app",
+        "https://hospital-frontend-4qy8.onrender.com",
+        "https://hospital-dashboard-y95n.onrender.com",
+      ].filter(Boolean);
+
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
 
     credentials: true,
 
@@ -67,14 +80,23 @@ app.use(
       "POST",
       "PUT",
       "DELETE",
+      "OPTIONS",
     ],
 
     allowedHeaders: [
       "Content-Type",
       "Authorization",
+      "X-Requested-With",
+      "Accept",
     ],
   })
 );
+
+// ===========================================
+// Handle preflight requests
+// ===========================================
+
+app.options("*", cors());
 
 // ===========================================
 // Middlewares
@@ -96,7 +118,7 @@ app.use(
 );
 
 // ===========================================
-// File Upload (required for docAvatar, reports, etc.)
+// File Upload
 // ===========================================
 
 app.use(
@@ -122,129 +144,80 @@ app.use(
 // ===========================================
 
 app.get("/", (req, res) => {
-
   res.status(200).json({
-
     success: true,
-
-    application:
-      "AI Hospital Management System",
-
+    application: "AI Hospital Management System",
     backend: "Running",
-
-    aiServer:
-      "http://127.0.0.1:8000",
-
+    aiServer: process.env.AI_SERVER_URL || "http://127.0.0.1:8000",
     version: "1.0.0",
-
+    environment: process.env.NODE_ENV,
+    frontendUrl: process.env.FRONTEND_URL,
+    dashboardUrl: process.env.DASHBOARD_URL,
   });
-
 });
 
 // ===========================================
 // Core APIs
 // ===========================================
 
-app.use(
-  "/api/v1/message",
-  messageRouter
-);
-
-app.use(
-  "/api/v1/user",
-  userRouter
-);
-
-app.use(
-  "/api/v1/appointment",
-  appointmentRouter
-);
+app.use("/api/v1/message", messageRouter);
+app.use("/api/v1/user", userRouter);
+app.use("/api/v1/appointment", appointmentRouter);
 
 // ===========================================
 // Patient APIs
 // ===========================================
 
-app.use(
-  "/api/v1/patient",
-  patientRouter
-);
+app.use("/api/v1/patient", patientRouter);
 
 // ===========================================
 // Reports
 // ===========================================
 
-app.use(
-  "/api/v1/report",
-  reportRouter
-);
-
-app.use(
-  "/api/v1/aireports",
-  aiReportRouter
-);
+app.use("/api/v1/report", reportRouter);
+app.use("/api/v1/aireports", aiReportRouter);
 
 // ===========================================
 // AI Modules
 // ===========================================
 
-app.use(
-  "/api/v1/ai",
-  aiRouter
-);
+app.use("/api/v1/ai", aiRouter);
 
 // ===========================================
 // AI Prediction History
 // ===========================================
 
-app.use(
-  "/api/v1/predictions",
-  aiPredictionRouter
-);
+app.use("/api/v1/predictions", aiPredictionRouter);
 
 // ===========================================
 // Notifications
 // ===========================================
 
-app.use(
-  "/api/v1/notification",
-  notificationRouter
-);
+app.use("/api/v1/notification", notificationRouter);
 
 // ===========================================
 // Revenue
 // ===========================================
 
-app.use(
-  "/api/v1/revenue",
-  revenueRouter
-);
+app.use("/api/v1/revenue", revenueRouter);
 
 // ===========================================
 // PDF Reports
 // ===========================================
 
-app.use(
-  "/api/v1/pdf",
-  pdfRouter
-);
+app.use("/api/v1/pdf", pdfRouter);
 
 // ===========================================
 // Excel Reports
 // ===========================================
 
-app.use(
-  "/api/v1/excel",
-  excelRouter
-);
+app.use("/api/v1/excel", excelRouter);
 
 // ===========================================
 // AI Chatbot
 // ===========================================
 
-app.use(
-  "/api/v1/chatbot",
-  chatbotRouter
-);
+app.use("/api/v1/chatbot", chatbotRouter);
 
 // ===========================================
 // Error Middleware
