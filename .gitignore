@@ -8,7 +8,8 @@ coverage/
 
 # Environment variables
 .env
-backend/config.env
+backend/config/config.env
+backend/config/*.env
 .env.local
 .env.production
 
@@ -31,4 +32,3 @@ ai_server/models/
 *.pkl
 *.pt
 *.pth
-
