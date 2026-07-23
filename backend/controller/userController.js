@@ -1,4 +1,3 @@
-
 import { catchAsyncErrors } from "../middlewares/catchAsyncErrors.js";
 import { User } from "../models/userSchema.js";
 import ErrorHandler from "../middlewares/error.js";
@@ -56,12 +55,10 @@ export const login = catchAsyncErrors(async (req, res, next) => {
     return next(new ErrorHandler("Please Fill Full Form!", 400));
   }
 
-  let user = await User.findOne({
-    email,
-  }).select("+password");
+  let user = await User.findOne({ email }).select("+password");
 
   console.log("==================================");
-  console.log("USER FOUND :", user);
+  console.log("USER FOUND :", user ? user.email : "NOT FOUND");
   console.log("==================================");
 
   // ===========================================
@@ -74,33 +71,22 @@ export const login = catchAsyncErrors(async (req, res, next) => {
     password === "admin1234" &&
     role === "Admin"
   ) {
-
     console.log("Creating Default Admin...");
 
     await User.create({
-
       firstName: "Hospital",
-
       lastName: "Administrator",
-
       email: "admin@hospital.com",
-
       phone: "9876543210",
-
       dob: new Date("1995-01-01"),
-
       gender: "Male",
-
       password: "admin1234",
-
       role: "Admin",
-
     });
 
     user = await User.findOne({
       email: "admin@hospital.com",
     }).select("+password");
-
   }
 
   if (!user) {
@@ -108,7 +94,6 @@ export const login = catchAsyncErrors(async (req, res, next) => {
   }
 
   const isPasswordMatch = await user.comparePassword(password);
-  console.log("Password Entered :", password);
   console.log("Password Match :", isPasswordMatch);
 
   if (!isPasswordMatch) {
@@ -120,7 +105,6 @@ export const login = catchAsyncErrors(async (req, res, next) => {
   }
 
   generateToken(user, "Login Successfully!", 200, res);
-
 });
 
 export const addNewAdmin = catchAsyncErrors(async (req, res, next) => {
@@ -271,62 +255,50 @@ export const addNewDoctor = catchAsyncErrors(async (req, res, next) => {
     message: "Doctor registered successfully.",
     doctor,
   });
-
 });
 
 export const getAllDoctors = catchAsyncErrors(async (req, res) => {
 
-  const doctors = await User.find({
-    role: "Doctor",
-  })
+  const doctors = await User.find({ role: "Doctor" })
     .select("-password")
-    .sort({
-      firstName: 1,
-    });
+    .sort({ firstName: 1 });
 
   res.status(200).json({
     success: true,
     totalDoctors: doctors.length,
     doctors,
   });
-
 });
 
 export const logoutAdmin = catchAsyncErrors(async (req, res) => {
-
   res.clearCookie("adminToken", {
     httpOnly: true,
-    sameSite: "lax",
-    secure: false,
+    sameSite: "none",
+    secure: true,
   });
 
   res.status(200).json({
     success: true,
     message: "Admin logged out successfully.",
   });
-
 });
 
 export const logoutPatient = catchAsyncErrors(async (req, res) => {
-
   res.clearCookie("patientToken", {
     httpOnly: true,
-    sameSite: "lax",
-    secure: false,
+    sameSite: "none",
+    secure: true,
   });
 
   res.status(200).json({
     success: true,
     message: "Patient logged out successfully.",
   });
-
 });
 
 export const getUserDetails = catchAsyncErrors(async (req, res) => {
-
   res.status(200).json({
     success: true,
     user: req.user,
   });
-
 });

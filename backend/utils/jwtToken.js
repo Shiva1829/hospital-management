@@ -16,11 +16,8 @@ export const generateToken = (
     // ===========================================
 
     const cookieName =
-
         user.role === "Admin"
-
             ? "adminToken"
-
             : "patientToken";
 
     // ===========================================
@@ -28,7 +25,6 @@ export const generateToken = (
     // ===========================================
 
     const cookieExpireDays =
-
         Number(process.env.COOKIE_EXPIRE) || 7;
 
     // ===========================================
@@ -38,41 +34,19 @@ export const generateToken = (
     res
         .status(statusCode)
         .cookie(cookieName, token, {
-
             expires: new Date(
-
                 Date.now() +
-
-                cookieExpireDays *
-
-                24 *
-
-                60 *
-
-                60 *
-
-                1000
-
+                cookieExpireDays * 24 * 60 * 60 * 1000
             ),
-
             httpOnly: true,
-
-            secure: process.env.NODE_ENV === "production",
-
-            sameSite: "lax"
-
+            secure: true,
+            sameSite: "none"
         })
-
         .json({
-
             success: true,
-
             message,
-
             token,
-
             user
-
         });
 
 };
