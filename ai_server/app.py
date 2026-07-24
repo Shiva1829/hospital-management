@@ -590,3 +590,5 @@ async def brain_tumor_prediction(
 
         # Always remove uploaded image
         remove_upload(file_path)
+        
+        
